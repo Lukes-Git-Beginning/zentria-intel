@@ -81,4 +81,37 @@ claude -p "$(cat "$PROMPT_FILE")" \
 
 EXIT_CODE=$?
 echo "===== [$(date -Iseconds)] ${NAME} finished (exit=${EXIT_CODE}) ====="
+
+# ---------------------------------------------------------------------------
+# Auto-commit + push der Routine-Outputs.
+#
+# Bekannte Output-Verzeichnisse: daily/ weekly/ monthly/ quarterly/ — ausserdem
+# .state/pricing_snapshots/ (einzige .state-Subdir die laut intel-monthly-pricing
+# committet bleibt; alle anderen .state-Files sind in .gitignore).
+#
+# Nur wenn die Routine erfolgreich war (EXIT_CODE=0) und tatsaechlich neue Files
+# geschrieben wurden. Race mit dem Discord-Bot-Pusher wird via pull --rebase
+# --autostash entschaerft. Bei Push-Fail: nur Warnung, kein Routine-Abort.
+# ---------------------------------------------------------------------------
+if [[ $EXIT_CODE -eq 0 ]]; then
+    cd "$REPO_ROOT"
+    git add daily/ weekly/ monthly/ quarterly/ \
+            .state/pricing_snapshots/ 2>/dev/null || true
+    if ! git diff --cached --quiet; then
+        DATE=$(date +%Y-%m-%d)
+        if ! git pull --rebase --autostash origin main; then
+            echo "WARN: pull --rebase failed for ${NAME}, aborting rebase" >&2
+            git rebase --abort 2>/dev/null || true
+        fi
+        if git commit -m "feat(${NAME}): output ${DATE}" --no-verify; then
+            git push origin main || \
+                echo "WARN: push failed for ${NAME} — output committed locally only" >&2
+        else
+            echo "WARN: commit failed for ${NAME}" >&2
+        fi
+    else
+        echo "no new output files for ${NAME}, skipping commit"
+    fi
+fi
+
 exit $EXIT_CODE
