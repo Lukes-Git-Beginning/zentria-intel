@@ -6,6 +6,8 @@ from typing import Any
 
 import feedparser
 
+USER_AGENT = "zentria-intel/0.1 (+https://github.com/Lukes-Git-Beginning/zentria-intel)"
+
 
 def fetch(source: dict[str, Any], since_iso: str | None = None) -> list[dict[str, Any]]:
     """Fetch RSS/Atom-Feed.
@@ -16,7 +18,7 @@ def fetch(source: dict[str, Any], since_iso: str | None = None) -> list[dict[str
     if not url:
         return []
     try:
-        feed = feedparser.parse(url, request_headers={"User-Agent": "zentria-intel/0.1"})
+        feed = feedparser.parse(url, request_headers={"User-Agent": USER_AGENT})
     except Exception as e:
         print(f"[rss] WARN: fetch failed for {url}: {e}")
         return []

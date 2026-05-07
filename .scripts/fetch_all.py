@@ -3,7 +3,7 @@
 CLI-Wrapper fuer Routinen. Routinen rufen das via Subprocess oder direkt via Python-Import.
 
 Usage:
-    python -m .scripts.fetch_all --tier=tier1 --output=daily/2026-05-06-morning-raw.json
+    python .scripts/fetch_all.py --tier=tier1 --output=daily/2026-05-06-morning-raw.json
 """
 
 from __future__ import annotations
@@ -15,13 +15,23 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(REPO_ROOT))
+# .scripts ist ein Punkt-Prefix-Verzeichnis und kann nicht als Package
+# importiert werden. sys.path-Insert macht alle .scripts-Module direkt
+# als Top-Level verfuegbar.
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent
+sys.path.insert(0, str(SCRIPT_DIR))
 
 # pylint: disable=wrong-import-position
-from .scripts import dedup, prefilter, state  # noqa: E402
-from .scripts.adapters import github, hackernews, reddit, rss  # noqa: E402
-from .scripts.load_settings import flatten_feed_sources, load_all_sources, load_settings  # noqa: E402
+import dedup  # noqa: E402
+import prefilter  # noqa: E402
+import state  # noqa: E402
+from adapters import github, hackernews, reddit, rss  # noqa: E402
+from load_settings import (  # noqa: E402
+    flatten_feed_sources,
+    load_all_sources,
+    load_settings,
+)
 
 
 ADAPTERS = {

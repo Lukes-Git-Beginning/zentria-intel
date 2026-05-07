@@ -6,39 +6,45 @@ Privates Intel-Repo fuer das Cosmi-/Zentria-Team. Scannt taeglich (06:00 + 17:00
 
 ## Schnellstart
 
+Voraussetzung: Repo lokal geklont, KMU-Hub-Repo daneben (fuer Slash-Commands `/intel-bootstrap` etc.).
+
 ```bash
-# 1. Repo lokal klonen (bereits geschehen, falls du dies liest)
-git clone git@github.com:Lukes-Git-Beginning/zentria-intel.git ~/Documents/zentria-intel
+# 1. .env aus Template anlegen + ausfuellen
+cp .env.example .env
+# Pflicht: DISCORD_BOT_TOKEN, DISCORD_APPLICATION_ID, DISCORD_GUILD_ID,
+#         DISCORD_USER_ID_LUKE, alle 7 DISCORD_WEBHOOK_*,
+#         GITHUB_PAT, GITHUB_USER_EMAIL, GITHUB_USER_NAME
+#         EMBEDDINGS_ENDPOINT (Ollama bge-m3), PLAYWRIGHT_SERVICE_URL
 
-# 2. Bootstrap im KMU-Hub-Repo
-cd ~/Documents/KMU\ Hub
-# In Claude Code:
-/intel-bootstrap
+# 2. Lokaler Smoke-Test der Pre-Filter-Pipeline (optional)
+python -m venv .scripts/.venv
+.scripts/.venv/Scripts/python.exe -m pip install -r .scripts/requirements.txt
+.scripts/.venv/Scripts/python.exe .scripts/fetch_all.py --tier=tier1 --output=daily/smoke.json
 
-# 3. Discord-Server "Zentria Intel" anlegen + Bot registrieren (User-Aktion):
-# - https://discord.com/developers/applications -> New Application -> Bot -> Reset Token
-# - Bot zum Server einladen mit Scope: bot, applications.commands
-# - Webhook pro Channel anlegen, URLs in .env eintragen
+# 3. Discord-Server "Zentria Intel" anlegen + Bot registrieren
+#    Im KMU-Hub-Repo: /intel-bootstrap --discord (guided Setup)
+#    Required Channels: daily-pulse, evening-deep, friday-report, trends,
+#                       regulation, triggers, bot-commands
 
-# 4. Hetzner-Setup (User-Aktion auf Server):
-# - .bot/ Container deployen
-# - .scripts/headless-chromium/ Container deployen
-# - bge-m3 Embedding-Service via Ollama starten
+# 4. Hetzner-Deployment (Bot-Container + Ollama + Playwright)
+#    docker compose up -d
+#    Voraussetzungen auf Server:
+#    - Ollama mit bge-m3 (`ollama pull bge-m3`)
+#    - Headless-Chromium-Service (z.B. ghcr.io/browserless/chromium)
 
-# 5. Routinen via /schedule registrieren (alle Berliner Zeit)
+# 5. Routinen via /schedule registrieren (KMU-Hub):
+#    /intel-bootstrap --routines
 ```
 
 ## Architektur
 
-5 Schichten + 2 Stufe-5-Layer (siehe `~/.claude/plans/rein-theorpraktisch-wie-gro-luminous-cascade.md`):
+5 Schichten:
 
-1. **Quellen-Ingestion** — RSS, JSON, Reddit-Public-API, HN, ProductHunt, GitHub-Atom, Web-Scrape
-2. **Daily-Scans** — `intel-morning` (Mo–Do 06:00) + `intel-deep` (Mo–Fr 17:00)
-3. **Weekly-Synthese** — `intel-friday` (Fr 05:30, Opus)
-4. **Pick-and-Save** — Discord-Bot mit Buttons/Modals/Reactions/Slash-Commands
-5. **Recall** — `Skill(intel-recall, "<modul>")` plus PostToolUse-Auto-Hook auf Modul-Pfade
-6. **Trend-Detection (S5)** — bge-m3 Embeddings, k-Means-Cluster, Anomalie-Detection
-7. **Trigger-Watch (S5)** — Real-Time Acquisition/Funding/Layoff-Push in `#triggers`
+1. **Quellen-Ingestion** (`.scripts/adapters/`) — RSS, Reddit-Public-API, HN-Firebase, GitHub-Atom, Playwright fuer JS-rendered Seiten
+2. **Pre-Filter-Pipeline** (`.scripts/`) — `fetch_all.py` Orchestrator, SimHash-Dedup (Hamming ≤3), Spam-/KMU-/Marketing-Regex, Pre-Score
+3. **Synthese-Routinen** (`.routines/*.prompt.md`) — `intel-morning`, `intel-deep`, `intel-friday`, `intel-weekend-regulation`, `intel-monday-deepdive`, 3 Monthly + Quarterly + Trigger-Watch
+4. **Discord-Bot** (`.bot/`) — `bot.py` mit 4 Handlern (friday_post, pick_handler, trigger_watch, git_batcher), Buttons + Modals + 3 Slash-Commands
+5. **Recall + Promotion** — `/intel-recall <modul>` (KMU-Hub-Skill) laedt Keepers in Context. `/intel-promote <modul>` synthetisiert Keepers ≥5 ueber ≥3 Wochen zu langlebigen `.knowledge/intel-<modul>.md`-Notes
 
 ## Routinen-Allokation (alle Berliner Zeit)
 
@@ -57,55 +63,45 @@ cd ~/Documents/KMU\ Hub
 ## Verzeichnis-Layout
 
 ```
-sources/        Quellen-Konfiguration (1 YAML pro Modul/Thema)
-daily/          Auto-generiert (morning, evening, regulation)
-weekly/         Friday-Synth-Output
-monthly/        Pricing-Diffs, Job-Signals
+sources/        19 Quellen-YAMLs (14 Module + competitors/themes/regulation/...)
+daily/          Auto-generiert (morning, evening, regulation, trigger)
+weekly/         Friday-Synth-Output (W{week}-T{theme}-i{item} Stable-IDs)
+monthly/        Pricing-Diffs, Job-Signals, Modul-Deepdives
 quarterly/      State-of-CRM-Berichte
-keepers/        Lukes gepickte Insights (Source of Truth fuer Recall)
+keepers/        Gepickte Insights (Source of Truth fuer Recall)
 inspiration/    Inspire-Pool fuer Design-Sessions
-followups/      TODO-Items mit due_at
+followups/      TODO-Items mit followup_due
 promotions/     Vorschlaege fuer Knowledge-Vault-Promotion
-.state/         Watermarks, Embeddings-Cache, Telemetry
-.scripts/       Pre-Filter, Adapters, SimHash-Dedup
-.bot/           Discord-Bot (discord.py, Docker)
+.state/         Watermarks, Embeddings-Cache, Pending-Files (gitignored)
+.scripts/       Pre-Filter-Pipeline + Adapters
+.bot/           Discord-Bot (discord.py + 4 Handler)
 .routines/      Routine-Prompt-Templates
-KEEPERS.md      Pointer-Index aller Keepers
+KEEPERS.md      Pointer-Index aller Keepers (modul-gruppiert)
 INSPIRATION.md  Pointer-Index aller Inspirations
 FOLLOWUPS.md    Pointer-Index aller Followups (sortiert nach due_at)
-settings.yaml   Routinen-Cron-Defs, Hard-Caps, Mute-Listen
+settings.yaml   Routinen-Cron-Defs, Pre-Filter-Regex, Mute-Listen
+docker-compose.yml  Bot-Service (build context Repo-Root)
 ```
 
 ## Pick-Mechaniken (Discord-Native, mehrere Wege)
 
 1. **Buttons** unter jedem Friday-Insight-Embed: 🟢 Keep · 🟡 Followup · 🔵 Inspire · 🔴 Dismiss · 📝 Notiz
-2. **Reactions** auf Embeds (ohne Notiz, schneller): 🟢🟡🔵🔴
-3. **Slash-Commands** im `#bot-commands`: `/intel-pick id:W19-T03-i07 action:keep tags:modul:helpdesk note:"Pflicht 2027"`
-4. **Backup-Repo-Skill** (falls Bot offline): `/intel-pick` im KMU-Hub-Repo
+2. **Slash-Commands** im `#bot-commands`: `/intel-pick id:W19-T03-i07 action:keep tags:modul:helpdesk note:"Pflicht 2027"`
+3. **Backup-Skill** (falls Bot offline): `/intel-pick` im KMU-Hub-Repo
 
 ## Recall in Code-Sessions
 
-```bash
-# On-demand
-/intel-recall helpdesk
-
-# Auto-Hook (aktiv ab Tag 1):
-# Read auf backend/internal/helpdesk/* triggert lautlos Top-3 Keepers in Context
+```
+/intel-recall helpdesk            # Modul-spezifischer Recall
+/intel-recall pricing --days=90   # Thema-spezifisch, Zeitfenster
 ```
 
 ## Pflege-Rituale
 
-- **Freitag-Morgen (~15 min):** Discord-Friday-Report durchklicken, Picks setzen
+- **Freitag (~15 min):** Discord-Friday-Report durchklicken, Picks setzen
 - **Monatlich (~30 min):** Quellen-Liste pruefen, 0-Pick-Quellen muten, neue dazu
 - **Quartalsweise (~1h):** State-of-CRM-Bericht lesen, strategische Anpassungen
 
 ## Externe Kosten
 
-**€0/Monat.** Self-hosted auf existing Hetzner-CPX42 (Headless-Chromium, bge-m3, Discord-Bot-Container).
-
-## Verwandte Pfade
-
-- Plan: `~/.claude/plans/rein-theorpraktisch-wie-gro-luminous-cascade.md`
-- Cosmi-Modul-Matrix: `~/Documents/KMU Hub/docs/MODULES_SCOPE_MATRIX.md`
-- Cosmi-Strategie: `~/Documents/KMU Hub/docs/STRATEGY.md`
-- Knowledge-Vault: `~/Documents/KMU Hub/.knowledge/`
+**€0/Monat.** Self-hosted (Ollama-Embeddings, Browserless-Chromium, Discord-Bot-Container) auf existing Hetzner CPX42.

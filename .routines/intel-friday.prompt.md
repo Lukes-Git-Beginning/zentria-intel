@@ -204,7 +204,15 @@ Run-OK. Pool 42%. Naechster Mo-Lauf: morning 06:00 + monday-deepdive 08:00.
 
 - **Pflichtsektionen:** Top-5, alle 14 Module (auch wenn "stille Woche"), "Was andere besser machen" min 5, "Was widerspricht Strategie" min 3.
 - **Stable IDs:** Pro Cluster `W{week}-T{theme:02d}-i{item:02d}`. Persistent ueber Picks hinweg.
-- **Discord-Push:** Wenn `DISCORD_WEBHOOK_FRIDAY_REPORT`: triggere Bot-Hook (schreibe `.state/discord_push_pending.json`), Bot postet pro Insight ein Embed mit Buttons.
+- **Discord-Push:** Wenn `DISCORD_WEBHOOK_FRIDAY_REPORT` gesetzt: schreibe `.state/discord_push_pending.json` mit exaktem Schema:
+  ```json
+  {
+    "filename": "<basename relativ zu weekly/, z.B. 2026-W19.md>",
+    "type": "friday",
+    "written_at": "<ISO-8601 UTC, z.B. 2026-05-08T05:42:13+00:00>"
+  }
+  ```
+  Bot pollt alle 30s, parst `weekly/<filename>` per Stable-ID-Header-Regex (`^#{1,3}\s+W\d+-T\d+-i\d+...`), postet Top-5 als einzelne Embeds mit 5-Buttons-View (🟢/🟡/🔵/🔴/📝) in `#friday-report`. **Nur `filename` ist zwingend** — `type`/`written_at` dienen Diagnostik.
 - **Hard-Output-Cap 60000 Tokens.** Bei Ueberschreitung: kuerze Modul-Kapitel zuerst (Stille Module mergen).
 - **Pool-Threshold-Abort 10%.** Bei Abort: schreibe Top-5 + min. Modul-Stub + DEFERRED-Marker, sende Push "Friday-Synth abgebrochen — Defer auf naechste Woche". Push-Notification an Luke.
 - **Anti-Slop-Gate:** Wenn weniger als 50 Items in der Woche: gib Friday-Slop-Warnung im Header und schlage vor: "Tier-1-Quellen-Liste pruefen".

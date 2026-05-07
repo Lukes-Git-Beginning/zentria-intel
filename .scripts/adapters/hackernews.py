@@ -7,6 +7,8 @@ from typing import Any
 import requests
 
 API_BASE = "https://hacker-news.firebaseio.com/v0"
+USER_AGENT = "zentria-intel/0.1 (+https://github.com/Lukes-Git-Beginning/zentria-intel)"
+HEADERS = {"User-Agent": USER_AGENT}
 
 
 def fetch(source: dict[str, Any], since_iso: str | None = None) -> list[dict[str, Any]]:
@@ -15,7 +17,7 @@ def fetch(source: dict[str, Any], since_iso: str | None = None) -> list[dict[str
     keywords = source.get("keywords_must_match_any", [])
 
     try:
-        resp = requests.get(f"{API_BASE}/topstories.json", timeout=10)
+        resp = requests.get(f"{API_BASE}/topstories.json", headers=HEADERS, timeout=10)
         resp.raise_for_status()
     except requests.RequestException as e:
         print(f"[hackernews] WARN: topstories failed: {e}")
@@ -26,7 +28,7 @@ def fetch(source: dict[str, Any], since_iso: str | None = None) -> list[dict[str
 
     for hn_id in ids:
         try:
-            r = requests.get(f"{API_BASE}/item/{hn_id}.json", timeout=5)
+            r = requests.get(f"{API_BASE}/item/{hn_id}.json", headers=HEADERS, timeout=5)
             r.raise_for_status()
             item = r.json()
         except requests.RequestException:
