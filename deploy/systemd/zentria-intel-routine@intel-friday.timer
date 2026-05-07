@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-friday (Fr 05:30 Berlin, Opus)
+
+[Timer]
+OnCalendar=Fri *-*-* 05:30:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-friday.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

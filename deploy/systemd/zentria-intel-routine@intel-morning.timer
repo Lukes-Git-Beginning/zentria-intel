@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-morning (Mo-Do 06:00 Berlin)
+
+[Timer]
+OnCalendar=Mon..Thu *-*-* 06:00:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-morning.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

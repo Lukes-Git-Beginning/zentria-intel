@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-deep (Mo-Fr 17:00 Berlin)
+
+[Timer]
+OnCalendar=Mon..Fri *-*-* 17:00:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-deep.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-weekend-regulation (Sa 09:00 Berlin)
+
+[Timer]
+OnCalendar=Sat *-*-* 09:00:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-weekend-regulation.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

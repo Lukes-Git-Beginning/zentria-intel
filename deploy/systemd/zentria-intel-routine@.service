@@ -1,0 +1,19 @@
+[Unit]
+Description=zentria-intel routine: %i
+After=network-online.target docker.service ollama.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/zentria-intel
+EnvironmentFile=/opt/zentria-intel/.env
+User=deploy
+Group=deploy
+ExecStart=/opt/zentria-intel/.scripts/run-routine.sh %i
+StandardOutput=append:/var/log/zentria-intel/%i.log
+StandardError=append:/var/log/zentria-intel/%i.log
+TimeoutStartSec=2h
+Nice=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-monday-deepdive (Mo 08:00 Berlin, Opus)
+
+[Timer]
+OnCalendar=Mon *-*-* 08:00:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-monday-deepdive.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target

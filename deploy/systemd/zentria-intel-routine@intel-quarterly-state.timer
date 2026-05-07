@@ -1,0 +1,11 @@
+[Unit]
+Description=Timer: intel-quarterly-state (Q1-Q4 06:00 Berlin, Opus)
+
+[Timer]
+OnCalendar=*-01,04,07,10-01 06:00:00 Europe/Berlin
+Persistent=true
+Unit=zentria-intel-routine@intel-quarterly-state.service
+RandomizedDelaySec=60
+
+[Install]
+WantedBy=timers.target
