@@ -4,6 +4,9 @@ services:
       context: .
       dockerfile: .bot/Dockerfile
     env_file: .env
+    # Match Hetzner deploy-UID (id deploy → 1000:1000) so git commits in /app
+    # don't end up root-owned and block subsequent `git pull` from the deploy user.
+    user: "1000:1000"
     volumes:
       - .:/app:rw
     restart: unless-stopped

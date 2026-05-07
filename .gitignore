@@ -18,6 +18,7 @@
 .state/trigger_pending.json*
 .state/friday_watch.json
 .state/hot_items_*.json
+.state/*-raw-*.json
 
 # Raw-Cache (gzip JSON pro Tag, kein Repo-State)
 raw/
