@@ -30,8 +30,8 @@ if [[ -f "${REPO_ROOT}/.env" ]]; then
     set +a
 fi
 
-if [[ -z "${ANTHROPIC_API_KEY:-}" ]]; then
-    echo "ERROR: ANTHROPIC_API_KEY nicht gesetzt (in .env?)" >&2
+if [[ -z "${ANTHROPIC_API_KEY:-}" && -z "${CLAUDE_CODE_OAUTH_TOKEN:-}" ]]; then
+    echo "ERROR: weder ANTHROPIC_API_KEY noch CLAUDE_CODE_OAUTH_TOKEN gesetzt (in .env?)" >&2
     exit 3
 fi
 
