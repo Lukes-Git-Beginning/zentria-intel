@@ -11,6 +11,13 @@
 .state/watermarks.json
 .state/deepdive_rotation.json
 .state/*.lock
+.state/bot_errors.log
+.state/bot_heartbeat.txt
+.state/discord_messages.json
+.state/discord_push_pending.json*
+.state/trigger_pending.json*
+.state/friday_watch.json
+.state/hot_items_*.json
 
 # Raw-Cache (gzip JSON pro Tag, kein Repo-State)
 raw/
