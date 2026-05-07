@@ -1,0 +1,62 @@
+module: rapporte
+description: "Arbeitsrapporte (Stunden, Foto-Belege, GPS, Approval-Flow). Handwerk-Pilot."
+priority: tier2
+modul_link: backend/internal/rapporte/
+themes_relevant: [ux-design-patterns]
+
+competitors:
+  - name: TimeTac
+    feeds:
+      - url: https://www.timetac.com/de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: ZEP
+    feeds:
+      - url: https://www.zep.de/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: Crewmeister
+    feeds:
+      - url: https://www.crewmeister.com/de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: mobiel
+    feeds: []
+    note: "Kein RSS — Web-Scrape erwaegen"
+
+  - name: Clockify
+    feeds:
+      - url: https://clockify.me/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Toggl
+    feeds:
+      - url: https://blog.toggl.com/feed/
+        type: rss
+        trust: 6
+
+  - name: Harvest
+    feeds:
+      - url: https://www.getharvest.com/blog/feed
+        type: rss
+        trust: 6
+
+keywords_must_match_any:
+  - zeiterfassung
+  - work report
+  - timesheet
+  - arbeitsrapport
+  - stundenrapport
+  - approval workflow
+  - photo evidence
+
+watch_topics:
+  - "GPS-Tracking-Compliance (DSGVO)"
+  - "Foto-Belege auf Mobile (UX)"
+  - "Approval-Workflows (Mehrstufig)"
+  - "Offline-Mode auf Baustellen"
+  - "Mobile-PWA-Erfahrungen"

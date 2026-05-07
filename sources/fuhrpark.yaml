@@ -1,0 +1,51 @@
+module: fuhrpark
+description: "Fahrzeug-Mgmt, TUeV-Reminder, Service-History, Schaden-Meldungen."
+priority: tier2
+modul_link: backend/internal/fuhrpark/
+themes_relevant: []
+
+competitors:
+  - name: Vimcar
+    feeds:
+      - url: https://vimcar.de/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: fleet+
+    feeds: []
+    note: "Kein RSS — Web-Scrape /aktuelles/"
+
+  - name: Avrios
+    feeds:
+      - url: https://www.avrios.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Fleethouse
+    feeds: []
+    note: "Kein RSS"
+
+  - name: Webfleet (Bridgestone)
+    feeds:
+      - url: https://www.webfleet.com/de_de/webfleet/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Volvo Connect
+    feeds: []
+    note: "OEM-Telematik — strategisches Beobachten"
+
+keywords_must_match_any:
+  - fuhrpark
+  - fleet management
+  - vehicle service
+  - fahrtenbuch
+  - tuev reminder
+  - vehicle damage
+
+watch_topics:
+  - "Elektromobilitaet-Integration (Ladestand)"
+  - "Fahrtenbuch-Konformitaet (FahrtenbuchG)"
+  - "Telematik-Standards (FMS)"
+  - "Schaden-Meldungs-UX (Foto + GPS)"
+  - "EV-Charging-Tracking"

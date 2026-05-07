@@ -1,0 +1,164 @@
+# zentria-intel settings — Routinen-Cron, Hard-Caps, Mute-Listen
+# Geladen von Routine-Prompts via .scripts/load_settings.py
+
+timezone: Europe/Berlin
+
+routines:
+  intel-morning:
+    cron: "0 6 * * 1-4"          # Mo-Do 06:00 Berlin
+    model: claude-sonnet-4-6
+    max_output_tokens: 25000
+    max_runtime_minutes: 30
+    pool_threshold_abort: 0.20    # Abort wenn 5h-Pool < 20% rest
+    output_dir: daily/
+    output_suffix: morning
+
+  intel-deep:
+    cron: "0 17 * * 1-5"          # Mo-Fr 17:00 Berlin
+    model: claude-sonnet-4-6
+    max_output_tokens: 35000
+    max_runtime_minutes: 45
+    pool_threshold_abort: 0.15
+    output_dir: daily/
+    output_suffix: evening
+
+  intel-friday:
+    cron: "30 5 * * 5"            # Fr 05:30 Berlin
+    model: claude-opus-4-7
+    max_output_tokens: 60000
+    max_runtime_minutes: 90
+    pool_threshold_abort: 0.10
+    output_dir: weekly/
+    output_pattern: "{year}-W{week}.md"
+
+  intel-weekend-regulation:
+    cron: "0 9 * * 6"             # Sa 09:00 Berlin
+    model: claude-sonnet-4-6
+    max_output_tokens: 20000
+    max_runtime_minutes: 25
+    pool_threshold_abort: 0.20
+    output_dir: daily/
+    output_suffix: regulation
+
+  intel-monday-deepdive:
+    cron: "0 8 * * 1"             # Mo 08:00 Berlin
+    model: claude-opus-4-7
+    max_output_tokens: 40000
+    max_runtime_minutes: 60
+    pool_threshold_abort: 0.15
+    rotation_modules:
+      - crm-core
+      - dialer
+      - video
+      - wiki
+      - helpdesk
+      - formulare
+      - vertraege
+      - buchhaltung
+      - rapporte
+      - schichten
+      - fuhrpark
+      - vermietung
+      - inventar
+      - einkauf
+      - produktion
+    rotation_state_file: .state/deepdive_rotation.json
+
+  intel-monthly-pricing:
+    cron: "0 6 1 * *"             # 1. d.M. 06:00 Berlin
+    model: claude-sonnet-4-6
+    max_output_tokens: 30000
+    max_runtime_minutes: 40
+    pool_threshold_abort: 0.20
+    output_dir: monthly/
+    output_pattern: "{year}-{month:02d}-pricing.md"
+
+  intel-monthly-jobs:
+    cron: "0 7 15 * *"            # 15. d.M. 07:00 Berlin
+    model: claude-sonnet-4-6
+    max_output_tokens: 30000
+    max_runtime_minutes: 40
+    pool_threshold_abort: 0.20
+    output_dir: monthly/
+    output_pattern: "{year}-{month:02d}-jobs-and-reviews.md"
+
+  intel-quarterly-state:
+    cron: "0 6 1 1,4,7,10 *"      # Q1/Q2/Q3/Q4 1. d.M. 06:00 Berlin
+    model: claude-opus-4-7
+    max_output_tokens: 80000
+    max_runtime_minutes: 120
+    pool_threshold_abort: 0.10
+    output_dir: quarterly/
+    output_pattern: "{year}-Q{quarter}.md"
+
+  intel-trigger-watch:
+    cron: null                    # nur on-demand / hook-getriggert
+    model: claude-sonnet-4-6
+    max_output_tokens: 15000
+    max_runtime_minutes: 15
+    pool_threshold_abort: 0.25
+    discord_channel: triggers
+
+# Token-Optimierung
+optimization:
+  watermarks_file: .state/watermarks.json
+  embeddings_db: .state/embeddings.sqlite
+  embeddings_model: bge-m3-self-hosted
+  embeddings_endpoint: http://localhost:11434/api/embeddings  # Ollama default
+  simhash_threshold: 3            # Hamming-distance fuer Dedup
+  prompt_cache_ttl_hours: 1       # ENABLE_PROMPT_CACHING_1H
+  tier1_quellen_max: 50           # Daily Hot-Quellen
+  tier2_rotation:                 # Wochentags-Rotation
+    monday:    [tech-trends, ai-in-crm]
+    tuesday:   [helpdesk, crm-core]
+    wednesday: [buchhaltung, vertraege, formulare]
+    thursday:  [rapporte, schichten, fuhrpark, vermietung, inventar, einkauf, produktion]
+    friday:    [wiki, video, dialer, dach-kmu-magazines]
+
+# Pre-Filter (LLM-frei, vor Routine-Run)
+prefilter:
+  spam_regex:
+    - "(?i)(MSCI World|Bitcoin Kurs|Aktien-Tip|Crypto)"
+    - "(?i)(Webinar zur|Anmeldung jetzt|Whitepaper Download)"
+    - "(?i)(Black Friday|Cyber Monday|Sale)"
+  kmu_irrelevance:
+    - "(?i)(IPO|Boersengang|Quartalszahlen)"
+    - "(?i)(Marvel|Disney|Hollywood)"
+  marketing_pure_push:
+    - "(?i)^(Get started|Try free|Sign up)"
+
+# Mute-Listen (Quellen die in 3 Wochen 0 Picks hatten)
+muted_sources: []
+
+# Discord-Channels
+discord:
+  webhooks_env_prefix: DISCORD_WEBHOOK_  # z.B. DISCORD_WEBHOOK_FRIDAY_REPORT
+  channels:
+    - daily-pulse
+    - evening-deep
+    - friday-report
+    - trends
+    - regulation
+    - triggers
+    - bot-commands
+  embeds_per_message_max: 10       # Discord-Limit
+  rate_limit_buffer_seconds: 0.5   # Spacing zwischen Embeds
+
+# Bot-Konfiguration
+bot:
+  poll_interval_seconds: 30        # Polls Repo fuer neue Reports
+  push_batch_window_seconds: 60    # Batched Picks vor Git-Push
+  health_heartbeat_seconds: 300
+
+# PII-Sanitize-Regeln
+pii:
+  allowed_role_titles:
+    - CEO
+    - Founder
+    - Co-Founder
+    - CTO
+    - VP Engineering
+    - VP Product
+    - Head of
+  redact_email_addresses: true
+  redact_phone_numbers: true

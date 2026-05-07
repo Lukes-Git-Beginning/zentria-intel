@@ -1,0 +1,107 @@
+module: crm-core
+description: "Core-CRM (Pipeline, Deals, Contacts, Forecasting). Cosmi-Herzstueck."
+priority: tier1
+modul_link: backend/internal/crm/
+themes_relevant: [ai-in-crm, eu-cloud-souveraenitaet, mcp-plugins, pricing-trends]
+
+competitors:
+  - name: Pipedrive
+    feeds:
+      - url: https://www.pipedrive.com/en/blog/feed
+        type: rss
+        trust: 8
+      - url: https://github.com/pipedrive/api-docs/releases.atom
+        type: atom
+        trust: 7
+    pricing_url: https://www.pipedrive.com/en/pricing
+    g2_review_url: https://www.g2.com/products/pipedrive/reviews
+    linkedin_jobs_query: "Pipedrive"
+
+  - name: HubSpot
+    feeds:
+      - url: https://blog.hubspot.com/marketing/rss.xml
+        type: rss
+        trust: 8
+      - url: https://product-updates.hubspot.com/rss
+        type: rss
+        trust: 9
+    pricing_url: https://www.hubspot.com/pricing/sales
+
+  - name: Salesforce
+    feeds:
+      - url: https://www.salesforce.com/news/feed/
+        type: rss
+        trust: 7
+    pricing_url: https://www.salesforce.com/sales/pricing/
+
+  - name: monday.com
+    feeds:
+      - url: https://monday.com/blog/feed/
+        type: rss
+        trust: 7
+    pricing_url: https://monday.com/pricing
+
+  - name: Zoho
+    feeds:
+      - url: https://www.zoho.com/blog/feed/atom
+        type: atom
+        trust: 6
+
+  - name: Bexio
+    feeds:
+      - url: https://www.bexio.com/de-CH/blog/feed
+        type: rss
+        trust: 8
+    pricing_url: https://www.bexio.com/de-DE/preise
+    note: "DACH-Direkt-Konkurrent #1"
+
+  - name: Centralstation CRM
+    feeds:
+      - url: https://centralstationcrm.com/blog/feed
+        type: rss
+        trust: 7
+
+  - name: Odoo
+    feeds:
+      - url: https://www.odoo.com/blog/our-blog-1/rss
+        type: rss
+        trust: 7
+      - url: https://github.com/odoo/odoo/releases.atom
+        type: atom
+        trust: 8
+
+  - name: Twenty
+    feeds:
+      - url: https://github.com/twentyhq/twenty/releases.atom
+        type: atom
+        trust: 8
+    note: "Architektonisch sehr modern — beobachten"
+
+  - name: EspoCRM
+    feeds:
+      - url: https://github.com/espocrm/espocrm/releases.atom
+        type: atom
+        trust: 7
+
+  - name: SuiteCRM
+    feeds:
+      - url: https://github.com/salesagility/SuiteCRM/releases.atom
+        type: atom
+        trust: 6
+
+keywords_must_match_any:
+  - crm
+  - sales pipeline
+  - deal forecasting
+  - lead scoring
+  - sales engagement
+  - revenue operations
+  - rev ops
+
+watch_topics:
+  - "AI sales drafts"
+  - "Auto-Logging"
+  - "Forecasting-Algorithmen"
+  - "MEDDPICC, BANT"
+  - "Sales-Cadences"
+  - "AI-SDR"

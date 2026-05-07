@@ -1,0 +1,71 @@
+module: helpdesk
+description: "Ticketing, SLA, Queues, Canned Responses, Auto-Triage."
+priority: tier1
+modul_link: backend/internal/helpdesk/
+themes_relevant: [ai-in-crm, ux-design-patterns]
+
+competitors:
+  - name: Zendesk
+    feeds:
+      - url: https://www.zendesk.com/blog/feed/
+        type: rss
+        trust: 8
+    pricing_url: https://www.zendesk.com/pricing/
+    g2_review_url: https://www.g2.com/products/zendesk-support-suite/reviews
+
+  - name: Freshdesk
+    feeds:
+      - url: https://www.freshworks.com/freshdesk/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Zammad
+    feeds:
+      - url: https://github.com/zammad/zammad/releases.atom
+        type: atom
+        trust: 8
+    note: "DACH-Open-Source — direkter architektonischer Vergleich"
+
+  - name: HelpScout
+    feeds:
+      - url: https://www.helpscout.com/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Front
+    feeds:
+      - url: https://front.com/blog/rss.xml
+        type: rss
+        trust: 7
+    note: "Inbox-First Helpdesk"
+
+  - name: Intercom
+    feeds:
+      - url: https://www.intercom.com/blog/feed/
+        type: rss
+        trust: 8
+
+  - name: OTRS
+    feeds:
+      - url: https://otrs.com/feed/
+        type: rss
+        trust: 5
+    note: "DACH-Legacy-Helpdesk"
+
+keywords_must_match_any:
+  - helpdesk
+  - ticket management
+  - sla
+  - canned response
+  - auto-triage
+  - ticket routing
+  - customer service automation
+  - ai drafts
+
+watch_topics:
+  - "Auto-Triage AI (Topic-Klassifikation)"
+  - "AI-Drafts fuer Agent-Antworten"
+  - "SLA-Engines + Eskalations-Logik"
+  - "Inbox-First-Modell vs Klassisch"
+  - "Multi-Channel-Inbox (Email/Chat/Voice)"
+  - "Sentiment-Analyse auf Tickets"

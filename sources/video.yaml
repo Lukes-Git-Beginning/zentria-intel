@@ -1,0 +1,59 @@
+module: video
+description: "Video-Meetings + Recording (LiveKit-basiert). Recording-Consent-Flow."
+priority: tier2
+modul_link: backend/internal/work/
+themes_relevant: [webrtc-realtime, eu-cloud-souveraenitaet, ai-in-crm]
+
+competitors:
+  - name: LiveKit
+    feeds:
+      - url: https://blog.livekit.io/rss/
+        type: rss
+        trust: 9
+      - url: https://github.com/livekit/livekit/releases.atom
+        type: atom
+        trust: 9
+    note: "Tech-Partner, kein Konkurrent — Updates fuer Cosmi-Stack"
+
+  - name: Whereby
+    feeds:
+      - url: https://whereby.com/blog/rss
+        type: rss
+        trust: 6
+
+  - name: Daily.co
+    feeds:
+      - url: https://www.daily.co/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Jitsi
+    feeds:
+      - url: https://github.com/jitsi/jitsi-meet/releases.atom
+        type: atom
+        trust: 7
+    note: "Self-hosted SFU-Vergleichsprodukt"
+
+  - name: BigBlueButton
+    feeds:
+      - url: https://github.com/bigbluebutton/bigbluebutton/releases.atom
+        type: atom
+        trust: 6
+    note: "EU-Bildung-Standard, Self-Hosting-Vorbild"
+
+keywords_must_match_any:
+  - webrtc
+  - video meeting
+  - recording consent
+  - sfu
+  - mediasoup
+  - e2ee video
+  - turn server
+  - stun
+
+watch_topics:
+  - "Recording-Consent-UX (Join-with-Consent vs Banner)"
+  - "E2EE im SFU-Kontext"
+  - "EU-Self-Host-LiveKit-Setups"
+  - "Whisper-Auto-Transkription nach Meeting"
+  - "Browser-WebRTC-Updates Chrome/Safari"

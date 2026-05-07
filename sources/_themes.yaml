@@ -1,0 +1,100 @@
+# Quer-Themen die alle Module beruehren.
+# Wird von intel-deep & intel-friday referenziert fuer Cross-Modul-Synthese.
+
+themes:
+  - id: ai-in-crm
+    label: "AI in CRM (Drafts, Triage, Forecasting)"
+    relevance: high
+    cosmi_modules: [crm-core, helpdesk, dialer, video, formulare]
+    keywords: [llm, copilot, autopilot, drafts, triage, autocomplete, agentic, mcp]
+    feeds:
+      - url: https://aitidbits.ai/feed
+        type: rss
+        trust: 7
+      - url: https://www.deeplearning.ai/the-batch/feed/
+        type: rss
+        trust: 8
+
+  - id: eu-cloud-souveraenitaet
+    label: "EU-Datensouveraenitaet, Self-Hosting, GAIA-X"
+    relevance: high
+    cosmi_modules: [cross]    # Cosmi-USP, alle Module
+    keywords: [gaia-x, sovereignty, self-hosted, data residency, eu cloud, gdpr]
+    feeds:
+      - url: https://www.heise.de/rss/heise-atom.xml
+        type: atom
+        trust: 8
+        filter_keywords: [gaia, souverän, cloud, dsgvo]
+      - url: https://www.gaia-x.eu/feed
+        type: rss
+        trust: 9
+
+  - id: mcp-plugins
+    label: "MCP / Plugin-Architekturen"
+    relevance: high
+    cosmi_modules: [cross]    # Cosmi-Plugin-Vision
+    keywords: [mcp, model context protocol, plugin, extension, marketplace, app store]
+    feeds:
+      - url: https://news.ycombinator.com/rss
+        type: rss
+        trust: 6
+        filter_keywords: [mcp, plugin]
+
+  - id: pricing-trends
+    label: "SaaS-Pricing-Modelle, Per-User vs Per-Module"
+    relevance: medium
+    cosmi_modules: [cross]    # Cosmi-Pricing-Strategie
+    keywords: [usage-based, seat-based, per-user, per-module, pricing strategy, ltv]
+    feeds:
+      - url: https://www.priceintelligently.com/blog/rss.xml
+        type: rss
+        trust: 7
+      - url: https://www.lennysnewsletter.com/feed
+        type: rss
+        trust: 8
+
+  - id: onboarding-best-practice
+    label: "User-Onboarding, Activation, Empty-States"
+    relevance: medium
+    cosmi_modules: [cross]
+    keywords: [onboarding, activation, empty state, first run, time to value]
+    feeds:
+      - url: https://growth.design/feed.xml
+        type: rss
+        trust: 8
+      - url: https://www.useronboard.com/feed/
+        type: rss
+        trust: 7
+
+  - id: ux-design-patterns
+    label: "UI/UX-Patterns, Design-Systems"
+    relevance: medium
+    cosmi_modules: [cross]
+    keywords: [design system, component library, ui pattern, micro-interaction]
+    feeds:
+      - url: https://uxdesign.cc/feed
+        type: rss
+        trust: 7
+      - url: https://www.smashingmagazine.com/feed/
+        type: rss
+        trust: 8
+
+  - id: webrtc-realtime
+    label: "WebRTC, TURN/STUN, Real-Time-Audio/Video"
+    relevance: high
+    cosmi_modules: [video, dialer]
+    keywords: [webrtc, sfu, mediasoup, livekit, turn, stun, ice]
+    feeds:
+      - url: https://webrtchacks.com/feed/
+        type: rss
+        trust: 9
+
+  - id: kmu-digitalisierung
+    label: "KMU-Digitalisierung DACH (Foerderprogramme, Trends)"
+    relevance: high
+    cosmi_modules: [cross]    # Zielgruppen-Verstaendnis
+    keywords: [kmu, mittelstand, digitalisierung, foerderung, go-digital, digital jetzt]
+    feeds:
+      - url: https://www.bmwk.de/SiteGlobals/BMWI/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed.xml
+        type: rss
+        trust: 9

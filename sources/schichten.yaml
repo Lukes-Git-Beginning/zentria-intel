@@ -1,0 +1,55 @@
+module: schichten
+description: "Dienstplanung, Schichten, ArbZG-Compliance, Templates."
+priority: tier2
+modul_link: backend/internal/schichten/
+themes_relevant: []
+
+competitors:
+  - name: Papershift
+    feeds:
+      - url: https://papershift.com/de/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Crewmeister
+    feeds:
+      - url: https://www.crewmeister.com/de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: ShyftPlan
+    feeds:
+      - url: https://shyftplan.com/de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: planday
+    feeds:
+      - url: https://www.planday.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: 7shifts
+    feeds:
+      - url: https://www.7shifts.com/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: Sona
+    feeds: []
+    note: "AI-First Workforce-Mgmt — Web-Scrape /blog/"
+
+keywords_must_match_any:
+  - dienstplan
+  - shift planning
+  - arbzg
+  - workforce management
+  - rota management
+  - schichtwechsel
+
+watch_topics:
+  - "ArbZG-§5-Ruhezeit-Engines"
+  - "Tarifvertrag-Templates DACH"
+  - "AI-Schichtoptimierung"
+  - "Schicht-Tausch via Mobile"
+  - "Compliance-Warnings UX"

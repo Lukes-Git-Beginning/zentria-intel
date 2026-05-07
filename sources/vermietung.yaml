@@ -1,0 +1,48 @@
+module: vermietung
+description: "Mietobjekt-Mgmt, Verfuegbarkeit, Inspektionen mit Foto-Belegen."
+priority: tier2
+modul_link: backend/internal/vermietung/
+themes_relevant: []
+
+competitors:
+  - name: Booqable
+    feeds:
+      - url: https://booqable.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Rentle
+    feeds:
+      - url: https://rentle.io/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: EasyRent
+    feeds: []
+    note: "Kein RSS"
+
+  - name: Texada
+    feeds:
+      - url: https://www.texadasoftware.com/blog/feed
+        type: rss
+        trust: 5
+
+  - name: BlueFolder Rental
+    feeds: []
+    note: "Kein RSS"
+
+keywords_must_match_any:
+  - rental management
+  - vermietung
+  - vermietungs-software
+  - rental fleet
+  - inspection protocol
+  - kaution
+  - deposit management
+
+watch_topics:
+  - "Uebergabe-/Ruecknahme-Protokolle (Foto-UX)"
+  - "Online-Buchungs-Workflows"
+  - "Kautions-Handling (DSGVO)"
+  - "Multi-Objekt-Kalender-UX"
+  - "Mobile-Inspektionen"

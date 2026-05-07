@@ -1,0 +1,66 @@
+module: wiki
+description: "Wissens-Wiki mit FTS, Versionierung, Block-Editor (TipTap)."
+priority: tier2
+modul_link: backend/internal/wiki/
+themes_relevant: [ai-in-crm, ux-design-patterns]
+
+competitors:
+  - name: Notion
+    feeds:
+      - url: https://www.notion.so/blog/rss.xml
+        type: rss
+        trust: 8
+
+  - name: Confluence
+    feeds:
+      - url: https://www.atlassian.com/blog/feed/all
+        type: rss
+        trust: 7
+
+  - name: Slab
+    feeds:
+      - url: https://slab.com/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: Outline
+    feeds:
+      - url: https://github.com/outline/outline/releases.atom
+        type: atom
+        trust: 7
+
+  - name: BookStack
+    feeds:
+      - url: https://github.com/BookStackApp/BookStack/releases.atom
+        type: atom
+        trust: 6
+
+  - name: Logseq
+    feeds:
+      - url: https://github.com/logseq/logseq/releases.atom
+        type: atom
+        trust: 6
+
+  - name: Obsidian
+    feeds:
+      - url: https://obsidian.md/changelog/rss
+        type: rss
+        trust: 7
+    note: "Architektur-Vorbild fuer Markdown-/Frontmatter-Modell"
+
+keywords_must_match_any:
+  - knowledge base
+  - wiki
+  - documentation tool
+  - block editor
+  - tiptap
+  - prosemirror
+  - real-time collaboration
+  - rich text editor
+
+watch_topics:
+  - "AI-Search in Wikis"
+  - "Embeddings-basierte Suche"
+  - "Real-Time-Collab (Yjs)"
+  - "Markdown vs Block-Format"
+  - "Mobile Wiki-Editor-UX"

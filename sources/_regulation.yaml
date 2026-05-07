@@ -1,0 +1,78 @@
+# EU-Regulation-Tracker — DSGVO, AI Act, NIS2, XRechnung, GoBD, eIDAS, ArbZG.
+# Wird primaer von intel-weekend-regulation (Sa 09:00) gepollt.
+
+regulation:
+  - id: eur-lex
+    label: "EUR-Lex EU-Recht-Datenbank"
+    feeds:
+      - url: https://eur-lex.europa.eu/EN/display-feeds.do?type=COM&category=N&numTermDocs=10
+        type: rss
+        trust: 10
+    keywords: [data protection, ai act, nis2, e-invoice, vat]
+
+  - id: edpb-newsroom
+    label: "European Data Protection Board (EDPB)"
+    feeds:
+      - url: https://www.edpb.europa.eu/news/news_en?sort_by=created&sort_order=DESC&format=feed
+        type: rss
+        trust: 10
+
+  - id: bfdi-pressemitteilungen
+    label: "Bundesbeauftragter fuer den Datenschutz (BfDI)"
+    feeds:
+      - url: https://www.bfdi.bund.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_Pressemitteilungen.xml
+        type: rss
+        trust: 10
+
+  - id: bsi-warnungen
+    label: "Bundesamt fuer Sicherheit in der Informationstechnik (BSI)"
+    feeds:
+      - url: https://wid.cert-bund.de/content/public/securityAdvisory/rss
+        type: rss
+        trust: 10
+    keywords: [crm, saas, cloud, postgres]
+
+  - id: bsi-pressemitteilungen
+    label: "BSI Pressemitteilungen"
+    feeds:
+      - url: https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed_Presse.xml
+        type: rss
+        trust: 10
+
+  - id: oedp-eaid
+    label: "Europaeischer Datenschutzbeauftragter (EDPS)"
+    feeds:
+      - url: https://www.edps.europa.eu/press-publications/press-news/news_en?format=feed
+        type: rss
+        trust: 9
+
+  - id: e-rechnung-bmwk
+    label: "BMWi/BMWK — XRechnung, e-Rechnung, GoBD"
+    feeds:
+      - url: https://www.e-rechnung-bund.de/rss-feed/
+        type: rss
+        trust: 10
+    keywords: [xrechnung, zugferd, e-rechnung, gobd]
+
+  - id: eaid-arbeitsrecht
+    label: "Bundesarbeitsministerium (BMAS) — ArbZG, Arbeitsrecht"
+    feeds:
+      - url: https://www.bmas.de/SiteGlobals/Functions/RSSFeed/DE/RSS/Pressemitteilungen.xml
+        type: rss
+        trust: 9
+    keywords: [arbzg, schichtarbeit, ruhezeit, mindestlohn]
+
+  - id: cybernews-eu
+    label: "EU-CyberSec, ENISA, NIS2"
+    feeds:
+      - url: https://www.enisa.europa.eu/news/RSS
+        type: rss
+        trust: 9
+
+  - id: noyb
+    label: "noyb.eu — Schrems-Aktivismus, GDPR-Klagen"
+    feeds:
+      - url: https://noyb.eu/en/feed
+        type: rss
+        trust: 8
+    note: "Strategisch wichtig — schrems-Klagen sind Cosmi-USP-Treiber"

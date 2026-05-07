@@ -1,0 +1,45 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# State + Caches (lokal pro Routine-Worker, nicht Repo-State)
+.state/embeddings.sqlite
+.state/embeddings.sqlite-*
+.state/runs.jsonl
+.state/dismissed.jsonl
+.state/watermarks.json
+.state/deepdive_rotation.json
+.state/*.lock
+
+# Raw-Cache (gzip JSON pro Tag, kein Repo-State)
+raw/
+
+# Bot/Container-Build-Artefakte
+.bot/__pycache__/
+.bot/*.pyc
+.bot/.venv/
+.bot/build/
+
+# Scripts
+.scripts/__pycache__/
+.scripts/*.pyc
+.scripts/.venv/
+
+# Claude Code lokale Permission-Allowlist
+.claude/settings.local.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/

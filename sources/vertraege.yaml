@@ -1,0 +1,56 @@
+module: vertraege
+description: "Vertrags-Mgmt, Laufzeiten, Reminders, e-Signatur (Phase D)."
+priority: tier2
+modul_link: backend/internal/vertraege/
+themes_relevant: [eu-cloud-souveraenitaet]
+
+competitors:
+  - name: DocuSign
+    feeds:
+      - url: https://www.docusign.com/blog/feed
+        type: rss
+        trust: 7
+
+  - name: Skribble
+    feeds: []
+    note: "DACH-eIDAS-Player. Web-Scrape /blog/ einrichten."
+
+  - name: PandaDoc
+    feeds:
+      - url: https://www.pandadoc.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Adobe Sign
+    feeds:
+      - url: https://blog.adobe.com/en/topics/sign.atom
+        type: atom
+        trust: 6
+
+  - name: HelloSign (Dropbox Sign)
+    feeds:
+      - url: https://www.dropbox.com/sign/blog/feed
+        type: rss
+        trust: 6
+
+  - name: Concord
+    feeds:
+      - url: https://www.concord.app/blog/feed/
+        type: rss
+        trust: 5
+
+keywords_must_match_any:
+  - contract management
+  - e-signature
+  - eidas
+  - qes
+  - aes
+  - contract lifecycle
+  - clm
+
+watch_topics:
+  - "eIDAS 2.0 + Wallet-Integrationen"
+  - "QES vs AES vs SES — DACH-Unterschiede"
+  - "Vertrags-AI (Klausel-Detektion)"
+  - "Reminder-Engines"
+  - "Bulk-Contract-Generation"

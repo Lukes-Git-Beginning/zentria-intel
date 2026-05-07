@@ -1,0 +1,13 @@
+# Pre-Filter-Pipeline + Adapters
+feedparser>=6.0.10
+PyYAML>=6.0
+requests>=2.31.0
+simhash>=2.1.2
+beautifulsoup4>=4.12.0
+trafilatura>=1.8.0           # HTML->Markdown bessere Qualitaet als markdownify
+python-dateutil>=2.8.2
+markdownify>=0.11.6
+
+# Embeddings (bge-m3 via Ollama, kein extra Package noetig — nur HTTP)
+
+# Discord-Bot wird in .bot/requirements.txt gesondert verwaltet

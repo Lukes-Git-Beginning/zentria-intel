@@ -1,0 +1,429 @@
+# Master-Liste aller getrackten Wettbewerber.
+# Pro Wettbewerber: meta-Info + Tags fuer Cross-Module-Tracking.
+# Detaillierte Feed-Konfiguration steht in den Modul-YAMLs.
+# Seed-Quelle: KMU-Hub docs/STRATEGY.md, .knowledge/pricing.md, .knowledge/integrationen.md.
+
+competitors:
+  # CRM-Core direkte Konkurrenz
+  - name: Pipedrive
+    primary_modules: [crm-core]
+    secondary_modules: [dialer, formulare]
+    home: https://www.pipedrive.com/
+    blog: https://www.pipedrive.com/en/blog
+    pricing_url: https://www.pipedrive.com/en/pricing
+    g2_slug: pipedrive
+    region: international
+    threat_level: high
+
+  - name: HubSpot
+    primary_modules: [crm-core]
+    secondary_modules: [helpdesk, formulare, video]
+    home: https://www.hubspot.com/
+    blog: https://blog.hubspot.com/
+    pricing_url: https://www.hubspot.com/pricing/sales
+    g2_slug: hubspot-crm
+    region: international
+    threat_level: high
+
+  - name: Salesforce
+    primary_modules: [crm-core]
+    secondary_modules: [helpdesk, video, formulare]
+    home: https://www.salesforce.com/
+    blog: https://www.salesforce.com/news/
+    pricing_url: https://www.salesforce.com/sales/pricing/
+    g2_slug: salesforce-crm
+    region: international
+    threat_level: medium    # Enterprise, weniger DACH-KMU
+
+  - name: monday.com
+    primary_modules: [crm-core]
+    secondary_modules: [helpdesk, formulare, schichten, produktion, inventar]
+    home: https://monday.com/
+    blog: https://monday.com/blog/
+    pricing_url: https://monday.com/pricing
+    g2_slug: monday-com
+    region: international
+    threat_level: high
+
+  - name: Zoho
+    primary_modules: [crm-core]
+    secondary_modules: [helpdesk, formulare, buchhaltung]
+    home: https://www.zoho.com/
+    blog: https://www.zoho.com/blog/
+    pricing_url: https://www.zoho.com/crm/pricing.html
+    region: international
+    threat_level: medium
+
+  - name: Bexio
+    primary_modules: [crm-core, buchhaltung]
+    home: https://www.bexio.com/
+    blog: https://www.bexio.com/de-CH/blog
+    pricing_url: https://www.bexio.com/de-DE/preise
+    region: dach              # Schweiz primary, DACH-relevant
+    threat_level: high
+
+  - name: Centralstation CRM
+    primary_modules: [crm-core]
+    home: https://centralstationcrm.com/
+    blog: https://centralstationcrm.com/blog
+    region: dach
+    threat_level: medium
+
+  - name: 1CRM
+    primary_modules: [crm-core]
+    home: https://1crm.com/
+    region: international
+    threat_level: low
+
+  - name: Odoo
+    primary_modules: [crm-core, buchhaltung, einkauf, inventar, produktion]
+    secondary_modules: [helpdesk, formulare, fuhrpark, schichten]
+    home: https://www.odoo.com/
+    blog: https://www.odoo.com/blog
+    pricing_url: https://www.odoo.com/pricing-plan
+    github_org: odoo
+    region: international
+    threat_level: high
+    note: "Open-source, modular wie Cosmi — direktester architektonischer Vergleich"
+
+  - name: weclapp
+    primary_modules: [crm-core, einkauf, inventar, produktion]
+    secondary_modules: [buchhaltung, helpdesk]
+    home: https://www.weclapp.com/
+    blog: https://www.weclapp.com/de/blog/
+    pricing_url: https://www.weclapp.com/de/preise
+    region: dach
+    threat_level: high
+
+  # Telefonie / Dialer
+  - name: Aircall
+    primary_modules: [dialer]
+    home: https://aircall.io/
+    blog: https://aircall.io/blog/
+    region: international
+    threat_level: medium
+
+  - name: JustCall
+    primary_modules: [dialer]
+    home: https://justcall.io/
+    blog: https://justcall.io/blog/
+    region: international
+
+  - name: Dialpad
+    primary_modules: [dialer, video]
+    home: https://www.dialpad.com/
+    blog: https://www.dialpad.com/blog/
+    region: international
+
+  - name: Sipgate
+    primary_modules: [dialer]
+    home: https://www.sipgate.de/
+    region: dach
+    threat_level: medium
+
+  - name: Placetel
+    primary_modules: [dialer]
+    home: https://www.placetel.de/
+    region: dach
+
+  # Video
+  - name: LiveKit
+    primary_modules: [video]
+    home: https://livekit.io/
+    blog: https://blog.livekit.io/
+    github_org: livekit
+    region: international
+    threat_level: low         # Wir nutzen sie als Tech, nicht als Konkurrenz
+    note: "Tech-Partner — Updates beobachten fuer Cosmi-Stack"
+
+  - name: Whereby
+    primary_modules: [video]
+    home: https://whereby.com/
+    region: international
+
+  - name: Daily.co
+    primary_modules: [video]
+    home: https://www.daily.co/
+    blog: https://www.daily.co/blog/
+    region: international
+
+  # Wiki
+  - name: Notion
+    primary_modules: [wiki]
+    secondary_modules: [crm-core]
+    home: https://www.notion.so/
+    blog: https://www.notion.so/blog
+    region: international
+    threat_level: medium
+
+  - name: Confluence
+    primary_modules: [wiki]
+    home: https://www.atlassian.com/software/confluence
+    blog: https://www.atlassian.com/blog
+    region: international
+
+  - name: Slab
+    primary_modules: [wiki]
+    home: https://slab.com/
+
+  - name: Outline
+    primary_modules: [wiki]
+    home: https://www.getoutline.com/
+    github_org: outline
+    region: international
+
+  - name: BookStack
+    primary_modules: [wiki]
+    home: https://www.bookstackapp.com/
+    github_org: BookStackApp
+    region: international
+
+  # Helpdesk
+  - name: Zendesk
+    primary_modules: [helpdesk]
+    home: https://www.zendesk.com/
+    blog: https://www.zendesk.com/blog/
+    pricing_url: https://www.zendesk.com/pricing/
+    g2_slug: zendesk-support-suite
+    region: international
+    threat_level: high
+
+  - name: Freshdesk
+    primary_modules: [helpdesk]
+    home: https://www.freshworks.com/freshdesk/
+    blog: https://www.freshworks.com/freshdesk/blog/
+    region: international
+    threat_level: high
+
+  - name: Zammad
+    primary_modules: [helpdesk]
+    home: https://zammad.com/
+    blog: https://zammad.com/en/news
+    github_org: zammad
+    region: dach              # Open-Source aus DE
+    threat_level: medium
+
+  - name: HelpScout
+    primary_modules: [helpdesk]
+    home: https://www.helpscout.com/
+    blog: https://www.helpscout.com/blog/
+    region: international
+
+  # Formulare
+  - name: Typeform
+    primary_modules: [formulare]
+    home: https://www.typeform.com/
+    blog: https://www.typeform.com/blog/
+    region: international
+    threat_level: medium
+
+  - name: Tally
+    primary_modules: [formulare]
+    home: https://tally.so/
+    region: international
+
+  - name: Fillout
+    primary_modules: [formulare]
+    home: https://www.fillout.com/
+
+  - name: JotForm
+    primary_modules: [formulare]
+    home: https://www.jotform.com/
+
+  # Vertraege / e-Sign
+  - name: DocuSign
+    primary_modules: [vertraege]
+    home: https://www.docusign.com/
+    blog: https://www.docusign.com/blog
+    region: international
+    threat_level: medium
+
+  - name: Skribble
+    primary_modules: [vertraege]
+    home: https://www.skribble.com/
+    region: dach              # Schweizer eIDAS-Anbieter
+    threat_level: medium
+    note: "DACH-eIDAS-Player — strategisch wichtig fuer Cosmi-Vertragsmodul"
+
+  - name: PandaDoc
+    primary_modules: [vertraege]
+    home: https://www.pandadoc.com/
+    blog: https://www.pandadoc.com/blog/
+    region: international
+
+  - name: Adobe Sign
+    primary_modules: [vertraege]
+    home: https://www.adobe.com/sign.html
+    region: international
+
+  # Buchhaltung
+  - name: sevDesk
+    primary_modules: [buchhaltung]
+    secondary_modules: [einkauf]
+    home: https://sevdesk.de/
+    blog: https://sevdesk.de/blog/
+    pricing_url: https://sevdesk.de/preise/
+    region: dach
+    threat_level: high
+
+  - name: Lexoffice (Lexware)
+    primary_modules: [buchhaltung]
+    home: https://www.lexoffice.de/
+    blog: https://www.lexoffice.de/blog/
+    pricing_url: https://www.lexoffice.de/preise/
+    region: dach
+    threat_level: high
+    note: "Lexware-Partner UND potentieller direkter Konkurrent — beides tracken"
+
+  - name: BuchhaltungsButler
+    primary_modules: [buchhaltung]
+    home: https://www.buchhaltungsbutler.de/
+    region: dach
+
+  - name: DATEV Unternehmen Online
+    primary_modules: [buchhaltung]
+    home: https://www.datev.de/web/de/m/ueber-datev/datev-unternehmen-online/
+    region: dach
+    threat_level: medium
+
+  # Rapporte / Zeit
+  - name: TimeTac
+    primary_modules: [rapporte, schichten]
+    home: https://www.timetac.com/
+    region: dach
+
+  - name: ZEP
+    primary_modules: [rapporte]
+    home: https://www.zep.de/
+    region: dach
+
+  - name: Crewmeister
+    primary_modules: [rapporte, schichten]
+    home: https://www.crewmeister.com/de
+    region: dach
+
+  - name: mobiel
+    primary_modules: [rapporte]
+    home: https://mobiel.io/
+    region: dach
+
+  # Schichten
+  - name: Papershift
+    primary_modules: [schichten]
+    home: https://papershift.com/
+    blog: https://papershift.com/blog/
+    region: dach
+    threat_level: medium
+
+  - name: ShyftPlan
+    primary_modules: [schichten]
+    home: https://shyftplan.com/
+    region: dach
+
+  - name: planday
+    primary_modules: [schichten]
+    home: https://www.planday.com/
+    region: international
+
+  # Fuhrpark
+  - name: Vimcar
+    primary_modules: [fuhrpark]
+    home: https://vimcar.de/
+    region: dach
+    threat_level: medium
+
+  - name: fleet+
+    primary_modules: [fuhrpark]
+    home: https://fleetplus.de/
+    region: dach
+
+  - name: Avrios
+    primary_modules: [fuhrpark]
+    home: https://www.avrios.com/
+    region: international
+
+  - name: Fleethouse
+    primary_modules: [fuhrpark]
+    home: https://www.fleethouse.de/
+    region: dach
+
+  # Vermietung
+  - name: Booqable
+    primary_modules: [vermietung]
+    home: https://booqable.com/
+    blog: https://booqable.com/blog
+    region: international
+
+  - name: Rentle
+    primary_modules: [vermietung]
+    home: https://rentle.io/
+    region: international
+
+  - name: EasyRent
+    primary_modules: [vermietung]
+    home: https://www.easyrent.com/
+    region: international
+
+  # Inventar / WMS
+  - name: Pickware
+    primary_modules: [inventar, einkauf]
+    home: https://www.pickware.de/
+    region: dach
+
+  - name: Lightspeed
+    primary_modules: [inventar]
+    home: https://www.lightspeedhq.com/
+    region: international
+
+  # Open-Source / Self-hosted CRMs (architektonisch relevant fuer Cosmi-Strategie)
+  - name: EspoCRM
+    primary_modules: [crm-core]
+    home: https://www.espocrm.com/
+    github_org: espocrm
+    region: international
+    threat_level: low
+
+  - name: Twenty
+    primary_modules: [crm-core]
+    home: https://twenty.com/
+    github_org: twentyhq
+    region: international
+    threat_level: medium
+    note: "Modernes Open-Source CRM, schnelles Wachstum — beobachten"
+
+  - name: SuiteCRM
+    primary_modules: [crm-core]
+    home: https://suitecrm.com/
+    github_org: salesagility
+    region: international
+
+  - name: Mautic
+    primary_modules: [crm-core]
+    home: https://www.mautic.org/
+    github_org: mautic
+    region: international
+
+  - name: Leantime
+    primary_modules: [crm-core, wiki]
+    home: https://leantime.io/
+    github_org: Leantime
+    region: international
+
+  - name: Nextcloud
+    primary_modules: [wiki, video, vertraege]
+    home: https://nextcloud.com/
+    github_org: nextcloud
+    region: dach
+    threat_level: medium
+    note: "EU-Self-Host-Vorbild — Architektur-Lessons fuer Cosmi"
+
+  # Produktion / ERP-Light
+  - name: ProSeS BDE
+    primary_modules: [produktion]
+    home: https://www.proses.eu/
+    region: dach
+
+  - name: Myfactory
+    primary_modules: [produktion, einkauf, inventar]
+    home: https://www.myfactory.com/
+    region: dach

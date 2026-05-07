@@ -1,0 +1,55 @@
+module: einkauf
+description: "Lieferanten, Bestellungen (PO), Wareneingang, Lieferantenbewertung."
+priority: tier2
+modul_link: backend/internal/einkauf/
+themes_relevant: [eu-cloud-souveraenitaet]
+
+competitors:
+  - name: weclapp
+    feeds:
+      - url: https://www.weclapp.com/de/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Tradeshift
+    feeds:
+      - url: https://tradeshift.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: sevDesk Einkauf
+    feeds:
+      - url: https://sevdesk.de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Coupa
+    feeds:
+      - url: https://www.coupa.com/blog/feed
+        type: rss
+        trust: 6
+
+  - name: Xeebra (Mercateo)
+    feeds: []
+    note: "DACH-Procurement-Marktplatz — Web-Scrape"
+
+  - name: Onventis
+    feeds:
+      - url: https://www.onventis.de/blog/feed/
+        type: rss
+        trust: 5
+
+keywords_must_match_any:
+  - procurement
+  - purchase order
+  - supplier management
+  - lieferantenbewertung
+  - wareneingang
+  - sourcing
+
+watch_topics:
+  - "XRechnung-Eingang-Verarbeitung"
+  - "AI-OCR fuer Lieferschein"
+  - "Lieferantenbewertungs-Systeme"
+  - "Multi-Lieferant-Vergleich-UX"
+  - "Wareneingangs-Mobile-UX"

@@ -1,0 +1,53 @@
+module: dialer
+description: "Telefonie/Dialer (Outbound, Recording, IVR). Phase-1 ZFA-Pilot."
+priority: tier1
+modul_link: backend/internal/dialer/
+themes_relevant: [ai-in-crm, webrtc-realtime]
+
+competitors:
+  - name: Aircall
+    feeds:
+      - url: https://aircall.io/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: JustCall
+    feeds:
+      - url: https://justcall.io/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Dialpad
+    feeds:
+      - url: https://www.dialpad.com/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Sipgate
+    feeds:
+      - url: https://www.sipgate.de/team/blog/feed
+        type: rss
+        trust: 7
+
+  - name: Placetel
+    feeds: []
+    note: "Kein RSS gefunden — Web-Scrape von /news/ erwaegen"
+
+keywords_must_match_any:
+  - voip
+  - telefonie
+  - dialer
+  - call center
+  - outbound calling
+  - call recording
+  - call transcription
+  - webrtc
+  - sip
+
+watch_topics:
+  - "Call-Recording-Compliance DSGVO"
+  - "Auto-Transkription"
+  - "AI-Powered-Coaching"
+  - "Power-Dialer-Modi"
+  - "TURN/STUN-Setups"
+  - "EU-VoIP-Anbieter"

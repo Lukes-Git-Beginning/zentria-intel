@@ -1,0 +1,149 @@
+# Tech-/AI-Trends — HN, Reddit, ProductHunt, GitHub-Trending, Indie-Hackers.
+# Tier-1: HN, Reddit r/SaaS — daily.
+# Tier-2: GitHub-Trending, ProductHunt — wochentlich (Mo-Rotation).
+
+priority: tier1
+
+sources:
+  - id: hackernews-front
+    label: "HackerNews Frontpage"
+    type: json
+    url: https://hacker-news.firebaseio.com/v0/topstories.json
+    item_url_pattern: https://hacker-news.firebaseio.com/v0/item/{id}.json
+    fetch_top_n: 30
+    trust: 7
+    keywords_must_match_any:
+      - crm
+      - saas
+      - kmu
+      - small business
+      - b2b
+      - llm
+      - ai
+      - mcp
+      - plugin
+      - eu
+      - gdpr
+      - sovereignty
+      - self-hosted
+
+  - id: reddit-saas
+    label: "r/SaaS"
+    type: reddit-public-json
+    subreddit: SaaS
+    url: https://www.reddit.com/r/SaaS/new.json
+    fetch_top_n: 25
+    trust: 6
+    user_agent_required: true
+
+  - id: reddit-crm
+    label: "r/CRM"
+    type: reddit-public-json
+    subreddit: CRM
+    url: https://www.reddit.com/r/CRM/new.json
+    fetch_top_n: 25
+    trust: 7
+
+  - id: reddit-selfhosted
+    label: "r/selfhosted"
+    type: reddit-public-json
+    subreddit: selfhosted
+    url: https://www.reddit.com/r/selfhosted/new.json
+    fetch_top_n: 25
+    trust: 7
+
+  - id: reddit-germany-business
+    label: "r/germany_business + r/Wirtschaft"
+    type: reddit-public-json
+    subreddit: Wirtschaft
+    url: https://www.reddit.com/r/Wirtschaft/new.json
+    fetch_top_n: 20
+    trust: 5
+
+  - id: reddit-startups-eu
+    label: "r/startups (EU-Filter)"
+    type: reddit-public-json
+    subreddit: startups
+    url: https://www.reddit.com/r/startups/new.json
+    fetch_top_n: 20
+    trust: 5
+    keywords_must_match_any: [eu, dach, europe, germany, austria, switzerland]
+
+  - id: producthunt-daily
+    label: "ProductHunt Daily Top"
+    type: producthunt-graphql
+    endpoint: https://api.producthunt.com/v2/api/graphql
+    requires_token: true
+    token_env: PRODUCTHUNT_DEVELOPER_TOKEN
+    query_topics: [crm, productivity, business, sales, customer-support]
+    fetch_top_n: 15
+    trust: 6
+
+  - id: github-trending-go
+    label: "GitHub Trending — Go (CRM/SaaS-Themen)"
+    type: github-trending
+    language: go
+    url: https://github.com/trending/go?since=daily
+    fetch_top_n: 15
+    trust: 6
+    keywords_must_match_any: [crm, sales, helpdesk, ticket, customer]
+
+  - id: github-trending-typescript
+    label: "GitHub Trending — TypeScript"
+    type: github-trending
+    language: typescript
+    url: https://github.com/trending/typescript?since=weekly
+    fetch_top_n: 15
+    trust: 6
+    keywords_must_match_any: [crm, sales, helpdesk, ticket, customer, dashboard]
+
+  - id: indiehackers
+    label: "Indie Hackers"
+    type: rss
+    url: https://www.indiehackers.com/feed.xml
+    trust: 6
+
+  - id: betalist
+    label: "BetaList — neue Startups"
+    type: rss
+    url: https://betalist.com/feed
+    trust: 5
+
+  # Funding/Acquisition-Signal (€0, kostenfreie RSS statt Crunchbase)
+  - id: techcrunch-funding
+    label: "TechCrunch Venture"
+    type: rss
+    url: https://techcrunch.com/category/venture/feed/
+    trust: 7
+
+  - id: sifted-eu
+    label: "Sifted (EU-Tech)"
+    type: rss
+    url: https://sifted.eu/feed
+    trust: 8
+
+  - id: deutsche-startups
+    label: "deutsche-startups.de"
+    type: rss
+    url: https://www.deutsche-startups.de/feed/
+    trust: 8
+
+  - id: eu-startups
+    label: "EU-Startups.com"
+    type: rss
+    url: https://www.eu-startups.com/feed/
+    trust: 7
+
+  # AI-spezifisch
+  - id: anthropic-news
+    label: "Anthropic News"
+    type: rss
+    url: https://www.anthropic.com/news/rss.xml
+    trust: 9
+    note: "Direkt relevant — Tooling-Updates"
+
+  - id: openai-news
+    label: "OpenAI Blog"
+    type: rss
+    url: https://openai.com/blog/rss/
+    trust: 8

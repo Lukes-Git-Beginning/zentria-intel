@@ -1,0 +1,84 @@
+# DACH-KMU-Magazine — Zielgruppen-Verstaendnis, KMU-Zeitgeist.
+# Tier-2 — wochentliche Rotation (Mi-Tag).
+
+priority: tier2
+
+sources:
+  - id: heise-online
+    label: "heise online"
+    type: rss
+    url: https://www.heise.de/rss/heise-atom.xml
+    trust: 9
+
+  - id: heise-business
+    label: "heise online — IT-Business"
+    type: rss
+    url: https://www.heise.de/thema/it-business/atom.xml
+    trust: 9
+
+  - id: t3n
+    label: "t3n.de — Digital Pioneers"
+    type: rss
+    url: https://t3n.de/rss.xml
+    trust: 8
+
+  - id: omr
+    label: "OMR — Online Marketing Rockstars"
+    type: rss
+    url: https://omr.com/de/feed/
+    trust: 7
+
+  - id: computerwoche
+    label: "Computerwoche"
+    type: rss
+    url: https://www.computerwoche.de/feed/
+    trust: 8
+
+  - id: channelpartner
+    label: "ChannelPartner"
+    type: rss
+    url: https://www.channelpartner.de/feed/
+    trust: 7
+
+  - id: it-zoom
+    label: "it-zoom — Mittelstand-IT"
+    type: rss
+    url: https://www.it-zoom.de/feed/
+    trust: 7
+
+  - id: mittelstand-magazin
+    label: "Mittelstand-Magazin"
+    type: rss
+    url: https://www.mittelstand-magazin.de/feed/
+    trust: 6
+
+  - id: handelsblatt-mittelstand
+    label: "Handelsblatt — Mittelstand"
+    type: rss
+    url: https://www.handelsblatt.com/contentexport/feed/mittelstand
+    trust: 8
+
+  - id: wirtschaftswoche-tech
+    label: "WirtschaftsWoche — Technologie"
+    type: rss
+    url: https://www.wiwo.de/contentexport/feed/rss/technologie
+    trust: 7
+
+  # Schweiz / Oesterreich
+  - id: netzwoche-ch
+    label: "Netzwoche.ch"
+    type: rss
+    url: https://www.netzwoche.ch/rss
+    trust: 7
+
+  - id: computerworld-ch
+    label: "ComputerWorld.ch"
+    type: rss
+    url: https://www.computerworld.ch/rss
+    trust: 7
+
+  - id: futurezone-at
+    label: "futurezone.at"
+    type: rss
+    url: https://futurezone.at/feed
+    trust: 6

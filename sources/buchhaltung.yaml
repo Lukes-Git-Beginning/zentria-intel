@@ -1,0 +1,79 @@
+module: buchhaltung
+description: "Buchhaltung, GoBD-konforme Journals, e-Rechnung (XRechnung/ZUGFeRD), Dunning."
+priority: tier1   # DACH-kritisch
+modul_link: backend/internal/biz/
+themes_relevant: [eu-cloud-souveraenitaet]
+
+competitors:
+  - name: sevDesk
+    feeds:
+      - url: https://sevdesk.de/blog/feed/
+        type: rss
+        trust: 8
+
+  - name: Lexoffice
+    feeds:
+      - url: https://www.lexoffice.de/blog/feed/
+        type: rss
+        trust: 8
+    note: "Lexware-Mutter — Integrations- UND Konkurrenz-Status"
+
+  - name: BuchhaltungsButler
+    feeds:
+      - url: https://www.buchhaltungsbutler.de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: DATEV Unternehmen Online
+    feeds: []
+    note: "Kein RSS — Web-Scrape /service/news/"
+
+  - name: Billbee
+    feeds:
+      - url: https://www.billbee.io/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: easybill
+    feeds:
+      - url: https://www.easybill.de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Candis
+    feeds:
+      - url: https://www.candis.io/blog/rss
+        type: rss
+        trust: 6
+
+  - name: Pliant
+    feeds:
+      - url: https://www.getpliant.com/de/blog/feed
+        type: rss
+        trust: 6
+
+  - name: Akaunting (Open-Source)
+    feeds:
+      - url: https://github.com/akaunting/akaunting/releases.atom
+        type: atom
+        trust: 6
+
+keywords_must_match_any:
+  - buchhaltung
+  - accounting
+  - e-rechnung
+  - xrechnung
+  - zugferd
+  - gobd
+  - dunning
+  - journal nummerierung
+  - opos
+  - mahnwesen
+
+watch_topics:
+  - "XRechnung-Pflicht ab 2025 (B2B-DE)"
+  - "ZUGFeRD-3.0-Updates"
+  - "GoBD-konforme Journal-Nummerierung"
+  - "DATEV-Schnittstellen-Aenderungen"
+  - "AI-OCR fuer Belege"
+  - "Dunning-Automation"

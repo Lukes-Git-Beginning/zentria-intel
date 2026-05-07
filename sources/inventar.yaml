@@ -1,0 +1,62 @@
+module: inventar
+description: "Lagerverwaltung, Bestands-Alarme, Bewegungs-Buchhaltung, Barcode."
+priority: tier2
+modul_link: backend/internal/inventar/
+themes_relevant: []
+
+competitors:
+  - name: Pickware
+    feeds:
+      - url: https://www.pickware.de/feed/
+        type: rss
+        trust: 6
+
+  - name: Sage WMS
+    feeds: []
+    note: "Kein RSS — Sage-Pressemitteilungen Web-Scrape"
+
+  - name: Lightspeed
+    feeds:
+      - url: https://www.lightspeedhq.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Cin7
+    feeds:
+      - url: https://www.cin7.com/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: Zoho Inventory
+    feeds:
+      - url: https://www.zoho.com/inventory/blog/feed/
+        type: rss
+        trust: 5
+
+  - name: SnipeIT (Open-Source)
+    feeds:
+      - url: https://github.com/snipe/snipe-it/releases.atom
+        type: atom
+        trust: 6
+
+  - name: ERPNext (Open-Source)
+    feeds:
+      - url: https://github.com/frappe/erpnext/releases.atom
+        type: atom
+        trust: 7
+
+keywords_must_match_any:
+  - warehouse management
+  - inventory
+  - stock alerts
+  - barcode scanning
+  - rfid
+  - stocktaking
+  - bestandsverwaltung
+
+watch_topics:
+  - "Barcode-/RFID-Integrationen"
+  - "Bestands-Alarm-Heuristiken"
+  - "Multi-Warehouse-Modelle"
+  - "FIFO/LIFO-Buchung"
+  - "Mobile-Picking-UX"

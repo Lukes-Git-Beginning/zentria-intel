@@ -1,0 +1,56 @@
+module: produktion
+description: "Produktions-Auftraege, Maschinenbelegung, Kapazitaetsplanung, MES-Light."
+priority: tier2
+modul_link: backend/internal/produktion/
+themes_relevant: []
+
+competitors:
+  - name: weclapp
+    feeds:
+      - url: https://www.weclapp.com/de/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: ProSeS BDE
+    feeds: []
+    note: "Kein RSS"
+
+  - name: Myfactory
+    feeds:
+      - url: https://www.myfactory.com/de/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: MES-NeXT
+    feeds: []
+
+  - name: ams.erp
+    feeds: []
+    note: "DACH-Mittelstand-ERP — Web-Scrape news"
+
+  - name: Hydra MES (MPDV)
+    feeds:
+      - url: https://www.mpdv.com/de/news/feed/
+        type: rss
+        trust: 6
+
+  - name: Industrial-IoT-Platforms (DACH)
+    feeds: []
+    note: "z.B. Bosch IoT, Siemens MindSphere — Web-Scrape"
+
+keywords_must_match_any:
+  - production planning
+  - manufacturing execution
+  - mes
+  - oee
+  - capacity planning
+  - machine booking
+  - produktionsplanung
+  - maschinenbelegung
+
+watch_topics:
+  - "OEE-Berechnung-Standardisierung"
+  - "Kapazitaets-Konflikt-UX"
+  - "Industrie-4.0-Schnittstellen (OPC-UA)"
+  - "AI-gestuetzte Produktionsplanung"
+  - "Mobile-Auftrags-Tracking"

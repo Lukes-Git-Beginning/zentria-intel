@@ -1,0 +1,53 @@
+module: formulare
+description: "Form-Builder, JSON-Schema, Conditional-Logic, Webhooks, Public-URLs."
+priority: tier2
+modul_link: backend/internal/formulare/
+themes_relevant: [ux-design-patterns, eu-cloud-souveraenitaet]
+
+competitors:
+  - name: Typeform
+    feeds:
+      - url: https://www.typeform.com/blog/feed/
+        type: rss
+        trust: 7
+
+  - name: Tally
+    feeds:
+      - url: https://tally.so/blog/feed
+        type: rss
+        trust: 6
+
+  - name: Fillout
+    feeds: []
+    note: "Kein RSS — Web-Scrape von /blog/ erwaegen"
+
+  - name: JotForm
+    feeds:
+      - url: https://www.jotform.com/blog/feed/
+        type: rss
+        trust: 6
+
+  - name: Formspree
+    feeds:
+      - url: https://formspree.io/blog/rss.xml
+        type: rss
+        trust: 5
+
+  - name: Plausible Forms (Cloudron)
+    feeds: []
+    note: "EU-Self-Host-Form-Builder — ggf. tracken"
+
+keywords_must_match_any:
+  - form builder
+  - json schema forms
+  - conditional logic
+  - form analytics
+  - public form url
+  - form webhook
+
+watch_topics:
+  - "JSON-Schema-Standardisierung"
+  - "Anti-Spam (ohne reCAPTCHA, EU-Friendly)"
+  - "Conditional-Logic-UX"
+  - "EU-Hosted Form-Builder"
+  - "Form-Submissions-API-Integrationen"
