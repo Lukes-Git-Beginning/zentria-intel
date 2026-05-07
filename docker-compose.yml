@@ -6,7 +6,6 @@ services:
     env_file: .env
     volumes:
       - .:/app:rw
-      - ~/.gitconfig:/root/.gitconfig:ro
     restart: unless-stopped
     network_mode: host
     healthcheck:
