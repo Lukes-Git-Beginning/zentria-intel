@@ -59,6 +59,14 @@ print(r.get('max_output_tokens', 25000))
 
 cd "$REPO_ROOT"
 
+# venv aktivieren — sodass der claude-Subprocess (Bash-Tool im Agent)
+# automatisch die richtige Python-Umgebung mit feedparser/PyYAML/simhash/trafilatura
+# nutzt. Andernfalls scheitert `python .scripts/fetch_all.py` an fehlenden Imports.
+if [[ -f "${REPO_ROOT}/.scripts/.venv/bin/activate" ]]; then
+    # shellcheck disable=SC1091
+    source "${REPO_ROOT}/.scripts/.venv/bin/activate"
+fi
+
 echo "===== [$(date -Iseconds)] starting ${NAME} (model=${MODEL}, max_tokens=${MAX_OUTPUT}) ====="
 
 # Headless: -p (print mode, ein-shot, exit nach finaler Assistant-Message)
