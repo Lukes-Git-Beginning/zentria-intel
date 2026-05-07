@@ -160,7 +160,7 @@ async def _execute_pick(
 
 def find_insight_by_id(stable_id: str) -> dict | None:
     """Sucht Insight in weekly/*.md, neueste zuerst."""
-    from friday_post import parse_weekly_report  # type: ignore
+    from handlers.friday_post import parse_weekly_report
 
     for md_file in sorted(WEEKLY_DIR.glob("*.md"), reverse=True):
         for ins in parse_weekly_report(md_file):
