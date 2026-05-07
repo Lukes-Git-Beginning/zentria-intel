@@ -103,6 +103,33 @@ sources:
     url: https://www.indiehackers.com/feed.xml
     trust: 6
 
+  # Reddit-Replacements (Reddit Responsible Builder Policy Nov 2025).
+  # Original-Quellen reddit-saas/crm/selfhosted/germany-business/startups-eu
+  # bleiben in dieser YAML stehen aber sind via settings.yaml muted.
+  - id: selfh-st
+    label: "selfh.st (Self-Hosted Newsletter)"
+    type: rss
+    url: https://selfh.st/rss/
+    trust: 7
+    note: "Replacement fuer r/selfhosted nach Reddit-API-Abschaltung"
+
+  - id: diginomica
+    label: "diginomica (CRM/SaaS-Themen, gefiltert)"
+    type: rss
+    url: https://diginomica.com/feed
+    trust: 6
+    keywords_must_match_any:
+      - crm
+      - salesforce
+      - hubspot
+      - pipedrive
+      - dynamics
+      - saas
+      - kmu
+      - mittelstand
+      - small business
+    note: "Partieller Replacement fuer r/CRM nach Reddit-API-Abschaltung"
+
   - id: betalist
     label: "BetaList — neue Startups"
     type: rss

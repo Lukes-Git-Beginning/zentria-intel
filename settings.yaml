@@ -127,8 +127,17 @@ prefilter:
   marketing_pure_push:
     - "(?i)^(Get started|Try free|Sign up)"
 
-# Mute-Listen (Quellen die in 3 Wochen 0 Picks hatten)
-muted_sources: []
+# Mute-Listen (Quellen die in 3 Wochen 0 Picks hatten — oder strukturell tot)
+muted_sources:
+  # Reddit Responsible Builder Policy (Nov 2025): Public-JSON wird mit 403
+  # geblockt, neue OAuth-Apps brauchen manuelle Pre-Approval (Aggregations-
+  # Use-Cases meist abgelehnt). Adapter unterstuetzt OAuth weiterhin — falls
+  # Reddit irgendwann Approval gibt, hier rausnehmen + .env-Creds setzen.
+  - reddit-saas
+  - reddit-crm
+  - reddit-selfhosted
+  - reddit-germany-business
+  - reddit-startups-eu
 
 # Discord-Channels
 discord:
