@@ -21,3 +21,7 @@ _(noch leer)_
 ## Faellig spaeter
 
 _(noch leer)_
+
+## cross
+
+- [⚠ Outcome/Credits-Based AI-Pricing: 6 Plattformen in 14 Tagen — Architektur-Requirement](followups/outcomecredits-based-ai-pricing-6-plattformen-in-1-cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
