@@ -73,3 +73,5 @@ _(noch leer)_
 ## cross / strategie
 
 _(noch leer)_
+
+- [EU-Sovereignty-Kipppunkt: 5 Signale an einem Tag, 9 Signale in der Woche](keepers/eu-sovereignty-kipppunkt-5-signale-an-einem-tag-9--cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
