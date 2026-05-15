@@ -75,3 +75,5 @@ _(noch leer)_
 _(noch leer)_
 
 - [EU-Sovereignty-Kipppunkt: 5 Signale an einem Tag, 9 Signale in der Woche](keepers/eu-sovereignty-kipppunkt-5-signale-an-einem-tag-9--cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
+
+- [⚠ Aircall-AI-Voice-Blitz: Dialer-Markt ist 2026-Markt, Cosmi plant 2023-Produkt](keepers/aircall-ai-voice-blitz-dialer-markt-ist-2026-markt-cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
