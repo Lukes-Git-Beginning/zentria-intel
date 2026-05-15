@@ -11,3 +11,7 @@
 ---
 
 _(noch leer — erste Inspirations landen hier)_
+
+## cross
+
+- [⚠ KRITISCH OLG Hamm: Unternehmen haftet fuer Chatbot-Halluzinationen (UWG-rechtskraeftig)](inspiration/kritisch-olg-hamm-unternehmen-haftet-fuer-chatbot--cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
