@@ -79,3 +79,7 @@ _(noch leer)_
 - [⚠ Aircall-AI-Voice-Blitz: Dialer-Markt ist 2026-Markt, Cosmi plant 2023-Produkt](keepers/aircall-ai-voice-blitz-dialer-markt-ist-2026-markt-cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
 
 - [Direct-Competitor-Triple-Pivot: Twenty kommerzialisiert, Intercom wird Fin, monday baut um](keepers/direct-competitor-triple-pivot-twenty-kommerzialis-cross-w20.md) — modul:cross · created:2026-05-15 · n_sources:0
+
+- [🔥 EU CADA: €320 Mrd. Souveränitäts-Paket konkretisiert sich — und nennt Nextcloud beim Namen](keepers/eu-cada-320-mrd-souveränitäts-paket-konkretisiert--cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
+
+- [🔥 Anthropic IPO + Mythos/ENISA + $900B-Valuation — Pre-IPO-PR-Welle plus struktureller Multi-Provider-Imperativ für Cosmi](keepers/anthropic-ipo-mythosenisa-900b-valuation-pre-ipo-p-cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
