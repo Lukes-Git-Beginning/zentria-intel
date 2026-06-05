@@ -14,6 +14,8 @@
 
 _(noch leer — erste Picks landen hier)_
 
+- [🔥 AI-Cost-Governance ist die neue Beschaffungs-Pflicht — Outcome-Pricing wird Vendor-Erwartung](keepers/ai-cost-governance-ist-die-neue-beschaffungs-pflic-crm-core-w23.md) — modul:crm-core · created:2026-06-05 · n_sources:0
+
 ## dialer
 
 _(noch leer)_
