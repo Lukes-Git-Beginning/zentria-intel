@@ -83,3 +83,5 @@ _(noch leer)_
 - [🔥 EU CADA: €320 Mrd. Souveränitäts-Paket konkretisiert sich — und nennt Nextcloud beim Namen](keepers/eu-cada-320-mrd-souveränitäts-paket-konkretisiert--cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
 
 - [🔥 Anthropic IPO + Mythos/ENISA + $900B-Valuation — Pre-IPO-PR-Welle plus struktureller Multi-Provider-Imperativ für Cosmi](keepers/anthropic-ipo-mythosenisa-900b-valuation-pre-ipo-p-cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
+
+- [⚠ E-Rechnungspflicht 2027: 74% nicht bereit (Easybill/YouGov) — quantifizierter KMU-Akquisitions-Funnel](keepers/e-rechnungspflicht-2027-74-nicht-bereit-easybillyo-cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
