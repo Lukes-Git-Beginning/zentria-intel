@@ -1,0 +1,421 @@
+{
+  "fetched_at": "2026-06-17T04:02:45.703592+00:00",
+  "tier": "tier1",
+  "raw_count": 37,
+  "after_prefilter": 28,
+  "after_dedup": 28,
+  "prefilter_stats": {
+    "too_short_no_keywords": 7,
+    "spam": 2
+  },
+  "failures": [],
+  "items": [
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#DealMonitor - Cortea bekommt 12 Millionen – Causa Prima erhält 10 Millionen – Qorelo sammelt 3,5 Millionen ein",
+      "url": "https://www.deutsche-startups.de/2026/06/16/cortea-bekommt-12-millionen-causa-prima-erhaelt-10-millionen-qorelo-sammelt-35-millionen-ein/",
+      "summary": "+++ #DealMonitor +++ Audit-Startup Cortea bekommt 12 Millionen +++ FinTech Causa Prima erhält 10 Millionen +++ Enterprise-Software-Startup Qorelo sammelt 3,5 Millionen ein +++ HR-Startup WhyBrilliant bekommt 1 Million von Merantix +++",
+      "body": null,
+      "published_at": "2026-06-16T13:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7762030621700479
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "ChapsVision to replace Palantir in major contract with French intelligence agency",
+      "url": "https://sifted.eu/articles/chapsvision-to-replace-palantir-in-major-contract-with-french-intelligence-agency/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T13:52:30+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7761339437033203
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "What the Anthropic shutdown means for Europe",
+      "url": "https://sifted.eu/articles/what-the-anthropic-shutdown-means-for-europe/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T13:33:57+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7756212768728654
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#Brandneu - 5 neue Startups: Lockaly, Constrct, mindocu, HappySupport, Clera",
+      "url": "https://www.deutsche-startups.de/2026/06/16/5-neue-startups-lockaly-constrct-mindocu-happysupport-clera/",
+      "summary": "Die Startup-Welt schläft nie! Zeit, einen Blick auf einige brandneue Unternehmen zu werfen, die man unbedingt auf dem Radar haben sollte. Diese Jungfirmen stellen wir euch heute vor: Lockaly, Constrct, mindocu, HappySupport und Clera.",
+      "body": null,
+      "published_at": "2026-06-16T11:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.772892308673315
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "What it actually takes to be a top performer at Revolut",
+      "url": "https://sifted.eu/articles/top-performer-at-revolut/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T11:00:16+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7713869302127168
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#StartupTicker - +++ STARTUPLAND +++ Super Early Bird +++ Robotik +++ Candis +++ Anthropic +++ Mario Götze +++",
+      "url": "https://www.deutsche-startups.de/2026/06/16/startupland-super-early-bird-robotik-candis-anthropic-mario-goetze/",
+      "summary": "+++ #StartupTicker +++ STARTUPLAND: Sichere dir jetzt dein Ticket zum Super-Sparpreis +++ Robotik: Das Mega-Trendthema der Szene +++ Candis drosselt Verluste +++ Exportsperre von Anthropic: Weckruf für Europas KI-Szene! +++ Mario Götze: Weltmeister mit LeBron James-Vibes +++",
+      "body": null,
+      "published_at": "2026-06-16T09:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7695956765951847
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "How Europe can build a self-reliant defence tech ecosystem",
+      "url": "https://sifted.eu/articles/europe-self-reliant-defence-tech-ecosystem-brnd/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T09:00:07+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7680926150842415
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#Interview - „Wir bauen Anleitungen, die sich selbst auf den neuesten Stand bringen“",
+      "url": "https://www.deutsche-startups.de/2026/06/16/wir-bauen-anleitungen-die-sich-selbst-auf-den-neuesten-stand-bringen/",
+      "summary": "\"Der Markt für Dokumentationstools ist von US-Anbietern dominiert. Als junges Startup dagegen anzukommen, die richtigen Taktiken zu wählen und erste Kunden zu gewinnen, war nicht einfach\", sagt Henrik Roth, Gründer von HappySupport.",
+      "body": null,
+      "published_at": "2026-06-16T06:15:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7635883278693956
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Grind culture is a failure of management — but we still turn away 9-5 candidates",
+      "url": "https://sifted.eu/articles/grind-culture-management/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T05:00:50+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615737103804905
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "America has hit the AI kill switch. How should Europe respond?",
+      "url": "https://sifted.eu/articles/anthropic-kill-switch-european-sovereignty/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T05:00:45+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615714497569743
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-17T01:40:22+00:00",
+      "score": 49,
+      "descendants": 10,
+      "hn_id": 48564696,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6964584766138991
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T23:15:44+00:00",
+      "score": 110,
+      "descendants": 29,
+      "hn_id": 48563609,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6928796266940087
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T22:53:34+00:00",
+      "score": 134,
+      "descendants": 27,
+      "hn_id": 48563394,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6923327557689956
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T18:37:21+00:00",
+      "score": 422,
+      "descendants": 268,
+      "hn_id": 48559935,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6860429090012946
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-06-16T17:11:05+00:00",
+      "score": 196,
+      "descendants": 206,
+      "hn_id": 48558489,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6839380388567055
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Barcelona-based Gate2Brain secures €7 million to advance brain tumour candidate",
+      "url": "https://www.eu-startups.com/2026/06/barcelona-based-gate2brain-secures-e7-million-to-advance-brain-tumour-candidate/",
+      "summary": "<p>Gate2Brain, a Spanish BioTech company developing a therapeutic candidate for aggressive paediatric  and adult brain tumours, has announced a €7 million investment &#8211; the largest investment raised by the company to date. The investment represent a 30.4% equity stake and strategic partnership with Shilpa Biocare Pvt Ltd, a wholly owned subsidiary of Shilpa Medicare Limited. “Gate2Brain [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/barcelona-based-gate2brain-secures-e7-million-to-advance-brain-tumour-candidate/\">Barcelona-based Gate2Brain secures €7 million to advance brain tumour candidate</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T14:31:47+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6800681449694738
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Open-source startup GitHits closes €1.5 million to in pre-seed funding for product development",
+      "url": "https://www.eu-startups.com/2026/06/open-source-startup-githits-closes-e1-5-million-to-in-pre-seed-funding-for-product-development/",
+      "summary": "<p>Finland-based GitHits has raised €1.5 million in pre-seed funding, which it will use to develop what the company calls the “Google of code search”. The investors include Finnish VC Vendep Capital, Estonian VC Trind, and notable angel investors such as Peter Sarlin, Zach Shelby, and Jerry Liu. “Our vision is to index all public open-source [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/open-source-startup-githits-closes-e1-5-million-to-in-pre-seed-funding-for-product-development/\">Open-source startup GitHits closes €1.5 million to in pre-seed funding for product development</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T13:24:08+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.678431346627209
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Ghent’s Rainbow Crops bags €9.7 million to advance AI-powered gene editing for improved crop varieties",
+      "url": "https://www.eu-startups.com/2026/06/ghents-rainbow-crops-bags-e9-7-million-to-advance-ai-powered-gene-editing-for-improved-crop-varieties/",
+      "summary": "<p>Rainbow Crops, a Ghent-based AgTech startup developing improved crop varieties by engineering complex agronomic traits, has raised €9.7 million in Seed funding to advance its technology platform, expand its application across multiple crops, and scale the team. The over-subscribed funding round was led by Italian venture capital company LIFTT, together with its vehicle LIFTT EuroInvest, [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/ghents-rainbow-crops-bags-e9-7-million-to-advance-ai-powered-gene-editing-for-improved-crop-varieties/\">Ghent’s Rainbow Crops bags €9.7 million to advance AI-powered gene editing for improved crop varieties</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T10:49:33+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6747059583511712
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Why LATAM founders are finding their feet in Europe",
+      "url": "https://www.eu-startups.com/2026/06/why-latam-founders-are-finding-their-feet-in-europe/",
+      "summary": "<p>Europe is increasingly becoming a hub for Latin American founders. According to Spanish think tank Elcano Royal Institute, 4.2 million LATAM immigrants have moved to Spain, and 3 million across all other EU countries. Many immigrants are entrepreneurs, looking for access to venture capital funding and commercial partnerships that are more difficult to come by [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/why-latam-founders-are-finding-their-feet-in-europe/\">Why LATAM founders are finding their feet in Europe</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T09:39:07+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6730153375392841
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Berlin-based Cortea raises €12 million Seed round to build AI quality layer for audit firms",
+      "url": "https://www.eu-startups.com/2026/06/berlin-based-cortea-raises-e12-million-seed-round-to-build-ai-quality-layer-for-audit-firms/",
+      "summary": "<p>Cortea, a Berlin-based startup building the AI quality layer for audit firms, has raised €12 million in a Seed funding round and announced the launch of its first Audit Quality Agents, designed to help firms improve audit quality while increasing capacity across the audit process. The round was led by Dawn Capital, with participation from [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/berlin-based-cortea-raises-e12-million-seed-round-to-build-ai-quality-layer-for-audit-firms/\">Berlin-based Cortea raises €12 million Seed round to build AI quality layer for audit firms</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T09:05:33+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6722111234611433
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Anthropic pulled the plug, and European AI experts are left asking what comes next",
+      "url": "https://www.eu-startups.com/2026/06/anthropic-pulled-the-plug-and-european-ai-experts-are-left-asking-what-comes-next/",
+      "summary": "<p>Friday’s move by the U.S. government to restrict foreign access to Anthropic’s latest models has sent a clear message to Europe’s AI ecosystem: access to frontier models is no longer just a technical or commercial issue. It is also a geopolitical one. The order reportedly required Anthropic to suspend access to Fable 5 and Mythos [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/anthropic-pulled-the-plug-and-european-ai-experts-are-left-asking-what-comes-next/\">Anthropic pulled the plug, and European AI experts are left asking what comes next</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T08:20:29+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6711328952389268
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Swedish AI patent platform Lightbringer raises €8.6 million to “take on Big Law” and replace existing patent firms",
+      "url": "https://www.eu-startups.com/2026/06/swedish-ai-patent-platform-lightbringer-raises-e8-6-million-to-take-on-big-law-and-replace-existing-patent-firms/",
+      "summary": "<p>Lightbringer, a Malmö-based AI-powered LegalTech company transforming how startups and SMEs secure patents, has raised €8.6 million ($10 million) in Series A funding to fuel its US expansion and next phase of product development.  The round was co-led by London-based 6 Degrees Capital and Amsterdam-based Newion. Thomas Olszewski, Partner at 6 Degrees Capital, and Dorus [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/swedish-ai-patent-platform-lightbringer-raises-e8-6-million-to-take-on-big-law-and-replace-existing-patent-firms/\">Swedish AI patent platform Lightbringer raises €8.6 million to &#8220;take on Big Law&#8221; and replace existing patent firms</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T07:47:49+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6703524205905133
+    },
+    {
+      "source_id": "eu-startups",
+      "source_trust": 7,
+      "title": "Paris-based Rocapine raises €11.2 million to scale wellness apps that “hold instead of hook”",
+      "url": "https://www.eu-startups.com/2026/06/paris-based-rocapine-raises-e11-2-million-to-scale-wellness-apps-that-hold-instead-of-hook/",
+      "summary": "<p>Rocapine, a Paris-based AI-native wellness venture studio developing wellness apps, today announced a €11.2 million ($13 million) Series A round as it aims to tangibly improve the lives of at least 40 million people in the next five years. The round was led by Educapital, with participation from Daphni (which led Rocapine&#8217;s Seed round), Ring [&#8230;]</p>\n<p>The post <a href=\"https://www.eu-startups.com/2026/06/paris-based-rocapine-raises-e11-2-million-to-scale-wellness-apps-that-hold-instead-of-hook/\">Paris-based Rocapine raises €11.2 million to scale wellness apps that “hold instead of hook”</a> appeared first on <a href=\"https://www.eu-startups.com\">EU-Startups</a>.</p>",
+      "body": null,
+      "published_at": "2026-06-16T06:00:57+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "eu-startups"
+      ],
+      "pre_score": 0.6678054894113719
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Why Databricks calls CDC 'continuous data corruption' - and what it built instead",
+      "url": "https://diginomica.com/why-databricks-calls-cdc-continuous-data-corruption-and-what-it-built-instead",
+      "summary": "Shanku Niyogi of Databricks walks through the architecture behind Lakebase, LTAP and Lakehouse//RT – and renames an industry workaround in a relatable way that acknowledges the pain points experienced by data engineers.",
+      "body": null,
+      "published_at": "2026-06-16T08:43:09-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5843992705653264
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Curious, cautious, and expected to adapt - how do enterprises close the AI trust gap for users?",
+      "url": "https://diginomica.com/curious-cautious-expected-adapt-how-enterprises-close-ai-trust-gap",
+      "summary": "Introducing technology is the easy part. Workday's Laila Almounaier argues that earning people's trust with AI - and designing for the step change, not an incremental tweak - is the real work.",
+      "body": null,
+      "published_at": "2026-06-16T02:49:55-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5770922538532294
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Domo's doom - analytics maven needs to announce a buyer by the end of next month as revenues fall",
+      "url": "https://diginomica.com/domos-doom-analytics-maven-needs-announce-buyer-end-next-month-revenues-fall",
+      "summary": "A lender is circling as Domo's management admits that it has weeks to confirm a buyer for the analytics firm.",
+      "body": null,
+      "published_at": "2026-06-16T02:15:01-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5763752873679653
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Unmasking the industry - the day-to-day challenges faced by neurodivergent women in tech",
+      "url": "https://diginomica.com/unmasking-industry-day-day-challenges-faced-neurodivergent-women-tech",
+      "summary": "To mark Neurodiversity Pride Day, three neurodivergent women share their experiences of working in the tech industry and their beliefs around just how inclusive the sector really is.",
+      "body": null,
+      "published_at": "2026-06-16T02:00:02-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5760677513364731
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "International and industry criticism of the ban on non-US use of Anthropic's Fable mounts as questions of legality about Trump 2.0's actions are aired",
+      "url": "https://diginomica.com/international-and-industry-criticism-ban-non-us-use-anthropics-fable-mounts-questions-legality",
+      "summary": "Reaction to the ban on use of Anthropic's Fable model has come from politicians, tech experts, and thinktank analysts alike.",
+      "body": null,
+      "published_at": "2026-06-16T00:00:01-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5736102982018318
+    }
+  ]
+}
