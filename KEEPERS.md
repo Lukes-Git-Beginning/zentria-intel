@@ -87,3 +87,5 @@ _(noch leer)_
 - [🔥 Anthropic IPO + Mythos/ENISA + $900B-Valuation — Pre-IPO-PR-Welle plus struktureller Multi-Provider-Imperativ für Cosmi](keepers/anthropic-ipo-mythosenisa-900b-valuation-pre-ipo-p-cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
 
 - [⚠ E-Rechnungspflicht 2027: 74% nicht bereit (Easybill/YouGov) — quantifizierter KMU-Akquisitions-Funnel](keepers/e-rechnungspflicht-2027-74-nicht-bereit-easybillyo-cross-w23.md) — modul:cross · created:2026-06-05 · n_sources:0
+
+- [🔥 Anthropic Kill-Switch live — Fable 5 + Mythos 5 weltweit suspendiert, Mistral antwortet binnen 24h](keepers/anthropic-kill-switch-live-fable-5-mythos-5-weltwe-cross-w25.md) — modul:cross · created:2026-06-20 · n_sources:0
