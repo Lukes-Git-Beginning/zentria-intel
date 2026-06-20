@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-20",
+  "kw": 25,
+  "run_start": "2026-06-20T07:02:11.000000+00:00",
+  "sources_ok": [
+    "bsi-warnungen",
+    "noyb"
+  ],
+  "sources_403": [
+    "edpb-newsroom",
+    "oedp-eaid",
+    "edpb-website"
+  ],
+  "sources_failed": [
+    "eur-lex",
+    "bfdi-pressemitteilungen",
+    "bsi-pressemitteilungen",
+    "e-rechnung-bmwk",
+    "eaid-arbeitsrecht",
+    "cybernews-eu"
+  ],
+  "sources_404": [
+    "eur-lex",
+    "bfdi-pressemitteilungen",
+    "bsi-pressemitteilungen",
+    "e-rechnung-bmwk",
+    "eaid-arbeitsrecht",
+    "cybernews-eu"
+  ],
+  "websearch_supplements": [
+    "EDPB 120th plenary outcomes",
+    "AI Omnibus EP vote 16 June 2026",
+    "AI Act consultation extension to 23 July",
+    "noyb CRIF class action",
+    "noyb LinkedIn Article 15",
+    "BSI NGINX WID-SEC-2026-1995 CVE-2026-42945",
+    "BSI PostgreSQL WID-SEC-2026-1544"
+  ],
+  "items_scanned": 47,
+  "items_after_filter": 14,
+  "items": [
+    {
+      "id": "bsi-warnungen-1995",
+      "title": "[NEU] [hoch] NGINX und NGINX Plus: Mehrere Schwachstellen — CVE-2026-42945 aktiv ausgenutzt",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1995",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "hoch",
+      "actively_exploited": true,
+      "topics": ["bsi_cve", "nginx", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-1544",
+      "title": "[UPDATE] [hoch] PostgreSQL: Mehrere Schwachstellen — CVSS 8.8 Remote",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1544",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "hoch",
+      "cvss": 8.8,
+      "topics": ["bsi_cve", "postgres", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-1824",
+      "title": "[NEU] [hoch] Apache HTTP Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1824",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "web_server", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-0861",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0861",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "linux", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-1279",
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1279",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "linux", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-gnu-libc",
+      "title": "[NEU] [kritisch] GNU libc: Schwachstelle",
+      "url": "https://wid.cert-bund.de/content/public/securityAdvisory/rss",
+      "published": "2026-06-18T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "kritisch",
+      "topics": ["bsi_cve", "linux", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-drupal",
+      "title": "[NEU] [kritisch] Drupal Core: Schwachstelle",
+      "url": "https://wid.cert-bund.de/content/public/securityAdvisory/rss",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "kritisch",
+      "topics": ["bsi_cve", "web_cms"]
+    },
+    {
+      "id": "bsi-warnungen-splunk",
+      "title": "[NEU] [kritisch] Splunk Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/content/public/securityAdvisory/rss",
+      "published": "2026-06-19T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "kritisch",
+      "topics": ["bsi_cve", "siem", "saas_infra"]
+    },
+    {
+      "id": "policy-ai-omnibus-ep-vote",
+      "title": "AI Omnibus: Europaparlament stimmt zu 423:57 (16. Juni 2026)",
+      "url": "https://sofiaglobe.com/2026/06/16/european-parliament-approves-ai-act-amendments-nudifier-ban/",
+      "published": "2026-06-16T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 9,
+      "topics": ["ai_act", "eu_legislation"]
+    },
+    {
+      "id": "policy-ai-act-consultation-extended",
+      "title": "AI-Act Hochrisiko-Konsultation: Frist verlängert bis 23. Juli 2026",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-draft-guidelines-classification-high-risk-artificial-intelligence-systems",
+      "published": "2026-06-20T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 9,
+      "topics": ["ai_act", "consultation"]
+    },
+    {
+      "id": "policy-edpb-120th-plenary",
+      "title": "EDPB 120. Plenum: Anonymisierungsguidelines beschleunigt, Datenschutzsiegel genehmigt",
+      "url": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
+      "published": "2026-06-09T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 10,
+      "topics": ["gdpr", "edpb", "anonymization"]
+    },
+    {
+      "id": "noyb-crif-class-action",
+      "title": "noyb CRIF Sammelklage: Secret Scoring ohne Consent",
+      "url": "https://noyb.eu/en/secret-scoring-join-crif-class-action-now",
+      "published": "2026-06-09T00:00:00+00:00",
+      "source_id": "noyb",
+      "trust": 8,
+      "topics": ["gdpr", "scoring", "crm", "class_action"]
+    },
+    {
+      "id": "noyb-linkedin-article15",
+      "title": "noyb: LinkedIn sperrt DSGVO-Rechte hinter Paywall (Art. 15)",
+      "url": "https://noyb.eu/en/linkedin-locks-your-gdpr-rights-behind-paywall",
+      "published": "2026-05-05T00:00:00+00:00",
+      "source_id": "noyb",
+      "trust": 8,
+      "topics": ["gdpr", "art15", "pay_or_ok"]
+    },
+    {
+      "id": "noyb-schibsted-pay-or-ok",
+      "title": "noyb + NCC: Schibsted Pay-or-Okay Beschwerde (Datatilsynet Norway)",
+      "url": "https://noyb.eu/en/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay",
+      "published": "2026-06-03T00:00:00+00:00",
+      "source_id": "noyb",
+      "trust": 8,
+      "topics": ["gdpr", "cookie_banner", "pay_or_ok"]
+    }
+  ]
+}
