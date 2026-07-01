@@ -58,8 +58,8 @@ competitors:
     primary_modules: [crm-core, buchhaltung]
     home: https://www.bexio.com/
     blog: https://www.bexio.com/de-CH/blog
-    pricing_url: https://www.bexio.com/de-DE/preise
-    region: dach              # Schweiz primary, DACH-relevant
+    pricing_url: https://www.bexio.com/de-CH/preise
+    region: dach              # Schweiz primary, DACH-relevant; de-DE-URL → 404 seit 2026-07-01
     threat_level: high
 
   - name: Centralstation CRM

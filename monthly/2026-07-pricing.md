@@ -4,358 +4,178 @@ month: 7
 created: 2026-07-01
 competitors_checked: 11
 changes_detected: 4
-scrape_ok: 4
-scrape_blocked: 7
-scrape_errors: 0
+scrape_ok: 6
+scrape_blocked: 3
+scrape_partial: 2
 ---
 
 # Pricing-Diff Juli 2026
 
 **Routine:** intel-monthly-pricing | **Run:** 2026-07-01 06:05 CEST | **Pool:** OK
-**Geprüft:** 11 Konkurrenten | **Änderungen:** 4 | **Scrape OK:** 4 | **Geblockt:** 7 | **Fehler:** 0
+**Geprüft:** 11 Konkurrenten | **Änderungen:** 4 | **Scrape OK:** 6 | **Geblockt:** 3 | **Partial:** 2
 
 ---
 
 ## Änderungen erkannt (4)
 
-### Zoho CRM — +88 Zeilen / -561 Zeilen [International · Threat: MEDIUM]
+---
 
-**Pricing-URL:** https://www.zoho.com/crm/pricing.html
+### monday.com — AI Agents jetzt in allen Paid-Tieren enthalten [International · Threat: HIGH]
 
-**Diff:**
+**Pricing-URL:** https://monday.com/pricing
 
+**Diff (Schlüsselstellen):**
 ```diff
---- zoho.md (Juni 2026)
-+++ zoho.md (Juli 2026)
-@@ -1,215 +1,103 @@
--Schließen
--
-- 
--
--
-- 
--
- 
- #####  Unbedingt notwendig
- 
--  
-+  
- 
-+Diese Cookies sind notwendig, damit unsere Website funktioniert und können in unseren Systemen nicht abgeschaltet werden. Erst diese Cookies ermöglichen es Ihnen, innerhalb der Website zu navigieren und ihre Funktionen zu verwenden. Wenn Sie diese Cookies deaktivieren oder aus Ihrem Browser entfernen, können wir nicht garantieren, dass Sie unsere Website nutzen können.
- 
--Weitere Informationen
- 
- #####  Funktional/Präferenz
- 
--  
-+  
- 
--
--Hinweis: Das **Live-Chat-Widget** funktioniert **nicht** , wenn die Funktionalität/Präferenzeinstellung deaktiviert ist.
--
--Weitere Informationen
--
--#####  Analysen
--
--  
--
--
--Weitere Informationen
--
--
--
--Weitere Informationen
--
--Speichern und beenden
--
-- 
--
--Hello! Do you want to navigate in English?X
--
--Ins Produktionsmenü wechseln
--
--Zoho.com
--
--  * Bigin
-+  * [Bigin](https://www.bigin.com/de/?src=zGlobalRelatedProducts)
- 
- Pipeline-zentriertes CRM für kleine Unternehmen.
- 
--  * CRM Plus
-+  * [CRM Plus](/de/crm/crmplus/?src=zGlobalRelatedProducts)
- 
- Einheitliche Plattform für ein erstklassiges Kundenerlebnis.
-[... +141 weitere Zeilen ...]
+-# Plans for every team.
++# Plans for every team,
++people and agents included.
+
+ Free €0 / Basic €9/seat / Standard €12/seat / Pro €19/seat
+
++AI agent workforce
++  Agents take on specialized tasks and support multiple functions
++  for automated execution at scale
++
++Orchestrate workflows that connect agents and AI and watch work
++get done across every team
++
++Enable agents, integrations, and custom apps to read and update
++monday data. Buy more as needed
 ```
 
-**Interpretation:** Tier entfernt/umbenannt: Business. AI-Pricing-Konditionen geändert (AI war bereits vorhanden). API/Integrations-Gating geändert.
+**Preise:** Unverändert — Free €0 | Basic €9/Seat/Mo | Standard €12 | Pro €19
 
+**Interpretation:** monday.com hat die Pricing-Page-Headline geändert von "Plans for every team" zu "Plans for every team, **people and agents included**". AI-Agents ("AI agent workforce") sind jetzt explizit Bestandteil aller Paid-Tier-Beschreibungen — nicht mehr optionales Add-on, sondern im Tier-Bundle kommuniziert. Der "Basic AI"-Label ist neu im Tier-Stack aufgetaucht.
+**Cosmi-Implikation:** monday.com führt die Branche im AI-Agent-Bundling — nach den AI-Credits im Juni (€20–€30 Wert je Tier) jetzt explizites "agents included"-Messaging. Cosmi muss eigene AI-Agent-Roadmap in der Tier-Kommunikation verankern. Risiko: Kunden erwarten bald, dass SaaS-Plattformen AI-Agents "mitliefern", nicht separat verkaufen.
 
 ---
 
-### weclapp — +246 Zeilen / -352 Zeilen [DACH · Threat: HIGH]
+### sevDesk — "Black Cyber Deal" Promotion aktiv: bis zu 60% Rabatt [DACH · Threat: HIGH]
 
-**Pricing-URL:** https://www.weclapp.com/de/preise
+**Pricing-URL:** https://sevdesk.de/preise/
 
-**Diff:**
-
+**Diff (Schlüsselstellen):**
 ```diff
---- weclapp.md (Juni 2026)
-+++ weclapp.md (Juli 2026)
-@@ -1,302 +1,139 @@
--Skip to content
--
--🚀 Lerne die weclapp Software kennen: Jetzt zur Product Tour anmelden!
--
--__ __
--
--  * Produkt 
- 
- __ Close Produkt __ Open Produkt
- 
- Endlich Richtig Professionell.
- 
-+[ __ ERP Starter Professionelles Arbeiten von Beginn an ](/de/erp-starter/) [ __ ERP Dienstleistung Intelligente Workflows, smarte Automatisierungen ](/de/cloud-erp-dienstleistung/) [ __ ERP Handel Einkauf, Verkauf und Lager effizient steuern ](/de/cloud-erp-handel/)
+-[Juni-Baseline: JS-Lazy-Load — kein Pricing-Inhalt extrahierbar]
++# Wir haben den passenden Tarif für dein Unternehmen
 +
-+[ __ Warum weclapp Cloud ERP? ](/de/cloud-erp/)
++Sichere dir jetzt bis zu **50% Rabatt** auf deinen Wunschtarif [Countdown aktiv]
 +
-+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
++Black Cyber Deal — 60% auf alles
 +
-+Add-ons
-+
-+    * [ __ Kassensoftware ](/de/kassensoftware/)
-+    * [ __ Vertragsmanagement ](/de/vertragsmanagement/)
-+
-+Behalte stets den Überblick über den Finanzstatus deines Unternehmens. 
-+
-+[ Projektmanagement ](/de/projektmanagement-software/)
-+
-+Plane, steuere und überwache deine Projekte effektiv, um Fristen und Budgets einzuhalten. 
-+
-+[ Lagerverwaltungssoftware ](/de/lagerverwaltungssoftware/)
-+
-+Verwalte deinen Lagerbestand und optimiere Lagerprozesse effizient. 
-+
-+[ Warenwirtschaft ](/de/warenwirtschaft/)
-+
-+Optimiere Bestände und beschleunigen den Warenfluss in deinem Unternehmen. 
-+
-+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
-+
-+[ Startup ERP ](/de/unternehmensgroesse/startup/)
-+
-+weclapp bildet ein solides und sklaierbares Fundament für junge Unternehmen. 
-+
-+
-+[ Großunternehmen ](/de/unternehmensgroesse/grossunternehmen/)
-+
-+Das ERP-System der neuen Generation, cloudbasiert oder On-Premise. 
-+
-+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
-+
-+[ E-Commerce ERP ](/de/branchen/e-commerce/)
-+
-+Zentrale Lösung für Multi-Plattform-Online-Handel. 
-+
-+
-+Strategische Unternehmensentwicklung und CRM 
-+
-[... +141 weitere Zeilen ...]
++12,90 €/Mo   (Rechnungen-Tier, Vollpreis)
++25,90 €/Mo   (Buchhaltung-Tier, Vollpreis)
 ```
 
-**Interpretation:** Neuer Tier eingeführt: Professional. AI-Pricing-Konditionen geändert (AI war bereits vorhanden). Support-Tier-Zuordnung geändert.
-**Cosmi-Implikation:** Tier-Segmentierung im Markt verdichtet sich. Cosmi-Tier-Struktur abgleichen.
+**Vollpreise (erstmals sauber extrahiert):**
+
+| Tier | Vollpreis/Mo | Aktionspreis (60% Rabatt) | Scope |
+|---|---|---|---|
+| Rechnungen | €12,90 | ~€5,16 | Unbegrenzt Rechnungen, Integrationen, Support |
+| Buchhaltung | €25,90 | ~€10,36 | + Belege, Finanzen, Buchhaltung, EÜR |
+
+**Interpretation:** Juni-Baseline hatte keinen verwertbaren Preisinhalt (JS-Lazy-Load). Heute erstmals saubere Extraktion: Vollpreise €12,90/€25,90. Dazu läuft eine "Black Cyber Deal"-Aktion mit Countdown-Timer — ungewöhnlich für Juli (Cyber-Deals normalerweise November). Entweder Sommer-Rabatt mit neuem Namen oder Reaktion auf Marktdruck. Der "60% auf alles"-Anspruch ist bemerkenswert aggressiv.
+**Cosmi-Implikation:** sevDesk positioniert sich mit diesem Deal aggressiv am Einstiegsmarkt (~€5–€10/Mo). Cosmi-Buchhaltungsmodul sollte Vollpreise kommunizieren und Mehrwert gegenüber €12,90 sevDesk-Tier herausstellen (DACH-Compliance, CRM-Integration, API-Tiefe). Aktionspreise sind temporär — Vollpreisvergleich bleibt relevant.
 
 ---
 
-### Lexoffice — +182 Zeilen / -238 Zeilen [DACH · Threat: HIGH]
+### Bexio — Pricing-URL 404: de-DE-Seite nicht mehr verfügbar [DACH · Threat: HIGH]
 
-**Pricing-URL:** https://www.lexoffice.de/preise/
+**Pricing-URL (alt):** https://www.bexio.com/de-DE/preise → **404 Not Found**
 
 **Diff:**
-
 ```diff
---- lexoffice.md (Juni 2026)
-+++ lexoffice.md (Juli 2026)
-@@ -1,8 +1,5 @@
--Seiten-Sprungmarken
--
--  * Zur Hauptnavigation springen
--  * Zum Hauptinhalt springen
-   * Zur Fußnavigation springen
-+
- 
- 50%Rabatt für3 Monate
- 
-@@ -12,13 +9,14 @@
-   * **Inkl. Hosting, Datensicherung, Updates und Support**
-   * **Keine Extrakosten**
- 
-+
- Version wählen 
- 
- Deine Auswahl:
- 
--11,00 €
--
--5,00 €
-+11,00 €
-+
-+5,00 €
- 
- Rabattlaufzeit 3 Monate 
- 
-@@ -28,9 +26,9 @@
- 
- Belegerfassung und -archiv 
- 
--7,90 €
--
--3,95 €
-+7,90 €
-+
-+3,95 €
- 
- Auswählen 
- 
-@@ -38,9 +36,9 @@
- 
- Angebote, (E-) Rechnungen und Mahnungen 
- 
--12,90 €
--
--6,45 €
-+12,90 €
-+
-+6,45 €
- 
- Auswählen 
- 
-@@ -50,9 +48,9 @@
- 
- Buchhaltung, EÜR und Umsatzsteuer 
- 
-[... +141 weitere Zeilen ...]
+-[Juni-Snapshot: bexio.com/de-DE/preise — Pricing-Elemente hinter JS-Wall, 124 Zeilen]
++# Houston, wir haben ein 404 Problem
++[Vollständige 404-Seite — ausschließlich /de-CH/-Links sichtbar]
 ```
 
-**Interpretation:** AI-Pricing-Konditionen geändert (AI war bereits vorhanden). Support-Tier-Zuordnung geändert.
-
+**Interpretation:** Die `/de-DE/preise`-URL liefert 404. Die 404-Seite enthält ausschließlich `/de-CH/`-Links — Bexio hat die Deutschland-Lokalisierung unter `/de-DE/` vermutlich entfernt oder auf `/de-CH/` konsolidiert. Mögliche neue URL: `https://www.bexio.com/de-CH/preise`. Dies signalisiert eine Markt-Strategie-Änderung: Rückzug aus explizitem DE-Targeting, Fokus auf Schweiz-Branding.
+**Cosmi-Implikation:** Bexio repositioniert sich als CH-Produkt. Für Cosmi-DACH: schärfere Differenzierung über "echtes DACH-Produkt" (DE+AT+CH) vs. CH-only Bexio möglich. Pricing-URL in `_competitors.yaml` auf `/de-CH/preise` aktualisiert.
 
 ---
 
-### Zendesk — +71 Zeilen / -159 Zeilen [International · Threat: HIGH]
+### Zendesk — "Resolution Platform" AI-First Rebranding auf Pricing-Seite [International · Threat: HIGH]
 
 **Pricing-URL:** https://www.zendesk.com/pricing/
 
-**Diff:**
-
+**Diff (Schlüsselstellen):**
 ```diff
---- zendesk.md (Juni 2026)
-+++ zendesk.md (Juli 2026)
-@@ -1,219 +1,131 @@
--Zum Hauptinhalt springen
- 
-- 
-+[](/)
- 
--Kostenlos testen
-+ 
+-[Juni: Suite Team/Growth/Professional/Enterprise Tier-Navigation, ~€55–€115/Agent/Mo]
++Zendesk Resolution Platform
++  "die einzige KI-First-Serviceplattform"
 +
-+[Kostenlos testen](/register/)
- 
- #####  Plattform
- 
--  * Zendesk Resolution PlatformErreichen Sie schneller bessere Lösungen – mit der einzigen KI-First-Serviceplattform
-+  * [Zendesk Resolution PlatformErreichen Sie schneller bessere Lösungen – mit der einzigen KI-First-Serviceplattform](/platform/)
- 
--  * Zendesk-KIOptimieren Sie Ihren Service mit KI, die jede Lösung kontinuierlich verbessert
--  * Berichte und AnalysenGewinnen Sie aus Service-Insights bessere Ergebnisse
--  * MarketplaceFinden Sie über 1.800 Apps, Partner und Integrationen für Kundenservice und Mitarbeitersupport
--  * Aktionen und IntegrationenLösungen mit vereinheitlichten Daten und Systemen ermöglichen
--  * Sicherheit und VertrauenStellen Sie zuverlässigen Service mit Enterprise-Sicherheit und KI-Governance bereit
-+
-+  * [Zendesk-KIOptimieren Sie Ihren Service mit KI, die jede Lösung kontinuierlich verbessert](/service/ai/)
-+  * [Berichte und AnalysenGewinnen Sie aus Service-Insights bessere Ergebnisse](/service/analytics/)
-+  * [MarketplaceFinden Sie über 1.800 Apps, Partner und Integrationen für Kundenservice und Mitarbeitersupport](/marketplace/)
-+  * [Aktionen und IntegrationenLösungen mit vereinheitlichten Daten und Systemen ermöglichen](/platform/#Actionsandintegrations)
-+  * [Sicherheit und VertrauenStellen Sie zuverlässigen Service mit Enterprise-Sicherheit und KI-Governance bereit](/trust-center/)
-+
- 
- #####  Produkte
- 
--  * KundenserviceVerwalten und lösen Sie Kundenanfragen zentral über alle Kanäle hinweg
--  * Employee ServiceErmöglichen Sie Mitarbeiter:innen schnellste Lösungen mit einer skalierbaren, intuitiven Plattform
--  * Contact CenterErzielen Sie KI-gestützte Lösungen – bei jedem Anruf, auf jedem Kanal
--  * AI AgentsLösen Sie selbst komplexeste Anliegen – autonom und über alle Kanäle hinweg
-+  * [KundenserviceVerwalten und lösen Sie Kundenanfragen zentral über alle Kanäle hinweg](/service/)
-+  * [Employee ServiceErmöglichen Sie Mitarbeiter:innen schnellste Lösungen mit einer skalierbaren, intuitiven Plattform](/employee-service/)
-+  * [Contact CenterErzielen Sie KI-gestützte Lösungen – bei jedem Anruf, auf jedem Kanal](/service/contact-center/)
-+  * [AI AgentsLösen Sie selbst komplexeste Anliegen – autonom und über alle Kanäle hinweg](/service/ai/ai-agents/)
- 
--  * CopilotStärken Sie Ihre Serviceteams mit dem einzigen proaktiven KI-Assistenten
--  * QualitätssicherungVerbessern Sie Ihren Service kontinuierlich durch automatisches Scoring von Kundendienst-Mitarbeiter:innen und AI Agents
--  * Workforce ManagementPrognostizieren, planen und verwalten Sie Einsatzpläne Ihrer Kundendienst-Mitarbeiter:innen mit KI-gestützter Präzision
-+
-+  * [CopilotStärken Sie Ihre Serviceteams mit dem einzigen proaktiven KI-Assistenten](/service/ai/copilot/)
-+  * [QualitätssicherungVerbessern Sie Ihren Service kontinuierlich durch automatisches Scoring von Kundendienst-Mitarbeiter:innen und AI Agents](/service/quality-assurance/)
-+  * [Workforce ManagementPrognostizieren, planen und verwalten Sie Einsatzpläne Ihrer Kundendienst-Mitarbeiter:innen mit KI-gestützter Präzision](/service/workforce-management/)
-+
- 
- #####  Lösungen
- 
- Typische Anwendungsfälle
-+  * [VoiceVerwalten und bearbeiten Sie Kundenanrufe mit KI](/service/voice/)
- 
--  * Messaging und Live-ChatInteragieren Sie mit Kund:innen auf Ihrer Website oder in Ihrer App
--  * TicketingVerfolgen, organisieren und lösen Sie alle Tickets zentral an einem Ort
--  * IT-Service-ManagementIT-Support, der Ihre Mitarbeiter:innen befähigt
--  * WissensdatenbankNutzen Sie vernetztes Wissen für jede Lösung
-[... +141 weitere Zeilen ...]
++Neue Produktkategorien ab Pricing-Seite:
++  AI Agents — "Lösen Sie selbst komplexeste Anliegen – autonom"
++  Copilot — "der einzige proaktive KI-Assistent"
++  Qualitätssicherung — "automatisches Scoring von AI Agents"
++  Workforce Management — "KI-gestützte Präzision"
 ```
 
-**Interpretation:** Neuer Tier eingeführt: Business. AI-Pricing-Konditionen geändert (AI war bereits vorhanden).
-**Cosmi-Implikation:** Tier-Segmentierung im Markt verdichtet sich. Cosmi-Tier-Struktur abgleichen.
+**Interpretation:** Zendesk hat die Pricing-Seite auf "Resolution Platform" + "KI-First-Serviceplattform" umgestellt. AI Agents und Copilot sind jetzt eigenständige Produktkategorien ab der Pricing-Seite — veränderte Kaufreise. Konkrete Suite-Preise bleiben JS-gerendert, aber das Produkt-Framing hat sich fundamental verändert: von "Ticketing-Tiers" zu "AI-First-Resolution-Platform". AI-Features werden als Kern-Value-Prop, nicht als Add-on positioniert.
+**Cosmi-Implikation:** Zendesk setzt Branchenstandard: AI-Agents werden zur Kernfunktion, nicht zum Upgrade. Cosmi-Helpdesk muss AI-Triage, Auto-Resolution und Copilot-Assistenz als Tier-Kern kommunizieren. Wenn Zendesk AI inklusive macht, erhöht sich der wahrgenommene Wert von AI-Helpdesk-Lösungen generell — Cosmi profitiert, wenn es frühzeitig positioniert ist.
 
 ---
 
-## Scraping-Probleme (7)
+## Keine Änderungen (2 / stabil geprüft)
+
+**weclapp** — Preise unverändert: ERP Starter €39 | Professional €86/€95 (jährlich/monatlich) | Enterprise €163/€179
+
+**Lexoffice** — Preise unverändert: XS €11/€5 | S €7,90/€3,95 | M €12,90/€6,45 | L €21,90/€10,95 | XL €32,90/€16,45. 50%-Aktionsrabatt (3 Mo.) weiterhin aktiv — unverändert seit Juni.
+
+---
+
+## Partial / Kein Diff möglich (2)
+
+**Zoho CRM** — Cookie-Consent-Wall verhindert Preistabellen-Rendering. Kein Diff möglich. Bekannte Preise per Q2: Standard ~€14 | Professional ~€23 | Enterprise ~€40 | Ultimate ~€52/User/Mo.
+
+**HubSpot** — Pricing-Tabelle weiterhin vollständig JS-gerendert. Strukturinhalt extrahiert (Tier-Labels Starter/Professional/Enterprise Sales Hub), keine Preiszahlen. Kein Diff-Signal.
+
+---
+
+## Scraping-Probleme (3 geblockt)
 
 | Konkurrent | Status | Details |
 |---|---|---|
-| Pipedrive | **Geblockt** | 194996 Bytes — Bot-Protection / JS-Wall |
-| HubSpot | **Geblockt** | 519291 Bytes — Bot-Protection / JS-Wall |
-| Salesforce | **Geblockt** | 311 Bytes — Bot-Protection / JS-Wall |
-| monday.com | **Geblockt** | 1419821 Bytes — Bot-Protection / JS-Wall |
-| Bexio | **Geblockt** | 158910 Bytes — Bot-Protection / JS-Wall |
-| Odoo | **Geblockt** | 108 Bytes — Bot-Protection / JS-Wall |
-| sevDesk | **Geblockt** | 944466 Bytes — Bot-Protection / JS-Wall |
+| Pipedrive | **Geblockt (Cloudflare)** | Eindeutiger Block: "Sorry, you have been blocked" — 195 KB Challenge-Seite |
+| Salesforce | **Geblockt (Akamai)** | 311 Bytes — vollständiger CDN-Block |
+| Odoo | **Leer** | 108 Bytes — Pricing-Plan ohne Login-Session inhaltslos |
 
-**Empfehlung:** Browser-Session mit Cookie-Handling oder explizitem Warten auf Preis-Selektoren für nächsten Lauf konfigurieren.
+**Empfehlung für August-Lauf:**
+- Bexio: URL auf `https://www.bexio.com/de-CH/preise` aktualisiert (in `_competitors.yaml` erledigt)
+- Pipedrive/Salesforce: Browser-Fingerprint-Rotation oder manuelle Quartalsprüfung
+- Zoho/HubSpot: `waitForSelector` auf Preis-Container konfigurieren (`.pricing-table`, `[data-price]`)
+- Discord-Webhook: 403-Fehler — Token prüfen und in `.env` erneuern
 
 ---
 
 ## Strategische Beobachtungen
 
-1. **AI-Pricing-Signal:** 4 Konkurrent(en) haben diesen Monat AI-Konditionen auf ihrer Pricing-Seite geändert (Zoho CRM, weclapp, Lexoffice, Zendesk). AI-Bundling-Trend setzt sich fort.
+1. **AI-Agents-als-Standard-Erwartung beschleunigt sich:** monday.com setzt mit "people and agents included" einen neuen Messaging-Standard — AI Agents gehören wie Nutzer-Seats zur Basiskommunikation. Zendesk folgt mit "KI-First-Serviceplattform"-Rebranding. Damit haben zwei Tier-1-Platformen im Juli den Shift von "AI-Feature" zu "AI-Default" vollzogen. Cosmi muss diese Rhetorik im Q3-Messaging adaptieren — am besten vor Herbst-Relaunch-Welle der Konkurrenten.
 
-2. **DACH-Bewegung:** 2 DACH-Konkurrent(en) mit Änderungen: weclapp, Lexoffice. Mögliches Q3-Repositioning.
+2. **sevDesk-Sommerpromotion als Marktdruck-Signal:** "Black Cyber Deal" im Juli ist ungewöhnlich (normalerweise Q4). Mögliche Interpretation: Marktdruck durch günstigere Alternativen (Lexoffice Vollpreis €7,90 vs. sevDesk €12,90). Aggressive 60%-Promotion könnte Reaktion auf Churn-Druck sein. Cosmi sollte sevDesk nicht nach Aktionspreisen, sondern nach Vollpreisen vergleichen.
 
-3. **Bot-Schutz:** Pipedrive, HubSpot, Salesforce, monday.com, Bexio, Odoo, sevDesk blockieren weiterhin Headless-Scraping. Manuelle Quartalsprüfung oder Session-basiertes Scraping notwendig für vollständige Coverage.
+3. **Bexio zieht sich aus DE-URL-Struktur zurück:** `/de-DE/` → 404 signalisiert Fokussierung auf CH-Markt. Dies ist eine strategische Öffnung: Cosmi kann die DACH-Flächendeckung (DE + AT + CH) als klaren Vorteil kommunizieren gegenüber einem nun explizit CH-orientierten Bexio.
+
+4. **Bot-Schutz bei Tier-1-Playern bleibt hart:** Pipedrive (Cloudflare), Salesforce (Akamai), Odoo (Session-Gate) — drei relevante Konkurrenten weiterhin nicht scrappable. Manuelles Q3-Review für diese drei empfohlen (September-Deepdive).
+
+5. **DACH-Kernpreise stabil:** weclapp und Lexoffice zeigen keinerlei Preisbewegung. DACH-Sommerpreisruhe bestätigt sich — Herbst-Repricing-Welle (Sept/Okt) typisch. Nächste Intensiv-Review: Oktober-Lauf.
 
 ---
 
 ## Telemetrie
 
 ```
-run_date:             2026-07-01T06:00:00Z
+run_date:             2026-07-01T06:05:29Z
 competitors_total:    11
-scrape_ok:            4
-scrape_blocked:       7
-scrape_errors:        0
-diffs_detected:       4
-snapshots_updated:    4
-discord_pushed:       0
-playwright_service:   http://localhost:3001
+scrape_ok:            6
+scrape_blocked:       3  (pipedrive, salesforce, odoo)
+scrape_partial:       2  (zoho, hubspot)
+changes_detected:     4  (monday, sevdesk, bexio, zendesk)
+snapshots_updated:    8
+discord_pushed:       0  (webhook 403 — token prüfen)
+playwright_service:   http://localhost:3001 (Chrome/147.0.7727.15)
 snapshot_dir:         .state/pricing_snapshots/
+duration_seconds:     75
 next_run:             2026-08-01T04:00:00Z
 ```

@@ -1,215 +1,103 @@
-Schließen
-
- 
-
-
- 
-
 
 #####  Unbedingt notwendig
 
-  
+  
 
+Diese Cookies sind notwendig, damit unsere Website funktioniert und können in unseren Systemen nicht abgeschaltet werden. Erst diese Cookies ermöglichen es Ihnen, innerhalb der Website zu navigieren und ihre Funktionen zu verwenden. Wenn Sie diese Cookies deaktivieren oder aus Ihrem Browser entfernen, können wir nicht garantieren, dass Sie unsere Website nutzen können.
 
-Weitere Informationen
 
 #####  Funktional/Präferenz
 
-  
+  
 
-
-Hinweis: Das **Live-Chat-Widget** funktioniert **nicht** , wenn die Funktionalität/Präferenzeinstellung deaktiviert ist.
-
-Weitere Informationen
-
-#####  Analysen
-
-  
-
-
-Weitere Informationen
-
-
-
-Weitere Informationen
-
-Speichern und beenden
-
- 
-
-Hello! Do you want to navigate in English?X
-
-Ins Produktionsmenü wechseln
-
-Zoho.com
-
-  * Bigin
+  * [Bigin](https://www.bigin.com/de/?src=zGlobalRelatedProducts)
 
 Pipeline-zentriertes CRM für kleine Unternehmen.
 
-  * CRM Plus
+  * [CRM Plus](/de/crm/crmplus/?src=zGlobalRelatedProducts)
 
 Einheitliche Plattform für ein erstklassiges Kundenerlebnis.
 
-  * Desk
-
-Omnichannel-Kundenservicelösung.
-
-  * Campaigns
-
-Erreichen und binden Sie Ihre Kunden.
-
-  * Mail
-
-Sicherer E-Mail Service für Teams jeder Größe.
+  * [Desk](/de/desk/?src=zGlobalRelatedProducts)
 
   * Alle Produkte
 
+
 Deutsch
 
-  * English
-  * Español
-  * Português (Brasil)
-  * Français
-  * Nederlands
-  * 日本語
-  * العربية
-  * Bahasa Indonesia
-  * ภาษาไทย
-  * Tiếng Việt
-  * 简体中文
-  * Français (Canada)
-  * 繁体中文
-  * עברית
+  * [English](https://www.zoho.com/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown&lb=de)
+  * [Español](https://www.zoho.com/es-xl/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Português (Brasil)](https://www.zoho.com/pt-br/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Français](https://www.zoho.com/fr/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Nederlands](https://www.zoho.com/nl/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [日本語](https://www.zoho.com/jp/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [العربية](https://www.zoho.com/ar/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Bahasa Indonesia](https://www.zoho.com/id/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [ภาษาไทย](https://www.zoho.com/th/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Tiếng Việt](https://www.zoho.com/vi/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [简体中文](https://www.zoho.com.cn/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [Français (Canada)](https://www.zoho.com/fr-ca/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [繁体中文](https://www.zoho.com/zh-hant/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
+  * [עברית](https://www.zoho.com/he/crm/zohocrm-pricing.html?sredirect=true&zredirect=f&zsrc=langdropdown)
 
-Login
 
-SIGN IN
+[Login](https://accounts.zoho.eu/signin?service_language=de&servicename=ZohoCRM&signupurl=https://www.zoho.com/de/crm/signup.html&serviceurl=https%3A%2F%2Fcrm.zoho.eu%2Fcrm%2FShowHomePage.do%3Fref_value%3D%252C%252C%252CDesktop%252Chttps%253A%252F%252Fwww.zoho.com%252Fde%252Fcrm%252Fzohocrm-pricing.html%253Fsredirect%253Dtrue)
 
-  * Funktionen
-    * KI
-      *         * KI-Agenten
-        * Generative KI
-        * Prognose
-        * KI-Prognosen
-        * Empfehlung
-        * Datenanreicherung
-        * Anomalieerkennung
-        * Automatisierung
-        * Business Intelligence
-        * KI für E-Mails
-        * KI für Anrufe
-        * Vision AI
-        * Kundenmeinungen
-        * Benutzerdefinierte KI
-    * SFA
-      * Prognosen
-      * Pipeline
-      * Gebietsverwaltung
-      * CPQ
-      * Workflows
-    * Lead-Management
-      * Lead-Erfassung
-      * Anreicherung von Leads
-      * Lead-Pflege
-      * Omni-Channel-Kommunikation
-    * Prozessmanagement
-      * Taktungen
-      * Blueprint
-      * Seitenlayouts
-      * Kiosk
-      * Orchestrierung von Erlebnissen
-    * Anpassung
-      * Canvas
-      * Kundenskript
-      * Layouts und Komponenten
-      * Sandbox
-      * Portale
-    * BI
-    * Alle Funktionen anzeigen
-  * Preisgestaltung
-  * Plattform 
-    * Module 360
-    * Low-Code-Tools
-      * Modulgenerator
-      * Workflow-Builder
-      * Kiosk
-      * Assistenten
-      * Blueprint
-      * Canvas
-    * Tools für Entwickler
-      * REST-APIs
-      * Funktionen
-      * Widgets
-      * Mobil- und Web-SDKs
-      * Entwickler-Edition
-      * Sandbox
-    * Integrationen
-    * Mobilität
-    * CRM für Unternehmen
-    * Sicherheit und Konformität
-      * Rollen, Profile und Teams
-      * Zugänglichkeit
-      * HIPAA
-    * Alle Plattformen ansehen
-  * Vertikale
-    * Autoindustrie
-    * Finanzdienstleistungen
-    * Alle Branchen anzeigen
-  * Ressourcen
-    *       * Nutzer & Admin-Dokumente 
-      *       * Blog
-      *       *       *       *       *       *       *       * CRM-Optionen vergleichen
-      * Alle Ressourcen anzeigen
-  * Alle Zoho Produkte
+[](/de/crm/)
 
-Erste Schritte
+[SIGN IN](https://accounts.zoho.eu/signin?service_language=de&servicename=ZohoCRM&signupurl=https://www.zoho.com/de/crm/signup.html&serviceurl=https%3A%2F%2Fcrm.zoho.eu%2Fcrm%2FShowHomePage.do%3Fref_value%3D%252C%252C%252CDesktop%252Chttps%253A%252F%252Fwww.zoho.com%252Fde%252Fcrm%252Fzohocrm-pricing.html%253Fsredirect%253Dtrue)
 
-Apps
+  * [Funktionen](/de/crm/features.html?source_from=crm-header)
+    * [KI](/de/crm/zia/index.html?source_from=crm-header)
+      *         * [KI-Agenten](/de/crm/zia/agentic-ai.html?source_from=crm-header)
+        * [Generative KI](/de/crm/zia/generative-ai.html?source_from=crm-header)
+        * [KI-Prognosen](/de/crm/zia/index.html?source_from=crm-header&ai_section=aiforecasting)
+        * [Empfehlung](/de/crm/zia/index.html?source_from=crm-header&ai_section=recommendation)
+        * [Datenanreicherung](/de/crm/zia/index.html?source_from=crm-header&ai_section=dataenrichment)
+        * [Anomalieerkennung](/de/crm/zia/index.html?source_from=crm-header&ai_section=anomalydetection)
+        * [Automatisierung](/de/crm/zia/index.html?source_from=crm-header&ai_section=automation)
+        * [Business Intelligence](/de/crm/zia/index.html?source_from=crm-header&ai_section=businessintelligence)
+        * [KI für E-Mails](/de/crm/zia/ai-for-emails.html?source_from=crm-header)
+        * [KI für Anrufe](/de/crm/zia/index.html?source_from=crm-header&ai_section=aiforcalls)
+        * [Vision AI](/de/crm/zia/index.html?source_from=crm-header&ai_section=visionai)
+        * [Kundenmeinungen](/de/crm/zia/index.html?source_from=crm-header&ai_section=voc)
+        * [Benutzerdefinierte KI](/de/crm/zia/index.html?source_from=crm-header&ai_section=customai)
+      * [Canvas](/de/canvas/?source_from=crm-header)
+      * [Kundenskript](/de/crm/developer/client-scripts.html?source_from=crm-header)
+      * [Layouts und Komponenten](/de/crm/customization/layouts-components.html?source_from=crm-header)
+      * [Sandbox](/de/crm/developer/sandbox.html?source_from=crm-header)
+      * [Portale](/de/crm/customization/portals.html?source_from=crm-header)
+    * [BI](/de/crm/business-intelligence/index.html?source_from=crm-header)
+    * [Alle Funktionen anzeigen](/de/crm/features.html?source_from=crm-header)
+  * [Preisgestaltung](/de/crm/zohocrm-pricing.html?source_from=crm-header)
+  * [Plattform ](/de/crm/platform.html?source_from=crm-header)
+    * [Module 360](/de/crm/module360.html?source_from=crm-header)
+    * [Low-Code-Tools](/de/crm/low-code-tools/?source_from=crm-header)
+      * [Modulgenerator](/de/crm/customization/layouts-components.html?source_from=crm-header)
+      * [Workflow-Builder](/de/crm/sales-force-automation/workflows.html?source_from=crm-header)
+      * [Mobil- und Web-SDKs](/de/crm/developer/mobile-web-sdk.html?source_from=crm-header)
+      * [Entwickler-Edition](/de/crm/developer/developer-edition.html?source_from=crm-header)
+      * [Sandbox](/de/crm/developer/sandbox.html?source_from=crm-header)
+    * [Integrationen](/de/crm/integrations.html?source_from=crm-header)
+    * [Mobilität](/de/crm/mobility.html?source_from=crm-header)
+    * [CRM für Unternehmen](/de/crm/enterprise/?source_from=crm-header)
+    * [Sicherheit und Konformität](/de/crm/data-security/?source_from=crm-header)
+      * [Rollen, Profile und Teams](/de/crm/data-security/role-based-security.html?source_from=crm-header)
+      * [Zugänglichkeit](/de/crm/data-security/accessibility.html?source_from=crm-header)
+      * [HIPAA](/de/crm/data-security/hipaa.html?source_from=crm-header)
+    * [Alle Plattformen ansehen](/de/crm/platform.html?source_from=crm-header)
+  * [Vertikale](/de/crm/verticals/?source_from=crm-header)
+    * [Autoindustrie](/de/crm/verticals/automotive-crm/?source_from=crm-header)
+    * [Finanzdienstleistungen](/de/crm/verticals/financial-services/?source_from=crm-header)
+    * [Alle Branchen anzeigen](/de/crm/verticals/?source_from=crm-header)
+  * [Ressourcen](/de/crm/resources/?source_from=crm-header)
+    *       * [ Nutzer & Admin-Dokumente ](/de/crm/help/?source_from=crm-header)
+      *       * [Blog](https://help.zoho.com/portal/de/kb/crm-plus/gdpr/articles/dsgvo-konformit%C3%A4t-in-zoho-crm-plus?source_from=crm-header)
+      *       *       *       *       *       *       *       * [CRM-Optionen vergleichen](/de/crm/compare/?source_from=crm-header&cxsrc_param=crmcomparepage)
+      * [Alle Ressourcen anzeigen](/de/crm/resources/?source_from=crm-header)
+  * [Alle Zoho Produkte](/de/)
 
-Pakete
 
-Zoho One
-
-Marketplace
-
-ALLE PRODUKTE
-
-close
-
-Vertrieb
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-Marketing
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-Commerce
-
-Kundensupport
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-Finanzen
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-ERP
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-E-Mail & Zusammenarbeit
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-Personalwesen
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-Rechtliches
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
 
 Sicherheit und IT
 
@@ -221,79 +109,19 @@ Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzu
 
 Project Management
 
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
 
-Entwickler-Plattformen
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-IoT
-
-Drücken Sie die Leertaste oder die Eingabetaste, um die Liste der Optionen anzuzeigen
-
-ALLE PRODUKTE
-
-#### Vertrieb
-
- 
-
-##### CRM
-
-Schließen Sie in kürzerer Zeit mehr Aufträge ab.
-
-CRM
-
- 
-
-##### Bigin
-
-Pipeline-zentriertes CRM für kleine Unternehmen.
-
-Bigin
-
- 
-
-##### Sign
-
-Unterschreiben und versenden Sie Dokumente.
-
-Sign
-
- 
-
-##### Forms
-
-Builder für Onlineformulare zur Datenerfassung.
-
-Forms
-
- 
-
-##### SalesIQ
-
-Wandeln Sie Website Besucher in Kunden um.
-
-SalesIQ
-
- 
+ 
 
 ##### Bookings
 
 Terminplanungs-App für Kundengespräche.
 
-Bookings
+[Bookings](/de/bookings/?src=zGlobalAllProducts)
 
- 
+ 
 
-NEU
 
-##### DAP
-
-Plattform zur Vereinfachung der Softwareeinführung mit produktinterner Anleitung.
-
-DAP
-
- 
+ 
 
 Pakete
 
@@ -301,99 +129,25 @@ Pakete
 
 Einheitliche Plattform für ein erstklassiges Kundenerlebnis.
 
-CRM Plus
+[CRM Plus](/de/crm/crmplus/?src=zGlobalAllProducts)
 
 #### Marketing
 
- 
+ 
 
-##### Campaigns
 
-Erreichen und binden Sie Ihre Kunden.
-
-Campaigns
-
- 
-
-##### Social
-
-Die umfassende Software zur Social-Media-Verwaltung.
-
-Social
-
- 
-
-##### Sign
-
-Unterschreiben und versenden Sie Dokumente.
-
-Sign
-
- 
-
-##### Forms
-
-Builder für Onlineformulare zur Datenerfassung.
-
-Forms
-
- 
-
-##### Survey
-
-Online Umfragen für jede Gelegenheit.
-
-Survey
-
- 
-
-##### SalesIQ
-
-Wandeln Sie Website Besucher in Kunden um.
-
-SalesIQ
-
- 
-
-##### Sites
-
-Gestalten Sie Webseiten für mobile Geräte.
-
-Sites
-
- 
+ 
 
 ##### PageSense
 
 Software zur Optimierung der Konvertierungsrate.
 
-PageSense
+[PageSense](/de/pagesense/?src=zGlobalAllProducts)
 
- 
+ 
 
-##### Backstage
 
-Umfassende Eventmanagement-Software.
-
-Backstage
-
- 
-
-##### Marketing Automation
-
-Eine All-in-One-Software für die Marketing-Automatisierung. 
-
-Marketing Automation
-
- 
-
-##### LandingPage
-
-Intelligenter Landing Page Builder zur Steigerung der Konversationsraten.
-
-LandingPage
-
- 
+ 
 
 Pakete
 
@@ -401,244 +155,17 @@ Pakete
 
 Einheitliche Marketing-Plattform für Marketing-Teams.
 
-Marketing Plus
+[Marketing Plus](/de/marketingplus/?src=zGlobalAllProducts)
 
 #### Commerce
 
- 
+ 
 
-##### Commerce
 
-Alles rund um E-Commerce.
-
-Commerce
-
-#### Kundensupport
-
- 
-
-##### Desk
-
-Omnichannel-Kundenservicelösung.
-
-Desk
-
- 
-
-##### Assist
-
-Bieten Sie weiter entfernten Kunden sofortigen Support.
-
-Assist
-
- 
-
-##### SalesIQ
-
-Wandeln Sie Website Besucher in Kunden um.
-
-SalesIQ
-
- 
+ 
 
 ##### Bookings
 
-Terminplanungs-App für Kundengespräche.
+Terminplanungs-App für Kundenge
 
-Bookings
-
- 
-
-##### FSM
-
-End-to-End-Managementplattform für den Außendienst von Service-Unternehmen.
-
-FSM
-
- 
-
-##### Lens
-
-Interaktive Fernwartungssoftware mit Augmented Reality.
-
-Lens
-
- 
-
-Pakete
-
-##### Service Plus
-
-Eine einheitliche Plattform für den Kundendienst und Support Teams.
-
-Service Plus
-
-#### Finanzen
-
- 
-
-##### Books
-
-Intelligente Buchführung für wachsende Unternehmen
-
-Books
-
- 
-
-##### Expense
-
-Einfache Ausgabenverwaltung
-
-Expense
-
- 
-
-##### Sign
-
-Unterschreiben und versenden Sie Dokumente.
-
-Sign
-
- 
-
-KOSTENLOS
-
-##### Invoice
-
-Unkomplizierte Rechnungsstellung
-
-Invoice
-
- 
-
-##### Inventory
-
-Online Bestands- und Bestellverwaltung.
-
-Inventory
-
- 
-
-##### Billing
-
-End-to-End-Abrechnungslösung für Ihr Unternehmen.
-
-Billing
-
- 
-
-##### Commerce
-
-Alles rund um E-Commerce.
-
-Commerce
-
- 
-
-##### Checkout
-
-Erhalten Sie Zahlungen online mit individuell gestalteten Seiten.
-
-Checkout
-
- 
-
-##### Practice
-
-Praxisverwaltungssoftware für Buchhaltungsfirmen.
-
-Practice
-
- 
-
-Pakete
-
-##### Finance Plus
-
-All-in-One-Suite zur Verwaltung Ihrer Betriebsabläufe und Finanzen.
-
-Finance Plus
-
-#### ERP
-
-#### E-Mail & Zusammenarbeit
-
- 
-
-##### Mail
-
-Sicherer E-Mail Service für Teams jeder Größe.
-
-Mail
-
- 
-
-##### WorkDrive
-
-Online-Datenmanagement für Teams.
-
-WorkDrive
-
- 
-
-##### Sign
-
-Unterschreiben und versenden Sie Dokumente.
-
-Sign
-
- 
-
-##### Cliq
-
-Bleiben Sie mit Ihrem Team in Kontakt, egal wo Sie sind.
-
-Cliq
-
- 
-
-##### Connect
-
-Software für teamorientierte Arbeit, die Menschen zusammenbringt.
-
-Connect
-
- 
-
-##### Bookings
-
-Terminplanungs-App für Kundengespräche.
-
-Bookings
-
- 
-
-##### Meeting
-
-Führen Sie Webinare online durch und halten Sie Meetings auf sichere Weise ab.
-
-Meeting
-
- 
-
-##### Learn
-
-Plattform für Wissens- und Lernmanagement.
-
-Learn
-
- 
-
-##### Writer
-
-Bietet Ihnen einen übersichtlichen Raum zum Schreiben und Diskutieren.
-
-Writer
-
- 
-
-##### ZeptoMail
-
-Ein si
-
-[... truncated ...]
+[... truncated for snapshot ...]

@@ -1,34 +1,33 @@
-Skip to main contentSkip to footer
-
-AI platform
 
 Solutions
 
 Resources
 
-Enterprise
+[Enterprise](/w/enterprise)
 
-Pricing
+[Pricing](/pricing)
 
-Log in
+[Log in](//auth.monday.com/login)
 
-Contact sales
+[Contact sales](/sales/contact-us?from=header&source=Website%20-%20Contact%20Sales)
 
-Get Started
-
-AI platform
 
 Solutions
 
 Resources
 
-EnterprisePricingContact salesLog in
+[Enterprise](/w/enterprise)[Pricing](/pricing)[Contact sales](/sales/contact-us?from=header&source=Website%20-%20Contact%20Sales)[Log in](//auth.monday.com/login)
 
-Go to homepage
+[](https://mndyt.onelink.me/iaiX/h5uy17aw)
 
-# Supercharge your teamwork. Start free.
+[Go to homepage](/)
 
-## Unlimited boards and workflows. No credit card needed.
+# Plans for every team,   
+people and agents included.
+
+## Start free, no credit card needed.
+
+[](//auth.monday.com/p/work_management/users/sign_up_new?origin=hp_fullbg_page_header)
 
 Get Started
 
@@ -53,9 +52,16 @@ forever
 
 Up to 2 seats
 
-Special offer: €10 off / month
+Special offer:   
+**€10** off / month
+
+[](//auth.monday.com/p/work_management/users/sign_up_new?origin=hp_fullbg_page_header)
 
 Try for free
+
+AI features
+
+Available from Basic
 
 Free includes: 
 
@@ -88,7 +94,7 @@ Basic
 seat /  
 month
 
-Total of €90 €100
+Total of €90
 
 €9 x 10 seats = €90
 
@@ -100,29 +106,35 @@ Total = €90
 
 / month, billed annually
 
-Special offer: €10 off / month
+Special offer:   
+**€10** off / month
+
+[](//auth.monday.com/p/work_management/users/sign_up_new?origin=hp_fullbg_page_header)
 
 Try for free
 
-1,000 credits/month
+Basic AI
 
-Use your AI credits for:
+Need more? Add credits anytime
+
+3 tools · 1,000 AI credits / month
+
+Powered by AI credits:
+
+  * Agents take on specialized tasks and support multiple functions for automated execution at scale
 
 AI agent workforce
 
-Agents take on specialized tasks and support multiple functions for automated execution at scale
+Limited
 
-AI meeting notetaker
-
-Notetaker keeps your team focused during meetings and turns conversations into actionable insights
+  * Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
 
 Sidekick AI assistant
 
-Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
+  * Turn any business need into a custom business app in minutes
 
-1 published vibe app
+Vibe app builder
 
-Turn any business need into a custom business app in minutes
 
 Includes Free, plus:
 
@@ -155,33 +167,41 @@ Total = €120
 
 / month, billed annually
 
-Special offer: €20 off / month
+Special offer:   
+**€20** off / month
+
+[](//auth.monday.com/p/work_management/users/sign_up_new?origin=hp_fullbg_page_header)
 
 Try for free
 
-2,000 AI credits / month (€20)
+AI essentials
 
-Use your AI credits for:
+Need more? Add credits anytime
+
+5 tools · 2,000 AI credits / month
+
+Powered by AI credits:
+
+  * Agents take on specialized tasks and support multiple functions for automated execution at scale
 
 AI agent workforce
 
-Agents take on specialized tasks and support multiple functions for automated execution at scale
+  * Notetaker keeps your team focused during meetings and turns conversations into actionable insights
 
 AI meeting notetaker
 
-Notetaker keeps your team focused during meetings and turns conversations into actionable insights
+  * Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
 
 Sidekick AI assistant
 
-Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
+  * Turn any business need into a custom business app in minutes
 
-2 published vibe apps
+Vibe app builder
 
-Turn any business need into a custom business app in minutes
+  * AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
 
 AI columns
 
-AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
 
 Includes Basic, plus:
 
@@ -195,13 +215,12 @@ Integrations
 
 Connect monday.com with the tools you already use to centralize all your team's work.
 
-Multiple board views
+Timeline & Gantt views
 
-Visualize your work on a Gantt and calendar view to keep everything on schedule.
+See all upcoming work in a visual timeline & use Gantt charts to ensure you're meeting deadlines successfully.
 
-Guest access
 
-Guests are external users who can only access boards you invite then to, keeping the rest of your account private.
+Enable agents, integrations, and custom apps to read and update monday data. Buy more as needed
 
 Most Popular
 
@@ -226,37 +245,45 @@ Total = €190
 
 / month, billed annually
 
-Special offer: €30 off / month
+Special offer:   
+**€30** off / month
+
+[](//auth.monday.com/p/work_management/users/sign_up_new?origin=hp_fullbg_page_header)
 
 Try for free
 
-3,000 AI credits / month (€30)
+Premium AI
 
-Use your AI credits for:
+Need more? Add credits anytime
+
+6 tools · 3,000 AI credits / month
+
+Powered by AI credits:
+
+  * Agents take on specialized tasks and support multiple functions for automated execution at scale
 
 AI agent workforce
 
-Agents take on specialized tasks and support multiple functions for automated execution at scale
+  * Notetaker keeps your team focused during meetings and turns conversations into actionable insights
 
 AI meeting notetaker
 
-Notetaker keeps your team focused during meetings and turns conversations into actionable insights
+  * Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
 
 Sidekick AI assistant
 
-Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
+  * Turn any business need into a custom business app in minutes
 
-3 published vibe apps
+Vibe app builder
 
-Turn any business need into a custom business app in minutes
+  * AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
 
 AI columns
 
-AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
+  * Orchestrate workflows that connect agents and AI and watch work get done across every team
 
 AI workflow builder
 
-Orchestrate workflows that connect agents and AI and watch work get done across every team
 
 Includes Standard, plus:
 
@@ -286,39 +313,53 @@ Advanced columns
 
 Leverage advanced columns to create dynamic dependencies between tasks and perform complex automated calculations across your board's data.
 
+API calls   
+(10,000 / day)
+
+Enable agents, integrations, and custom apps to read and update monday data. Buy more as needed
+
 Enterprise
 
-Special offer: €200 off / month
+custom price
+
+Fully customized to your business needs
+
+Discounts available
 
 Get a quote
 
-Start with 20,000 credits
+Enterprise AI
 
-Use your AI credits for:
+Need more? Add credits anytime
+
+6 tools · Custom AI credits matched to how your team actually works
+
+Powered by AI credits:
+
+  * Agents take on specialized tasks and support multiple functions for automated execution at scale
 
 AI agent workforce
 
-Agents take on specialized tasks and support multiple functions for automated execution at scale
+  * Notetaker keeps your team focused during meetings and turns conversations into actionable insights
 
 AI meeting notetaker
 
-Notetaker keeps your team focused during meetings and turns conversations into actionable insights
+  * Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
 
 Sidekick AI assistant
 
-Sidekick is an intelligent context-aware AI assistant that understands, connects, and runs your work
+  * Turn any business need into a custom business app in minutes
 
-5 published vibe apps
+Vibe app builder
 
-Turn any business need into a custom business app in minutes
+  * AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
 
 AI columns
 
-AI columns run your repetitive work directly within your boards, so you can focus on your main priorities
+  * Orchestrate workflows that connect agents and AI and watch work get done across every team
 
 AI workflow builder
 
-Orchestrate workflows that connect agents and AI and watch work get done across every team
 
 Includes Pro, plus:
 
@@ -342,86 +383,19 @@ Multi-level permissions
 
 Robust permissions at every level to give you full control.
 
+API calls   
+(25,000 / day)
+
+Enable agents, integrations, and custom apps to read and update monday data. Buy more as needed
+
+Top tier support
+
 Tailored onboarding
 
 In-depth training for your team to help you get the most out of monday.com. Provided that customers meet the minimum spend threshold as applicable from time to time.
 
 Enterprise support
 
-Get 24/7 expert support, tailored onboarding with extensive training, daily webinars, a rich library of tutorials, and a 99.9% uptime SLA for true enterprise-grade reliability.
-
-  * Free
-
-€
-
-0
-
-free  
-forever
-
-Up to 2 seats
-
-Special offer: €10 off / month
-
-Try for free
-
-Free includes: 
-
-Up to 3 boards
-
-Boards are the place for organizing all your work and data (e.g. projects, clients, processes).
-
-Up to 3 Docs
-
-Create docs and collaborate with your team in real time. As your collaboration thrives, turn those words into actions with live updated data using monday.com Real Time Engine!
-
-200+ templates
-
-Choose from over 200+ templates for every industry, and customize them to fit your team's needs.
-
-8 column types
-
-Build your board the way you want with a variety of column types.
-
-iOS and Android apps
-
-Stay connected on-the-go and access monday.com from your smart phone.
-
-  * Basic
-
-€
-
-9
-
-seat /  
-month
-
-Total of €90 €100
-
-€9 x 10 seats = €90
-
-1,000 credits = €10
-
-Special monthly discount = -€10
-
-Total = €90
-
-/ month, billed annually
-
-Special offer: €10 off / month
-
-Try for free
-
-1,000 credits/month
-
-Use your AI credits for:
-
-AI agent workforce
-
-Agents take on specialized tasks and support multiple functions for automated execution at scale
-
-AI meeting notetaker
-
-Notetak
+Get 24/7 expert support, tailored onboarding with extensive traini
 
 [... truncated ...]

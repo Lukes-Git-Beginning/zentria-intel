@@ -1,302 +1,139 @@
-Skip to content
-
-🚀 Lerne die weclapp Software kennen: Jetzt zur Product Tour anmelden!
-
-__ __
-
-  * Produkt 
 
 __ Close Produkt __ Open Produkt
 
 Endlich Richtig Professionell.
 
-__
+[ __ ERP Starter Professionelles Arbeiten von Beginn an ](/de/erp-starter/) [ __ ERP Dienstleistung Intelligente Workflows, smarte Automatisierungen ](/de/cloud-erp-dienstleistung/) [ __ ERP Handel Einkauf, Verkauf und Lager effizient steuern ](/de/cloud-erp-handel/)
 
-ERP Starter
+[ __ Warum weclapp Cloud ERP? ](/de/cloud-erp/)
 
-Professionelles Arbeiten von Beginn an
-
-__
-
-ERP Dienstleistung
-
-Intelligente Workflows, smarte Automatisierungen
-
-__
-
-ERP Handel
-
-Einkauf, Verkauf und Lager effizient steuern
-
-__ Warum weclapp Cloud ERP?
-
-__ Sales kontaktieren
+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
 
 Add-ons
 
-    * __ Kassensoftware
-    * __ Vertragsmanagement
-    * __ Helpdesk
-    * __ Mobile Lager App
-
-  * Lösungen 
-
-__ Close Lösungen __ Open Lösungen
-
-Finde deine Lösung
-
-____ Anwendungsbereiche  ____ Unternehmensgröße  ____ Branche  ____ Integrationen 
-
-CRM Software 
-
-Effizientes Kunden- und Kontaktmanagement leicht gemacht. 
-
-Buchhaltungssoftware 
+    * [ __ Kassensoftware ](/de/kassensoftware/)
+    * [ __ Vertragsmanagement ](/de/vertragsmanagement/)
 
 Behalte stets den Überblick über den Finanzstatus deines Unternehmens. 
 
-Projektmanagement 
+[ Projektmanagement ](/de/projektmanagement-software/)
 
 Plane, steuere und überwache deine Projekte effektiv, um Fristen und Budgets einzuhalten. 
 
-Lagerverwaltungssoftware 
+[ Lagerverwaltungssoftware ](/de/lagerverwaltungssoftware/)
 
 Verwalte deinen Lagerbestand und optimiere Lagerprozesse effizient. 
 
-Warenwirtschaft 
+[ Warenwirtschaft ](/de/warenwirtschaft/)
 
 Optimiere Bestände und beschleunigen den Warenfluss in deinem Unternehmen. 
 
-__ Sales kontaktieren
+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
 
-Startup ERP 
+[ Startup ERP ](/de/unternehmensgroesse/startup/)
 
 weclapp bildet ein solides und sklaierbares Fundament für junge Unternehmen. 
 
-ERP für KMU 
 
-Optimal aufgestellt für Wachstum und Effizienz im Mittelstand. 
-
-Großunternehmen 
+[ Großunternehmen ](/de/unternehmensgroesse/grossunternehmen/)
 
 Das ERP-System der neuen Generation, cloudbasiert oder On-Premise. 
 
-__ Sales kontaktieren
+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
 
-E-Commerce 
+[ E-Commerce ERP ](/de/branchen/e-commerce/)
 
 Zentrale Lösung für Multi-Plattform-Online-Handel. 
 
-Kosmetik 
-
-Branchenlösung für Kosmetik und Beauty 
-
-Agentur 
-
-Automatisierte Prozess für Agenturen 
-
-Großhandel 
-
-Zentrale Verwaltung von Einkauf, Lager und Buchhaltung 
-
-IT-Dienstleistung 
-
-CRM, Helpdesk und Projektmanagement 
-
-Lebensmittel 
-
-Managementlösung für KMU in der Lebensmittelbranche 
-
-Unternehmens-  
-beratung 
-
-Flexibles CRM und Projektmanagement 
-
-Photovoltaik & Solar 
-
-Zentrale Steuerung von Einkauf, Lagerverwaltung und FiBu 
-
-Systemhaus 
 
 Strategische Unternehmensentwicklung und CRM 
 
-__ Alle Branchen
+[ __ Alle Branchen ](/de/branchen/)
 
-__ Sales kontaktieren
+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
 
-Amazon 
-
-Voll integrierte Verwaltung von Bestellungen, Lagerstand und Rezensionen. 
-
-Shipcloud 
-
-Zentrale Steuerung und Monitoring von Lagerhaltung, Versand und Track & Trace. 
-
-eBay 
-
-Unterstützung von automatisierten Auktions- und Festpreisangeboten. 
-
-ITscope 
+[ Amazon ](/de/integrationen/weclapp-und-amazon/)
 
 Voll integrierte Verwaltung von Bestellungen, Lagerstand und Rezensionen. 
 
-Shopify 
 
 Nahtlose Integration mit der größten Commerce-Plattform. 
 
-DATEV 
+[ DATEV ](/de/integrationen/weclapp-und-datev/)
 
 Umfassende Anbindung der DATEV-Plattform, Kontierung und Bankabgleich. 
 
-__ Alle Integrationen
+[ __ Alle Integrationen ](/de/integrationen/)
 
-__ Sales kontaktieren
+[ __ Sales kontaktieren ](/de/termin-vereinbaren/)
 
 Kundenstories
 
 weclapp x Lebensmittel-Branche
 
-Erfrischerling setzt auf weclapp und gewinnt klare Prozesse und höhere Effizienz. 
-
-__ Mehr erfahren
-
-  * Ressourcen 
-
-__ Close Ressourcen __ Open Ressourcen
-
-Support & Service
-
-Knowhow
-
 Unternehmen
 
-    * Onboardingpakete
-    * Supportpakete
-    * Partner finden
-    * Professional Services
-    * Hilfecenter
+    * [ Onboardingpakete ](/de/onboarding/)
+    * [ Supportpakete ](/de/support/)
+    * [ Partner finden ](/de/partner/)
+    * [ Professional Services ](https://www.weclapp.com/de/professional-services/)
+    * [ Hilfecenter ](https://doc.weclapp.com/)
 
-    * Webinare
-    * Blog
-    * Lexikon
-    * Whitepaper
+    * [ Webinare ](/de/webinare/)
+    * [ Blog ](/de/blog/)
+    * [ Lexikon ](/de/lexikon/)
 
-    * Über uns
-    * Jobs
-    * Events
+weclapp hilft mit dem passenden ERP System. 
 
-Kundenstories
+[ __ Mehr erfahren ](/de/blog/customer-story-boboq/)
 
-BoBoQ bringt Bubble Tea nach Deutschland.
+  * [ Preise  ](/de/preise/)
 
-weclapp hilft mit dem passenden ERP System. 
+  * [ Referenzen  ](/de/referenzen/)
 
-__ Mehr erfahren
-
-  * Preise 
-
-  * Referenzen 
 
 __
 
-Login
+[Login](/de/login/)
 
-kostenlos testen
+[ kostenlos testen ](/de/registrieren/)
+
+[ ](/de/)
 
 Produkt 
 
 ____
 
-__
+[ __](https://www.weclapp.com/de/erp-starter/)
 
-ERP Starter 
+[ ERP Starter ](https://www.weclapp.com/de/erp-starter/)
 
-__
+[ __](https://www.weclapp.com/de/cloud-erp-dienstleistung/)
 
-ERP Dienstleistung 
-
-__
-
-ERP Handel 
-
-Add-ons
-
-  * __ Kassensoftware
-  * __ Vertragsmanagement
-  * __ Helpdesk
-  * __ Mobile Lager App
-
-Lösungen 
-
-____
-
-Anwendungsbereiche
-
-  * CRM Software
-  * Projektmanagement
-  * Warenwirtschaft
-  * Buchhaltungssoftware
-  * Lagerverwaltungssoftware
-
-Unternehmensgröße
-
-  * Startup
-  * KMU
-  * Großunternehmen
-
-Branche
-
-  * E-Commerce
-  * Großhandel
-  * Kosmetik
-  * IT-Dienstleistung
-  * Unternehmensberatung
-  * Agentur
-  * Lebensmittel
-  * Photovoltaik & Solar
-  * Systemhaus
-  * __ Alle Branchen
-
-Integrationen
-
-  * Amazon
-  * Shipcloud
-  * eBay
-  * ITscope
-  * Shopify
-  * DATEV
-  * __ Alle Integrationen
-
-Ressourcen 
-
-____
+[ ERP Dienstleistung ](https://www.weclapp.com/de/cloud-erp-dienstleistung/)
 
 Support & Service
 
-  * Onboardingpakete
-  * Supportpakete
-  * Partner finden
-  * Professional Services
-  * Hilfecenter
+  * [ Onboardingpakete ](/de/onboarding/)
+  * [ Supportpakete ](/de/support/)
+  * [ Partner finden ](/de/partner/)
+  * [ Professional Services ](https://www.weclapp.com/de/professional-services/)
+  * [ Hilfecenter ](https://doc.weclapp.com/)
+
 
 Knowhow
 
-  * Webinare
-  * Blog
-  * Lexikon
-  * Whitepaper
+  * [ Über uns ](/de/ueber-uns/)
+  * [ Events ](/de/events/)
+  * [ Jobs ](/de/jobs/)
 
-Unternehmen
 
-  * Über uns
-  * Events
-  * Jobs
+  * [ Preise ](/de/preise/)
+  * [ Referenzen ](/de/referenzen/)
+  * [ Login ](/de/login/)
 
-  * Preise
-  * Referenzen
-  * Login
 
-kostenlos testen
+[ kostenlos testen ](/de/registrieren/)
 
 # Endlich Richtig Pro. Zu fairem Preis.
 
@@ -307,25 +144,18 @@ kostenlos testen
 ### ERP Starter   
   
 
+
 Für (noch) kleine Teams, die durchstarten wollen.
 
 € 39
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=4)
 
   * __ Kontaktmanagement
 
   * __ Angebote & Rechnungen
-
-  * __ Aufgaben & Kalender
-
-  * __ Fibu & Banking
-
-  * __ Berichtswesen
-
-  * __ E-Rechnung
 
 Nur monatlich buchbar & nicht mit anderen Paketen kombinierbar
 
@@ -338,7 +168,7 @@ Für Teams der Bereiche Consulting, Agentur, IT-Beratung etc.
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=2)
 
   * __ Alles aus ERP Starter
 
@@ -346,16 +176,10 @@ kostenlos testen
 
   * __ Aufgaben, Kalender & Kampagnen
 
-  * __ Chancen, Angebot & Auftragsabwicklung
-
-  * __ Projektmanagement inkl. Leistungsnachweis
-
-  * __(Personal-) Zeiterfassung
-
-  * __ API-Zugriff
 
 ### ERP Handel   
   
+
 
 Für Teams der Bereiche Produktion, E-Commerce, Systemhaus etc.
 
@@ -363,38 +187,29 @@ Für Teams der Bereiche Produktion, E-Commerce, Systemhaus etc.
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=3)
 
   * __ Alles aus ERP Dienstleistung
 
   * __ Warenwirtschaftssystem
 
-  * __ Disposition & Einkauf
-
-  * __ Lagerverwaltung inkl. Mobile Lager-App
-
-  * __ Serien & Chargennummern
-
-  * __ Produktion
-
   * __ Anbindung Shop (Shopware, WooCommerce, Shopify, etc.)
 
   * __ Anbindung Marktplatz (Amazon, eBay & kaufland.de etc.)
 
+
 ### Enterprise   
   
 
+
 Du benötigst mehr als 10 Lizenzen? Gerne erstellen wir dir ein individuelles Angebot mit Preisvorteilen.
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/)
 
   * __ Alles aus ERP Handel
 
   * __ Attraktive Preisvorteile
 
-  * __ Optional Customizing der Workflows
-
-  * __ Dedizierter Account Manager
 
   * __ Exklusive Workshops zur Prozessoptimierung
 
@@ -402,8 +217,10 @@ kostenlos testen
 
   * __ Professional Service Team für Prozessunterstützung
 
+
 ### ERP Starter   
   
+
 
 Für (noch) kleine Teams, die durchstarten wollen.
 
@@ -411,19 +228,11 @@ Für (noch) kleine Teams, die durchstarten wollen.
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=4)
 
   * __ Kontaktmanagement
 
   * __ Angebote & Rechnungen
-
-  * __ Aufgaben & Kalender
-
-  * __ Fibu & Banking
-
-  * __ Berichtswesen
-
-  * __ E-Rechnung
 
 Nur monatlich buchbar & nicht mit anderen Paketen kombinierbar
 
@@ -436,7 +245,7 @@ Für Teams der Bereiche Consulting, Agentur, IT-Beratung etc.
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=2)
 
   * __ Alles aus ERP Starter
 
@@ -444,16 +253,10 @@ kostenlos testen
 
   * __ Aufgaben, Kalender & Kampagnen
 
-  * __ Chancen, Angebot & Auftragsabwicklung
-
-  * __ Projektmanagement inkl. Leistungsnachweis
-
-  * __(Personal-) Zeiterfassung
-
-  * __ API-Zugriff
 
 ### ERP Handel   
   
+
 
 Für Teams der Bereiche Produktion, E-Commerce, Systemhaus etc.
 
@@ -461,44 +264,36 @@ Für Teams der Bereiche Produktion, E-Commerce, Systemhaus etc.
 
 pro Monat/Nutzer*
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/?ref=3)
 
   * __ Alles aus ERP Dienstleistung
 
   * __ Warenwirtschaftssystem
 
-  * __ Disposition & Einkauf
-
-  * __ Lagerverwaltung inkl. Mobile Lager-App
-
-  * __ Serien & Chargennummern
-
-  * __ Produktion
-
   * __ Anbindung Shop (Shopware, WooCommerce, Shopify, etc.)
 
   * __ Anbindung Marktplatz (Amazon, eBay & kaufland.de etc.)
 
+
 ### Enterprise   
   
 
+
 Du benötigst mehr als 10 Lizenzen? Gerne erstellen wir dir ein individuelles Angebot mit Preisvorteilen.
 
-kostenlos testen
+[ kostenlos testen ](https://www.weclapp.com/de/registrieren/)
 
   * __ Alles aus ERP Handel
 
   * __ Attraktive Preisvorteile
 
-  * __ Optional Customizing der Workflows
-
-  * __ Dedizierter Account Manager
 
   * __ Exklusive Workshops zur Prozessoptimierung
 
   * __ Sonderkonditionen für Mehrinstanzen
 
   * __ Professional Service Team für Prozessunterstützung
+
 
 Ohne Risiko ausprobieren | In den ersten 30 Tagen kostenlos | Automatische Kündigung
 
@@ -508,10 +303,109 @@ Ohne Risiko ausprobieren | In den ersten 30 Tagen kostenlos | Automatische Künd
 
 Add-ons erweitern die ERP-Pakete Dienstleistung und Handel um zusätzliche, branchenspezifische Funktionen.
 
+
+weclapp bietet Support per E-Mail, Telefon und Tickets sowie ein Onboarding mit Beratung und Unterstützung bei der Einführung. 
+
 __ mehr erfahren
 
-## Einzellizenzen
+## In allen Paketen enthalten. Für euren Erfolg.
 
-Einzellizenzen sind auf bestimmte Aufgaben im Unternehmen zugeschnitten und bieten passende Funktionen. Sie sind nur zusammen mit den ERP-Paketen Dienstleistung oder Handel erhältl
+  * __ Kostenloser E-Mail Support
+  * __ Tägliche Backups
+  * __ E-Mail-Synchronisation
+  * __ Berechtigungskonzept
 
-[... truncated ...]
+
+  * __ Kostenlose Webinare
+  * __ API-Schnittstelle (nur DL & Handel)
+  * __ Kostenlose Wartung & Updates
+  * __ E-Rechnung
+
+
+  * __ 99,5% Verfügbarkeit
+  * __ Individuelle Felder
+  * __ 256 Bit Verschlüsselung
+
+
+## ERP Starter
+
+## ERP Dienstleistung
+
+## ERP Handel
+
+
+
+  * __
+
+
+Kontenzuordnung & Kontierungsregeln
+
+  * __
+
+
+  * __
+
+
+  * __
+
+
+Kostenloser Zugang für Steuerberater
+
+  * __
+
+
+  * __
+
+
+  * __
+
+
+Steuerberater Portal (In Planung)
+
+  * __
+
+
+  * __
+
+Hilfe & Support 
+
+____
+
+Kostenlose Softwareupdates, Hotfixes
+
+  * __
+
+
+  * __
+
+
+  * __
+
+
+Kostenloser E-Mail-Support
+
+  * __
+
+
+  * __
+
+optional
+
+optional
+
+Online Fernunterstützung über Teamviewer (siehe Supportpakete)
+
+optional
+
+optional
+
+## Vielfach zertifizierte &  
+ausgezeichnete ERP‑Software
+
+## Add-ons
+
+Add-ons können zu den Paketen ERP Dienstleistung und Handel hinzugebucht werden, um weclapp um weitere branchenspezifische Anforderungen zu ergänzen. Dank des modularen Aufbaus lässt sich weclapp genau auf eure Anforderungen zuschneiden und eignet sich so für den einsatz in verschiedensten Branchen.
+
+[ Sales kontaktieren ](mailto:sales@weclapp.com?subject=Interesse%20an%20Add-ons&body=Liebes%20wecl
+
+[... truncated for snapshot ...]

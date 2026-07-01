@@ -1,325 +1,236 @@
-* Details
-  * [#IABV2SETTINGS#]
-  * About
 
+[Externe Inhalte laden](javascript:Cookiebot.renew\(\))
 
+Weitere Informationen findest du in unserer[ Datenschutzerklärung ](https://sevdesk.de/datenschutz/)und der Datenschutzerklärung von [YouTube](https://policies.google.com/privacy).
 
-[#GPC_BANNER_ICON#]
+Sichere dir jetzt bis zu **50% Rabatt** auf deinen Wunschtarif bis zum
 
-[#GPC_TOAST_TEXT#]
+[](/)
 
+Funktionen
 
-**Necessary**
 
-**Preferences**
+[Handwerk](/branchen/buchhaltung-handwerker/)[KFZ Werkstatt](/branchen/kfz-rechnungsprogramm/)[Gastronomie](/branchen/buchhaltung-gastronomie/)
 
-**Statistics**
+[Alle Branchen entdecken→→](/branchen/)
 
-**Marketing**
+[Preise](/preise/)
 
-Show details
+[Service](/support/)
 
-Details
+Support
 
-  * Necessary  45
 
+[GründerweltVon der Idee bis zum Erfolg in der Selbstständigkeit. In der Gründerwelt findest du Hilfe für jede Phase in deiner Gründung.](/gruenderwelt/)
 
-    * SevDesk
+[BlogInteressante Beiträge rund um das Thema Selbstständigkeit und Unternehmensgründung findest du auf unserem Blog.](/blog/)
 
-4
+[Kostenlose RechnungsvorlageUnd weitere kostenlose Vorlagen und Muster für Angebote, Rechnungen, Mahnungen und vieles mehr.](/rechnung-vorlage/)
 
-Learn more about this provider
+Kostenlose Tools für Selbstständige.
 
-**unleash:repository:repo** Used to determine whether the cache function should be running. This process is called dynamic caching and is used to optimize website speed. 
+[Zum E‑Rechnungsgenerator→→](/e-rechnungsgenerator/)[Zum Rechnungsgenerator→→](/rechnungsgenerator/)[Zu allen kostenlosen Tools→→](/kostenlose-tools/)
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+[Für Steuerberater](/fuer-steuerberater/)
 
+sevdesk für Steuerberater
 
+WissenswertesAlle Informationen zur Zusammenarbeit zwischen sevdesk, Steuerkanzleien und Mandanten.SteuerberaterportalGreifen Sie direkt auf die Daten Ihrer Mandanten zu und exportieren Sie diese bequem in Ihre Kanzleisoftware.Ihr Einstieg mit sevdeskIm kostenlosen 45-minütigen Einstiegstermin machen wir Sie fit für die Zusammenarbeit mit sevdesk Mandanten.
 
-**discount  [x2]**Pending
+Mehr
 
+[Hilfe & Support Center](https://landing.sevdesk.de/service-support-center-steuerberater)[Weiterempfehlen](/stb-weiterempfehlung/)
 
-    * Soundcloud
+[Infos für Mandanten→→](/stb-mandanten/)
 
-1
+[Einloggen](https://my.sevdesk.de/login)[Kostenlos testen](/register/)
 
-Learn more about this provider
+[Einloggen](https://my.sevdesk.de/login)[Kostenlos testen](/register/)
 
-**datadome** Used in context with the website's BotManager. The BotManager detects, categorizes and compiles reports on potential bots trying to access the website.
+# Wir haben den passenden Tarif für dein Unternehmen
 
+Sichere dir jetzt bis zu **50% Rabatt** auf deinen Wunschtarif **06:05:32:56**
 
-    * Typeform
+Black Cyber Deal
 
-8
+60% auf alles
 
-Learn more about this provider
 
-**#.#-#-#-#-#.ack** Used to contain user’s survey and quiz answers in Local Storage.
+Perfekt für alle, die Rechnungen schreiben – schnell und einfach. 
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+-{percentage}% mit {coupon}
 
-**#.#-#-#-#-#.inProgress** Used to contain user’s survey and quiz answers in Local Storage.
+12,90 €
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+12,90 €
 
-**#.#-#-#-#-#.queue** Used to contain user’s survey and quiz answers in Local Storage.
+pro Monat (zzgl. MwSt.)
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+Abbuchung erfolgt monatlich.  
 
-**#.#-#-#-#-#.reclaimEnd** Used to contain user’s survey and quiz answers in Local Storage.
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+[Tarif buchen](https://buchen.sevdesk.de/?plan=PLANA&duration=1&userConsent=true)
 
-**#.#-#-#-#-#.reclaimStart** Used to contain user’s survey and quiz answers in Local Storage.
+Funktionen ansehen
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+Alle Funktionen aus**  
+Kostenlos** sowie:
 
-**AWSALBTG** Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. 
+  * Unbegrenzt Rechnungen schreiben
 
+Erstelle Rechnungen, die sämtliche rechtlichen Pflichtangaben enthalten. Die Umsatzsteuer wird anhand der geltenden Steuersätze automatisch berechnet. Nutze für einen professionellen Auftritt unsere modernen Rechnungsvorlagen.
 
-**AWSALBTGCORS** Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. 
 
+Gib deiner Steuerberatung direkten Zugriff zu deinem sevdesk Konto. So musst du keine Daten eigenständig übermitteln.
 
+  * Alle Integrationen aus dem Marktplatz (zusätzliche Kosten der Partner sind nicht inkludiert)
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+Erweitere deinen Funktionsumfang mit einer Vielzahl an Integrationen zu Partnern. Nutze Schnittstellen, um effizienter zu arbeiten und Daten automatisiert zu übertragen. Zusätzliche Kosten der Partner können anfallen/sind nicht im Tarifpreis inkludiert.
 
-    * app.varify.io
+  * Persönlicher Support
 
-2
+Du erhältst persönlichen Support per Live-Chat, E-Mail und Telefon.  
+Weitere Premium Services stehen optional zur Verfügung.
 
-**Varify.io** Pending
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+Alle Funktionen aus**  
+Kostenlos** sowie:
 
-**varify-experiment-#** Pending
+  * Unbegrenzt Rechnungen schreiben
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+Erstelle Rechnungen, die sämtliche rechtlichen Pflichtangaben enthalten. Die Umsatzsteuer wird anhand der geltenden Steuersätze automatisch berechnet. Nutze für einen professionellen Auftritt unsere modernen Rechnungsvorlagen.
 
-    * assets.storylane.io  
-js-eu1.hs-analytics.net  
 
-2
+Gib deiner Steuerberatung direkten Zugriff zu deinem sevdesk Konto. So musst du keine Daten eigenständig übermitteln.
 
+  * Alle Integrationen aus dem Marktplatz (zusätzliche Kosten der Partner sind nicht inkludiert)
 
+Erweitere deinen Funktionsumfang mit einer Vielzahl an Integrationen zu Partnern. Nutze Schnittstellen, um effizienter zu arbeiten und Daten automatisiert zu übertragen. Zusätzliche Kosten der Partner können anfallen/sind nicht im Tarifpreis inkludiert.
 
-    * atlas.sevdesk.de  
-static.hsappstatic.net  
+  * Persönlicher Support
 
-10
+Du erhältst persönlichen Support per Live-Chat, E-Mail und Telefon.  
+Weitere Premium Services stehen optional zur Verfügung.
 
+Perfekt für alle, die ihre Belege & Finanzen selbst verwalten und die Steuererklärung vorbereiten.
 
+-{percentage}% mit {coupon}
 
-    * auth.sevdesk.de  
+25,90 €
 
-13
+25,90 €
 
+pro Monat (zzgl. MwSt.)
 
+Abbuchung erfolgt monatlich.  
 
-    * hsforms.com  
-www.sevdesk.ch  
-www.sevdesk.com  
 
-4
+[Tarif buchen](https://buchen.sevdesk.de/?plan=PLANB&duration=1&userConsent=true)
 
+Funktionen ansehen
 
+Alle Funktionen aus  
+‍**Rechnung** sowie:
+Die Summen- und Saldenliste gibt dir detailgenauen Einblick in deine Buchungskonten und Buchungssätze. So kannst du und deine Steuerberatung Buchungen transparent nachvollziehen, Fehler schneller entdecken und damit so effizient zusammen arbeiten wie nie zuvor - ganz auf Augenhöhe.
 
-    * widget.sndcdn.com
+Beta:
 
-1
 
-**sc_anonymous_id** Used in context with the 3D-view-function on the website.
+### Buchhaltung Pro
 
+Perfekt für alle, die ihre Buchhaltung automatisieren und ihr Unternehmen in Echtzeit überblicken.
 
-  * Preferences  3
+-{percentage}% mit {coupon}
 
+34,90 €
 
+34,90 €
 
-1
+pro Monat (zzgl. MwSt.)
 
-Learn more about this provider
+Abbuchung erfolgt monatlich.  
 
 
-**Maximum Storage Duration** : 1 year**Type** : HTML Local Storage
+[Tarif buchen](https://buchen.sevdesk.de/?plan=PLANC&duration=1&userConsent=true)
 
-    * Typeform
+Funktionen ansehen
 
-2
+Alle Funktionen aus  
+**Buchhaltung** sowie:
 
-Learn more about this provider
+Perfekt für alle, die Rechnungen schreiben – schnell und einfach. 
 
-**tf_random_id** Used to implement forms on the website.
+-{percentage}% mit {coupon}
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
+12,90 €
 
-**tf_respondent_cc** Used to implement forms on the website.
+12,90 €
 
+pro Monat (zzgl. MwSt.)
 
-  * Statistics  73
+Abbuchung erfolgt jährlich.
 
+[Tarif buchen](https://buchen.sevdesk.de/?plan=PLANA&duration=12&userConsent=true)
 
-    * Google
+Funktionen ansehen
 
-8
+Alle Funktionen aus**  
+Kostenlos** sowie:
 
-Learn more about this provider
+  * Unbegrenzt Rechnungen schreiben
 
-Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+Erstelle Rechnungen, die sämtliche rechtlichen Pflichtangaben enthalten. Die Umsatzsteuer wird anhand der geltenden Steuersätze automatisch berechnet. Nutze für einen professionellen Auftritt unsere modernen Rechnungsvorlagen.
 
-**_ga  [x4]**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 
+Gib deiner Steuerberatung direkten Zugriff zu deinem sevdesk Konto. So musst du keine Daten eigenständig übermitteln.
 
-**_ga_#  [x4]**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+  * Alle Integrationen aus dem Marktplatz (zusätzliche Kosten der Partner sind nicht inkludiert)
 
+Erweitere deinen Funktionsumfang mit einer Vielzahl an Integrationen zu Partnern. Nutze Schnittstellen, um effizienter zu arbeiten und Daten automatisiert zu übertragen. Zusätzliche Kosten der Partner können anfallen/sind nicht im Tarifpreis inkludiert.
 
-    * Hotjar
+  * Persönlicher Support
 
-10
+Du erhältst persönlichen Support per Live-Chat, E-Mail und Telefon.  
+Weitere Premium Services stehen optional zur Verfügung.
 
-Learn more about this provider
 
+Alle Funktionen aus**  
+Kostenlos** sowie:
 
+  * Unbegrenzt Rechnungen schreiben
 
+Erstelle Rechnungen, die sämtliche rechtlichen Pflichtangaben enthalten. Die Umsatzsteuer wird anhand der geltenden Steuersätze automatisch berechnet. Nutze für einen professionellen Auftritt unsere modernen Rechnungsvorlagen.
 
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
 
-**hjViewportId** Saves the user's screen size in order to adjust the size of images on the website.
+Gib deiner Steuerberatung direkten Zugriff zu deinem sevdesk Konto. So musst du keine Daten eigenständig übermitteln.
 
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
+  * Alle Integrationen aus dem Marktplatz (zusätzliche Kosten der Partner sind nicht inkludiert)
 
-**_hjSession_#  [x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Erweitere deinen Funktionsumfang mit einer Vielzahl an Integrationen zu Partnern. Nutze Schnittstellen, um effizienter zu arbeiten und Daten automatisiert zu übertragen. Zusätzliche Kosten der Partner können anfallen/sind nicht im Tarifpreis inkludiert.
 
+  * Persönlicher Support
 
-**_hjSessionUser_#  [x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+Du erhältst persönlichen Support per Live-Chat, E-Mail und Telefon.  
+Weitere Premium Services stehen optional zur Verfügung.
 
+Perfekt für alle, die ihre Belege & Finanzen selbst verwalten und die Steuererklärung vorbereiten.
 
-**_hjTLDTest  [x2]**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
+-{percentage}% mit {coupon}
 
+25,90 €
 
-    * HubSpot
+25,90 €
 
-4
+pro Monat (zzgl. MwSt.)
 
-Learn more about this provider
+Abbuchung erfolgt jährlich.
 
+[Tarif buchen](https://buchen.sevdesk.de/?plan=PLANB&duration=12&userConsent=true)
 
+Funktionen ansehen
 
-**__hssrc** Used to recognise the visitor's browser upon reentry on the website.
-
-
-**__hstc** Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
-
-
-**hubspotutk** Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.
-
-
-    * SevDesk
-
-11
-
-Learn more about this provider
-
-**unleash:repository:sessionId** Used in connection with phased release which allows the website owner to assign a certain number of users to a specific version of the website.
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-**_pk_id#** Collects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
-
-
-**_pk_ses#** Used by Piwik Analytics Platform to track page requests from the visitor during the session.
-
-
-
-
-**_sp_id.#** Collects data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
-
-
-**_sp_root_domain_test_#** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-
-**_sp_ses.#** Used by Snowplow Analytics to track how users are browsing and engaging with a website.
-
-
-    * Soundcloud
-
-1
-
-Learn more about this provider
-
-**number(#)** Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration** : Session**Type** : HTML Local Storage
-
-    * TikTok
-
-4
-
-Learn more about this provider
-
-
-
-    * Typeform
-
-7
-
-Learn more about this provider
-
-**rl_anonymous_id** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-**rl_group_id** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-**rl_group_trait** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-**rl_trait** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-**rl_user_id** Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-
-
-**tracking_session_id** Determines when the visitor last visited the different subpages on the website, as well as sets a timestamp for when the session started.
-
-
-    * auth.sevdesk.de  
-buchen.sevdesk.at  
-
-4
-
-**NRBA_SESSION  [x4]**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
-
-**Maximum Storage Duration** : Persistent**Type** : HTML Local Storage
-
-    * buchen.sevdesk.at  
-buchen.sevdesk.de  
-
-8
-
-
-
-    * sevdesk.at  
-sevdesk.ch  
-sevdesk.com  
-sevdesk.de  
-
-16
-
-**FPAU  [x4]**Assigns a specific ID to the visitor. This allows the website to determine the number of specific user-visits for analysis and statistics.
-
-
-**FPGSID  [x4]**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-
-**FPID  [x4]**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. 
-
-
-**FPLC  [x4
+Alle Funktionen aus  
+‍**Rechnung** sowie:
+Die Summen- und Saldenliste gibt dir detailgenauen Einblick in deine Buchungskonten und Buchungssätze. So kannst du und deine Steuerberatung Buchungen transparent nachvollziehen, Fehler schneller entdecken und damit so effizient zus
 
 [... truncated ...]

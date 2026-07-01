@@ -1,8 +1,5 @@
-Seiten-Sprungmarken
-
-  * Zur Hauptnavigation springen
-  * Zum Hauptinhalt springen
   * Zur Fußnavigation springen
+
 
 50%Rabatt für3 Monate
 
@@ -12,13 +9,14 @@ Seiten-Sprungmarken
   * **Inkl. Hosting, Datensicherung, Updates und Support**
   * **Keine Extrakosten**
 
+
 Version wählen 
 
 Deine Auswahl:
 
-11,00 €
+11,00 €
 
-5,00 €
+5,00 €
 
 Rabattlaufzeit 3 Monate 
 
@@ -28,9 +26,9 @@ S
 
 Belegerfassung und -archiv 
 
-7,90 €
+7,90 €
 
-3,95 €
+3,95 €
 
 Auswählen 
 
@@ -38,9 +36,9 @@ M
 
 Angebote, (E-) Rechnungen und Mahnungen 
 
-12,90 €
+12,90 €
 
-6,45 €
+6,45 €
 
 Auswählen 
 
@@ -50,9 +48,9 @@ L
 
 Buchhaltung, EÜR und Umsatzsteuer 
 
-21,90 €
+21,90 €
 
-10,95 €
+10,95 €
 
 Auswählen 
 
@@ -60,9 +58,9 @@ XL
 
 EU- und Abschlagsrechnungen, API 
 
-32,90 €
+32,90 €
 
-16,45 €
+16,45 €
 
 Auswählen 
 
@@ -70,7 +68,7 @@ Alle Preise pro Monat, zzgl. MwSt. Monatlich kündbar. Rabattlaufzeit 3 Monate
 
 Zum Versionsvergleich 
 
-Weiter ohne Lohn & Gehalt 
+[ Weiter ohne Lohn & Gehalt ](/preise/ "Weiter ohne Lohn & Gehalt")
 
 Lohnabrechnung hinzufügen (optional) 
 
@@ -80,13 +78,13 @@ Einfache, rechtssichere Lohnabrechnung
 
 bis 2 Mitarbeitende  bis 5 Mitarbeitende  bis 10 Mitarbeitende  bis 20 Mitarbeitende  bis 25 Mitarbeitende  bis 30 Mitarbeitende  bis 35 Mitarbeitende  bis 40 Mitarbeitende  bis 45 Mitarbeitende  bis 50 Mitarbeitende 
 
-12,90 €
+12,90 €
 
-6,45 €
+6,45 €
 
-Erst Version auswählen 
+[ Erst Version auswählen ](/preise/ "Erst Version auswählen")
 
-Weiter ohne Lohn & Gehalt 
+[ Weiter ohne Lohn & Gehalt ](/preise/ "Weiter ohne Lohn & Gehalt")
 
 Alle Preise pro Monat, zzgl. MwSt. Monatlich kündbar. Rabattlaufzeit 3 Monate
 
@@ -94,150 +92,28 @@ Alle Preise pro Monat, zzgl. MwSt. Monatlich kündbar. Rabattlaufzeit 3 Monate
 
     * Mitarbeiterdatenverarbeitung 
 
-Endlich habe ich alle Mitarbeiterinformationen an einem Ort und jederzeit im Zugriff. Ändern sich Mitarbeiterdaten, berücksichtigt Lexware Office dies automatisch in der nächsten Lohn- oder Gehaltsabrechnung.
 
-    * Abrechnung aller Mitarbeitertypen* und Entgeltarten** 
-
-In wenigen Minuten **100% rechtssicher** abrechnen: Der Abrechnungs-Assistent führt in 3 einfachen Schritten zur fertigen Lohnabrechnung für alle Mitarbeiter und Aushilfen: Einfach nur Daten eingeben, die auch dem Steuerberater oder Lohnbüro gemeldet werden müssen - den Rest erledigt Lexware Office.  
-  
-* ausgenommen: Baulohn/Baugewerbe, Öffentlicher Dienst, Private Haushaltshilfen, Wohnungseigentümergemeinschaften (WEG), Grenzgänger / Doppelbesteuerungsabkommen, Kurzfristig beschäftigte Mitarbeiter mit 25% Pauschalbesteuerung, Bundesfreiwilligendienst (BUFDI), Freiwilliges soziales Jahr (FSJ)  
-  
-** ausgenommen: Betriebliche Altersvorsorge als Direktzusage, Unterstützungskasse und Versorgungsbezüge
-
-    * Automatische Erstellung und Versendung der SV-/Steuermeldungen 
-
-Lexware Office erstellt und versendet automatisch alle gesetzlich verpflichtenden Meldungen an Krankenkassen und Finanzamt – selbstverständlich fristgerecht. Im Falle einer Entgeltfortzahlung im Krankheitsfall versendet Lexware Office automatisch einen Rückerstattungsantrag an die Krankenkasse und holt so für mich Geld zurück.
-
-    * Mitarbeiter integriert bezahlen 
-
-Abgerechnete Löhne, Gehälter, Steuern und Krankenversicherungsbeiträge kann ich direkt aus Lexware Office heraus überweisen. Eine manuelle Übertragung der Daten in mein Onlinebanking entfällt dadurch.
+Abgerechnete Löhne, Gehälter, Steuern und Krankenversicherungsbeiträge kann ich direkt aus Lexware Office heraus überweisen. Der Vorteil: Ich muss die Daten nicht mehr manuell in mein Onlinebanking übertragen.
 
     * Lohndokumente für Mitarbeiter digital bereitstellen 
 
+Lexware Office richtet für jeden meiner Mitarbeiter einen persönlichen, geschützten Online-Zugang ein. So können diese jederzeit auf ihre Lohndokumente zugreifen und bei Bedarf herunterladen oder ausdrucken. Damit muss ich die Unterlagen nicht mehr zeitraubend ausdrucken oder versenden – und der aus Datenschutzgründen heikle Versand via E-Mail entfällt ebenfalls.
 
     * Automatische Verbuchung der Personalkosten 
 
-Nach der Lohn- & Gehaltsabrechnung sind alle Personalkosten auch bereits automatisch in meiner Lexware Office Buchhaltung verbucht. So haben mein Steuerberater und ich sämtliche Personalkosten inklusive aller Nebenkosten jederzeit im Blick.
+Nach der Lohn- & Gehaltsabrechnung verbucht Lexware Office alle Personalkosten automatisch in meiner Buchhaltung. So haben mein Steuerberater und ich sämtliche Personalkosten inklusive aller Nebenkosten jederzeit im Blick.
 
-    * HGB-konformes Dokumentenarchiv 
 
-Lexware Office sorgt dafür, dass alle vom Gesetzgeber vorgeschriebenen Dokumente für meine Mitarbeiter und mich als Arbeitgeber ordnungsgemäß erstellt und archiviert werden. So bin ich auch bei einer Betriebsprüfung immer auf der sicheren Seite.
+    * Datenexport (DLS & euBP) und Lohnjournal 
 
-    * Datenexport (DLS & euBP) 
+Die Digitale Lohnschnittstelle (DLS) und die elektronisch unterstützte Betriebsprüfung (euBP) erleichtert den Export von Daten aus dem Lohnabrechnungsprogramm im Falle einer einer Lohnsteuer-Außenprüfung bzw. Betriebsprüfung durch die Rentenversicherung. Diese verlaufen so schneller und effizienter, vor allem da die Verschiebung von Papierbergen entfällt.  
+  
+Das ausdruckbare Lohnjournal bietet dir zusätzlich eine Zusammenfassung aller Monatsabrechnungen für Löhne und Gehälter.
 
-Die Digitale Lohnschnittstelle (DLS) und die elektronisch unterstützte Betriebsprüfung (euBP) erleichtert den Export von Daten aus dem Lohnabrechnungsprogramm im Falle einer Lohnsteuer-Außenprüfung bzw. Betriebsprüfung durch die Rentenversicherung. Diese verlaufen so schneller und effizienter, vor allem da die Verschiebung von Papierbergen entfällt.
 
 Jetzt vergleichen
 
 Vergleich: Finde jetzt die passende Version 
-
-Unsicher, welche Variante die richtige für dich ist? Unsere detaillierte Funktionsübersicht hilft weiter: Vergleiche hier die Leistungen und entscheide dich dann für die passende Version.
-
-Zur Versionsauswahl 
-
-Nur Unterschiede anzeigen
-
-  * E-Rechnung (Pflicht seit 01.01.2025) 
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * E-Rechnung erfassen 
-
-E-Rechnungen gemäß EN 1693l in einem strukturierten Datensatz erfassen. Erfüllung der ab 01.01.2025 geltenden gesetzlichen Vorgaben.
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * E-Rechnungen erstellen und übermitteln 
-
-E-Rechnungen gemäß EN 16931 in einem strukturierten Datensatz (Formate: ZUGFeRD und XRechnungen) erstellen und übermitteln. Erfüllung der ab 01.01.2025 geltenden gesetzlichen Vorgaben.
-
-S 
-
-M 
-
-L 
-
-XL 
-
-  * Auftrag und Buchhaltung 
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * GoBD Langzeitbelegarchiv 
-
-Word & Excel Rechnungen sowie Kundenkorrespondenz speichere ich bequem rechtskonform im elektronischen GoBD Langzeitbelegarchiv von Lexware Office. Nur das schützt mich vor möglichen Steuernachzahlungen!
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * Lexware App inkl. Belegscanner & Belegprüfung 
-
-Buchhaltung so einfach wie fotografieren - Belege auf dem Handy per Lexware App abscannen. Lexware Office erkennt alle notwendigen Informationen automatisch und erstellt einen Buchungsvorschlag, den ich nur noch per Klick bestätigen muss.
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * Offene Posten Übersicht 
-
-Meine Zahlungen im Griff - hier sehe ich auf einen Blick, welcher Kunde mir noch Geld schuldet und welchem Lieferanten ich bis wann Geld überweisen muss. So verpasse ich nie wieder Zahlungsfristen.
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * Rechnungen mit 1 Klick in Lexware Office teilen 
-
-Rechnungen aus E-Mails teile ich direkt aus meinem Mail-Programm oder einer geteilten Dokumentenablage auf dem Handy per Klick mit der Lexware Office Mobile App. Die Verbuchung und Archivierung erfolgt dann automatisch – das ist genauso einfach wie Fotos teilen per Whats App und Co.
-
-S 
-
-M 
-
-L 
-
-XL 
-
-    * Automatische Umsatzsteuerprognose 
-
-Damit weiß ich überall und in Echtzeit, wie viel Geld ich am Monats-/Quartalsende an das Finanzamt überweisen muss oder von dort zurückbekomme. Keine bösen Überraschungen mehr.
-
-S 
-
-M 
-
-L 
 
 XL 
 
@@ -249,70 +125,138 @@ S
 
 M 
 
-L 
 
 XL 
 
-    * Rechnungen, Angebote, Lieferscheine, Auftragsbestätigungen 
+    * Betriebswirtschaftliche Auswertung (BWA) 
 
-Aufträge schreibe ich mit Lexware Office bis zu 90% schneller als mit Word & Excel dank vieler Auto-Vervollständigungen. Intelligente Auftrags-Workflows helfen mir zudem, Belegnummern, spezielle Kundenrabatte oder individuelle Zahlungsbedingungen immer richtig zu vergeben. Die rechtskonforme Protokollierung & Langzeitarchivierung erledigt Lexware Office im Hintergrund automatisch für mich.
+Mit der BWA kann ich in Echtzeit meine kurzfristige Erfolgsrechnung einsehen, verschiedene Zeiträume vergleichen und Wachstumschancen erkennen. Mittels Drill-Down Funktion zoome ich in einzelne Bereiche hinein, um so die jeweils zugehörigen Einnahmen und Ausgaben nachvollziehen zu können. Ich kann die BWA als PDF exportieren und damit meine Unternehmenslage Banken und Behörden unkompliziert nachweisen.
 
 S 
 
 M 
 
-L 
 
 XL 
 
-    * XRechnung 
+    * Steuerberater Zugang 
 
-Rechnungen an Behörden im Format "XRechnung" erstelle ich genauso einfach wie normale Rechnungen. Alle gesetzlichen Formalitäten, die korrekte Verbuchung und auch die steuerlich korrekte Deklaration erledigt Lexware Office für mich.
+Mein Steuerberater erhält auf Wunsch einen kostenlosen Online Zugang zu meinem Lexware Office Konto. Über 50.000 Steuerberater in Deutschland nutzen bereits diese Möglichkeit zur digitalen Zusammenarbeit mit ihren Mandanten.
 
 S 
 
 M 
 
-L 
 
 XL 
 
-    * Standardprodukte und -services 
+    * Kundenhistorie 
 
-Häufig angebotene Produkte und Dienstleistungen kann ich als Vorlagen abspeichern und später mit 1 Klick in künftige Aufträge einfügen.
+Zu jedem meiner Kunden zeigt mir Lexware Office den zeitlichen Verlauf. Darin sehe ich alle Vorgänge zu meinem Kunden in chronologischer Reihenfolge. So kann ich mich jederzeit schnell orientieren und optimal auf Kundengespräche vorbereiten.
 
 S 
 
 M 
 
-L 
 
 XL 
 
-    * Mahnungen & Zahlungserinnerungen 
+    * Datei Uploads und Kundenakte 
 
-Diese erstelle ich mit einem Klick aus überfälligen Rechnungen und versende diese postalisch oder digital.
+In der Kundenakte sammle ich alle wichtigen Dokumente (Fotos, Pläne, Präsentationen, Aufmaße u.v.m.) zu meinem Kunden an einem einzigen Ort. So können mein Team und ich von überall darauf zugreifen.
 
 S 
 
 M 
 
+
 L 
 
 XL 
 
-    * USt-Voranmeldung & Zusammenfassende Meldung 
+    * Planung & Prognose 
 
-Diese erstelle und versende ich elektronisch mit einem Klick aus Lexware Office an mein Finanzamt. Sollte eine zusammenfassende Meldung an das Bundeszentralamt für Steuern notwendig sein, so kann ich auch diese automatisch aus Lexware Office heraus erzeugen und versenden.
+Damit kann ich leicht verständlich Umsätze und Kosten planen und die tatsächliche Entwicklung mit meiner Prognose abgleichen.
 
 S 
 
 M 
 
-L 
 
-XL 
+FAQ
 
-    * Elektronisches Kassen
+##  Häufige Fragen zum Kauf von Lexware Office 
 
-[... truncated ...]
+[Kontaktiere uns](/kontakt/)
+
+###  Ist der Support bereits im Preis für Lexware Office enthalten? 
+
+ 
+
+Ja, der Support ist im Preis für Lexware Office bereits enthalten. Du erreichst das Service-Team jederzeit über das Fragezeichen-Symbol in ihrem Lexware Office oben rechts, per E-Mail an [help@lexware.de](mailto:help@lexware.de) oder über unsere kostenlose Service-Hotline unter [0800 3000 777](tel:+498003000777) (Mo. – Fr. 8 – 18 Uhr).
+
+###  Wenn ich jetzt kaufe, für wie lange bin ich dann an Lexware Office gebunden? 
+
+ 
+
+
+###  Wie bekomme ich Updates von Lexware Office? 
+
+ 
+
+Lexware Office ist als Cloud-Software jederzeit auf dem aktuellsten Stand. Neuerungen in Lexware Office geben wir unseren Kund:innen grundsätzlich kostenlos weiter. Einen guten Eindruck darüber verschafft dir die [Timeline](https://office.lexware.de/timeline).
+
+###  Kann ich die gewählte Version jederzeit wechseln? 
+
+ 
+
+In den Einstellungen deines Lexware Office Accounts kannst du jederzeit die Lexware Office Version wechseln und so den sich verändernden Bedürfnissen deines Business anpassen.
+
+###  Wie kann ich das Lohnprogramm Lohn & Gehalt dazubuchen? 
+
+ 
+
+
+###  Kann ich Lexware Office auch unverbindlich testen? 
+
+ 
+
+Ja, Lexware Office kannst du **unverbindlich für 30 Tage kostenlos teste** n. Im Test stehen dir **alle Funktionen der Version XL sowie Lexware Office Lohn & Gehalt** zur Verfügung. Im Anschluss an den kostenlosen Testzeitraum kannst du dich für die passende Lexware Office Version entscheiden. 
+
+[Anmeldung zum kostenlosen Test](https://app.lexware.de/signup/app/trial)
+
+###  Gibt es Limits oder Beschränkungen in der Nutzung von Lexware Office? 
+
+ 
+
+
+###  Ist die Nutzung der Lexware Apps für iOS und Android ebenfalls inbegriffen? 
+
+ 
+
+In den Lexware Office Preisen sind die zugehörigen Apps enthalten. Verfügbar sind die Apps sowohl für Android als auch für iOS. Mit der Lexware App erstellst du mobil Rechnungen und Angebote, erfasst Belege uvm.
+
+[Kunden­bewertung**4,3** / 5 Also, ich muss es zugeben... Lexware Office macht am meisten Spaß!  Kunden­bewertungen powered by **eKomi**](https://www.ekomi.de/bewertungen-lexware.html "https://www.ekomi.de/bewertungen-lexware.html")
+
+##  Ausgezeichnet durch eKomi 
+
+Lexware Office erhält bei eKomi **2429 Bewertungen mit 4,3 Sternen** (von 1 bis 5). 
+
+[Lexware Logo](/ "Lexware Startseite")
+
+Mach's dir leicht und gib deinem Business den entscheidenden Push – mit unserer Software für Buchhaltung & Lohn.
+
+[](https://apps.apple.com/app/lexware/id622526440 "Lexware Office App - Laden im App Store")[](https://play.google.com/store/apps/details?id=de.lexoffice.android "Lexware Office App - Jetzt bei Google Play")
+
+Lösungen
+
+[**4,7**(16502 Bewertungen)**•****Trusted.de**](https://trusted.de/lexoffice "https://trusted.de/lexoffice")
+
+
+
+
+  * [__Gendergerechte Sprache](javascript:%20void\(0\); "Hinweis: Gendergerechte Sprache ist uns wichtig. Daher verwenden wir auf diesem Portal, wann immer möglich, genderneutrale Bezeichnungen. Daneben weichen wir auf das generische Maskulinum aus. Hiermit sind ausdrücklich alle Geschlechter \(m/w/d\) mitgemeint. Diese Vorgehensweise hat lediglich redaktionelle Gründe und beinhaltet keinerlei Wertung.")
+  * [ Lieferketten ](https://lieferketten.lexware.de/ "Lieferketten")
+  * [ Compliance ](https://www.haufegroup.com/legal
+
+[... truncated for snapshot ...]
