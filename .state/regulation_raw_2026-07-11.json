@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-11",
+  "kw": 28,
+  "run_start": "2026-07-11T09:00:00.000000+02:00",
+  "sources_ok": [
+    "bsi-warnungen",
+    "noyb"
+  ],
+  "sources_403": [
+    "edpb-newsroom",
+    "oedp-eaid"
+  ],
+  "sources_failed": [
+    "eur-lex",
+    "bfdi-pressemitteilungen",
+    "bsi-pressemitteilungen",
+    "e-rechnung-bmwk",
+    "eaid-arbeitsrecht",
+    "cybernews-eu"
+  ],
+  "sources_404": [
+    "eur-lex",
+    "bfdi-pressemitteilungen",
+    "bsi-pressemitteilungen",
+    "e-rechnung-bmwk",
+    "eaid-arbeitsrecht",
+    "cybernews-eu"
+  ],
+  "noyb_new_articles_kw28": 0,
+  "websearch_supplements": [
+    "EDPB Anonymisation Guidelines 02/2026 July 7 2026 adoption",
+    "AI Act Omnibus Official Journal publication July 2026 status",
+    "EU DPF Data Privacy Framework adequacy decision European Commission July 2026",
+    "NIS2 BSI Registrierung Juli 2026 Frist 31 Juli Stand Unternehmen",
+    "BSI WID-SEC-2026-1190 GNU libc kritisch CVSS 9.8 July 2026"
+  ],
+  "items_scanned": 85,
+  "items_after_filter": 15,
+  "items": [
+    {
+      "id": "edpb-anonymisation-guidelines-02-2026",
+      "title": "EDPB Guidelines 02/2026 on Anonymisation v1.0 — verabschiedet 7. Juli 2026",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "pdf_url": "https://www.edpb.europa.eu/system/files/2026-07/edpb_guidelines_202602_anonymisation_v1_en_0.pdf",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source_id": "edpb-newsroom",
+      "source_label": "European Data Protection Board",
+      "trust": 10,
+      "severity": "policy_major",
+      "topics": ["gdpr", "anonymisation", "analytics", "ai_training", "cjeu_c413_23"],
+      "cosmi_action": "akut",
+      "module": ["DSGVO", "Legal", "Product", "Data"],
+      "notes": "3-Kriterien-Test: No-Isolation + No-Linkage + No-Inference. Konsultation bis 30.10.2026. CJEU C-413/23 P EDPS v SRB als Grundlage."
+    },
+    {
+      "id": "edpb-webscraping-ai-guidelines-2026",
+      "title": "EDPB Web Scraping for Generative AI — Leitlinien verabschiedet 7. Juli 2026",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source_id": "edpb-newsroom",
+      "source_label": "European Data Protection Board",
+      "trust": 10,
+      "severity": "policy_medium",
+      "topics": ["gdpr", "web_scraping", "generative_ai", "legal_basis", "purpose_limitation"],
+      "cosmi_action": "followup",
+      "module": ["DSGVO", "Legal", "Product", "AI"]
+    },
+    {
+      "id": "edpb-blockchain-guidelines-final-2026",
+      "title": "EDPB Blockchain Guidelines — Finale Version 7. Juli 2026",
+      "url": "https://www.edpb.europa.eu/news/edpb-sheds-light-on-anonymisation-and-web-scraping-for-generative-ai-and-adopts-final-version_en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "source_id": "edpb-newsroom",
+      "trust": 10,
+      "severity": "policy_low",
+      "topics": ["gdpr", "blockchain", "dlt"],
+      "cosmi_action": "beobachten",
+      "module": ["DSGVO", "Legal"]
+    },
+    {
+      "id": "dpf-crisis-monitoring-kw28",
+      "title": "DPF-Krise: EC hält Adequacy-Entscheidung aufrecht — CJEU-Klage Latombe pending",
+      "url": "https://btlj.org/2026/02/third-times-the-charm-the-fate-of-the-eu-u-s-data-privacy-framework/",
+      "published": "2026-07-11T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 8,
+      "topics": ["gdpr", "dpf", "eu_us_transfers", "adequacy_decision", "cjeu"],
+      "cosmi_action": "beobachten",
+      "module": ["DSGVO", "Legal", "Infra"],
+      "notes": "Carry-over aus KW27. noyb: kein neuer Artikel seit 29.6. EC hat Adequacy nicht zurückgezogen. CJEU-Klage Latombe erwartet Voraburteil Q4/2026–Q1/2027."
+    },
+    {
+      "id": "ai-act-omnibus-oj-pending-kw28",
+      "title": "AI Act Omnibus: OJ-Publikation ausstehend — Inkrafttreten 3 Tage nach OJ",
+      "url": "https://www.addleshawgoddard.com/en/insights/insights-briefings/2026/technology/eu-ai-act-ai-omnibus-formally-adopted/",
+      "published": "2026-07-11T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 10,
+      "topics": ["ai_act", "omnibus", "oj_publication", "annex_iii", "art50"],
+      "cosmi_action": "akut",
+      "module": ["AI Act", "Legal", "Product"],
+      "notes": "Rat: 29.6. OJ: ausstehend. Art. 50: 02.08.2026 unverändert (22 Tage). Annex III Standalone: 02.12.2027."
+    },
+    {
+      "id": "nis2-bsi-registration-20days-kw28",
+      "title": "NIS2 BSI-Registrierung: Frist 31. Juli 2026 — 20 Tage — ~11.000 Unternehmen fehlen",
+      "url": "https://www.solidaris.de/aktuelles/letzte-chance-bsi-setzt-neue-frist-bis-31-juli-2026-fuer-nis-2-registrierung/",
+      "published": "2026-07-11T00:00:00+00:00",
+      "source_id": "websearch-supplement",
+      "trust": 9,
+      "topics": ["nis2", "bsi_registration", "deadline", "fine_risk", "management_liability"],
+      "cosmi_action": "akut",
+      "module": ["NIS2", "Legal", "Management"],
+      "notes": "~18.500 registriert (Ende Mai) von ~29.500. BSI: konsequente Durchsetzung ab 1. August. Bußgeld bis €500k + §38-GF-Haftung."
+    },
+    {
+      "id": "bsi-warnungen-libc-kritisch-kw28",
+      "title": "[UPDATE][KRITISCH] GNU libc: Mehrere Schwachstellen — CVSS 9.8, Remote/Unauth RCE",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1190",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "source_label": "BSI Warn- und Informationsdienst",
+      "trust": 10,
+      "severity": "kritisch",
+      "cvss": 9.8,
+      "cves": ["CVE-2026-5358", "CVE-2026-5450", "CVE-2026-5928"],
+      "affected_versions": "GNU libc <= 2.43",
+      "topics": ["bsi_cve", "libc", "linux", "saas_infra", "rce"]
+    },
+    {
+      "id": "bsi-warnungen-python-kritisch-kw28",
+      "title": "[UPDATE][KRITISCH] Python: Schwachstelle ermöglicht Codeausführung — Remote/Unauth",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0253",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "kritisch",
+      "topics": ["bsi_cve", "python", "saas_infra", "rce"]
+    },
+    {
+      "id": "bsi-warnungen-flowise-kritisch-kw28",
+      "title": "[UPDATE][KRITISCH] Flowise: Mehrere Schwachstellen — Code Execution + Info Disclosure",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2048",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "kritisch",
+      "topics": ["bsi_cve", "flowise", "ai_orchestration", "rce"]
+    },
+    {
+      "id": "bsi-warnungen-nginx-hoch-kw28",
+      "title": "[UPDATE][HOCH] NGINX/NGINX Plus: Mehrere Schwachstellen — DoS, Data Manipulation (4 Advisories)",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0860",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "hoch",
+      "advisories": ["WID-SEC-2026-0860", "WID-SEC-2026-1995", "WID-SEC-2026-1661", "WID-SEC-2026-1527"],
+      "topics": ["bsi_cve", "nginx", "saas_infra", "dos"]
+    },
+    {
+      "id": "bsi-warnungen-rabbitmq-hoch-kw28",
+      "title": "[NEU][HOCH] RabbitMQ: Code Execution + Privilege Escalation — Remote/Unauth",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2268",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "rabbitmq", "message_queue", "saas_infra", "rce"]
+    },
+    {
+      "id": "bsi-warnungen-nextjs-n8n-gitlab-kw28",
+      "title": "[NEU/UPDATE][HOCH] Next.js, n8n, GitLab, LiteLLM, MOVEit: Mehrere neue Advisories",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1401",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "hoch",
+      "advisories": ["WID-SEC-2026-1401", "WID-SEC-2026-2267", "WID-SEC-2026-2265", "WID-SEC-2026-2263", "WID-SEC-2026-2262"],
+      "topics": ["bsi_cve", "nextjs", "n8n", "gitlab", "litellm", "moveit", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-gcp-gke-kw28",
+      "title": "[NEU][HOCH] GCP/GKE containerd: Code Execution, Security Bypass — Remote/Auth",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2009",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "gcp", "gke", "containerd", "cloud", "saas_infra"]
+    },
+    {
+      "id": "bsi-warnungen-linux-kernel-wave-kw28",
+      "title": "[UPDATE][HOCH] Linux Kernel: Welle mit 18+ Advisory-Updates — Priv. Escalation, DoS, Code Exec",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1346",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "hoch",
+      "topics": ["bsi_cve", "linux", "kernel", "saas_infra"],
+      "notes": "3. massive Kernel-Update-Welle in KW26-28. Empfehlung: automatische Security-Updates für Kernel."
+    },
+    {
+      "id": "bsi-warnungen-mittel-kw28",
+      "title": "[MITTEL] Django x2, Tomcat, BIND, Golang, cURL, Erlang/OTP",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2231",
+      "published": "2026-07-10T00:00:00+00:00",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "severity": "mittel",
+      "advisories": ["WID-SEC-2026-2231", "WID-SEC-2026-0297", "WID-SEC-2026-1038", "WID-SEC-2026-0863", "WID-SEC-2026-1437", "WID-SEC-2026-2052", "WID-SEC-2026-2194"],
+      "topics": ["bsi_cve", "django", "tomcat", "bind", "golang", "curl", "erlang", "saas_infra"]
+    }
+  ]
+}
