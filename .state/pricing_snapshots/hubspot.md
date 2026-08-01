@@ -72,7 +72,10 @@ CPQ, billing, and payments software
 
 AI-powered, flexible CRM software
 
-[ Learn more ](//www.hubspot.com/products/crm/ai-crm)
+
+Your central home for building and managing AI agents across the platform
+
+[ Learn more ](//www.hubspot.com/products/artificial-intelligence)
 
     * ### Small Business Bundle
 
@@ -80,9 +83,9 @@ The Starter edition of each product, built for startups and small businesses
 
 [ Learn more ](//www.hubspot.com/products/crm/starter)
 
-    * ### Breeze
+    * ### AEO (Beta)
 
-AI agents and features that power the entire platform
+Answer engine optimization tools that track and improve your brand's visibility in AI results
 
 [ See all integrations ](//ecosystem.hubspot.com/marketplace/apps)
 
@@ -211,16 +214,17 @@ All of HubSpot's marketing, sales, and customer service software on one agentic 
     * ### [Marketing Hub Marketing automation software ](//www.hubspot.com/products/marketing)
     * ### [Sales Hub Sales software ](//www.hubspot.com/products/sales)
     * ### [Service Hub Customer service software ](//www.hubspot.com/products/service)
-    * ### [Content Hub Content marketing software ](//www.hubspot.com/products/content)
     * ### [Data Hub Data management software ](//www.hubspot.com/products/data)
     * ### [Revenue Hub CPQ, billing, and payments software ](//www.hubspot.com/products/revenue)
     * ### [Smart CRM AI-powered, flexible CRM software ](//www.hubspot.com/products/crm/ai-crm)
-    * ### [Small Business Bundle The Starter edition of each product, built for startups and small businesses ](//www.hubspot.com/products/crm/starter)
+    * ### [Agent Hub Your central home for building and managing AI agents across the platform ](//www.hubspot.com/products/artificial-intelligence)
 
-    * ### [Breeze AI agents and features that power the entire platform ](//www.hubspot.com/products/artificial-intelligence)
+    * ### [Small Business Bundle The Starter edition of each product, built for startups and small businesses ](//www.hubspot.com/products/crm/starter)
     * ### [AEO (Beta) Answer engine optimization tools that track and improve your brand's visibility in AI results ](//www.hubspot.com/products/aeo)
     * ### [HubSpot Marketplace Connect your favorite apps to HubSpot ](//ecosystem.hubspot.com/marketplace/apps)
   * Solutions  Solutions
+    * By Use Case 
+      *       * ## Marketing
         * [ Build pipeline  ](//www.hubspot.com/use-case/build-sales-pipeline)
         * [ Close deals  ](//www.hubspot.com/use-case/close-more-deals)
 
@@ -236,7 +240,6 @@ All of HubSpot's marketing, sales, and customer service software on one agentic 
 
       * ## Startups & Small Businesses
 
-        * [ Find and reach customers  ](//www.hubspot.com/use-case/find-and-reach-customers)
-        * [ Grow sales and get paid  ](//www.hubspot.com/use-case
+        * [ Find and reach customers  ](//
 
-[... truncated ...]
+[... truncated for snapshot ...]

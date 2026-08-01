@@ -13,8 +13,6 @@ Schliessen
 
 Kostenloser 24/7 Support
 
-Daten sicher in der Schweiz
-
 Mehr als 100'000 Kunden 
 
 swiss made software
@@ -26,9 +24,9 @@ Hallo Freizeit! Direkt ohne Installation & Zahlung starten.
 Vorname 
 
 
-Telefonnummer 
-
 E-Mail 
+
+Department
 
 Jetzt kostenlos testen  Abbrechen 
 

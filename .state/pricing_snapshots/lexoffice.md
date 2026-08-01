@@ -240,7 +240,7 @@ In den Lexware Office Preisen sind die zugehörigen Apps enthalten. Verfügbar s
 
 ##  Ausgezeichnet durch eKomi 
 
-Lexware Office erhält bei eKomi **2429 Bewertungen mit 4,3 Sternen** (von 1 bis 5). 
+Lexware Office erhält bei eKomi **2439 Bewertungen mit 4,3 Sternen** (von 1 bis 5). 
 
 [Lexware Logo](/ "Lexware Startseite")
 

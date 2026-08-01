@@ -390,12 +390,22 @@ Enable agents, integrations, and custom apps to read and update monday data. Buy
 
 Top tier support
 
-Tailored onboarding
-
-In-depth training for your team to help you get the most out of monday.com. Provided that customers meet the minimum spend threshold as applicable from time to time.
-
 Enterprise support
 
-Get 24/7 expert support, tailored onboarding with extensive traini
+Get 24/7 expert support, tailored onboarding with extensive training, daily webinars, a rich library of tutorials, and a 99.9% uptime SLA for true enterprise-grade reliability.
 
-[... truncated ...]
+  * Free
+
+€
+
+0
+
+free  
+forever
+
+Up to 2 seats
+
+Special offer:   
+**€10** off
+
+[... truncated for snapshot ...]

@@ -48,7 +48,7 @@ Nach Unternehmenstyp
 
 Mehr erfahren
 
-  * [KundenreferenzenErfolgsgeschichten von Kund:innen, die Zendesk begeistert nutzen](/why-zendesk/customers/)
+  * [KundenreferenzenErfolgsgeschichten von Kund:innen, die Zendesk begeistert nutzen](/customer/)
   * [BlogInhalte zum Ausbau und zur Skalierung Ihrer Supportteams](/blog/)
   * [EventsEntdecken Sie beliebte lokale Events, stöbern Sie nach Kategorien oder nutzen Sie On-Demand-Angebote](/company/events/)
   * [CX TrendsUnser wichtigster Bericht über die fünf Trends, die die Zukunft der CX prägen](https://cxtrends.zendesk.com/de?utm_source=navigation&utm_medium=webpromo&utm_campaign=CX_Trends_2026_Report_DE_EMEA_2025Q4)
@@ -60,17 +60,17 @@ Aktuelle Nachrichten
 
 ## AI Masterclass 2026
 
-Live-Workshops für CX- und IT-Führungskräfte, die bereit sind, von einer KI-Strategie zu einem umsetzbaren Plan überzugehen.
+Sehen Sie sich unsere CX- und IT-Workshops on demand an. KI-Reife bewerten und konkreten Plan erstellen.
 
-[Jetzt registrieren](https://virtualevents.zendesk.com/series/ai-masterclass-emea-26/landing_page?utm_source=navigation&utm_medium=webpromo&utm_campaign=AI_Masterclass_EMEA_EMEA_2026Q2)
+[Jetzt on demand ansehen](https://virtualevents.zendesk.com/series/ai-masterclass-emea-26/landing_page?utm_source=navigation&utm_medium=webpromo&utm_campaign=AI_Masterclass_EMEA_EMEA_2026Q2)
 
 ##### [ Preisinformationen](/pricing/)##### [ Anmelden](/login/)
 
 #####  Sprache
 
-[English (US)](https://www.zendesk.com/pricing/)[English (UK)](https://www.zendesk.co.uk/pricing/)[Español](https://www.zendesk.es/pricing/)[Español (LATAM)](https://www.zendesk.com.mx/pricing/)[Português](https://www.zendesk.com.br/pricing/)[Français](https://www.zendesk.fr/pricing/)[Deutsch](https://www.zendesk.de/pricing/)[Italiano](https://www.zendesk.com/it/pricing/)[Nederlands](https://www.zendesk.nl/pricing/)[Dansk](https://www.zendesk.com/dk/pricing/)[Svenska](https://www.zendesk.com/se/pricing/)[English (Australia)](https://www.zendesk.com/au/pricing/)[English (India)](https://www.zendesk.com/in/pricing/)[English (Singapore)](https://www.zendesk.com/sg/pricing/)[日本語](https://www.zendesk.co.jp/pricing/)[한국어](https://www.zendesk.kr/pricing/)[繁體中文 (台灣)](https://www.zendesk.tw/pricing/)[繁體中文 (香港特區)](https://www.zendesk.hk/pricing/)
+[English (US)](https://www.zendesk.com/pricing/)[English (UK)](https://www.zendesk.co.uk/pricing/)[Español](https://www.zendesk.es/pricing/)[Español (LATAM)](https://www.zendesk.com.mx/pricing/)[Português](https://www.zendesk.com.br/pricing/)[Français](https://www.zendesk.fr/pricing/)[Deutsch](https://www.zendesk.de/pricing/)[Italiano](https://www.zendesk.com/it/pricing/)[Nederlands](https://www.zendesk.nl/pricing/)[English (Denmark)](https://www.zendesk.com/dk/pricing/)[English (Sweden)](https://www.zendesk.com/se/pricing/)[English (Australia)](https://www.zendesk.com/au/pricing/)[English (India)](https://www.zendesk.com/in/pricing/)[English (Singapore)](https://www.zendesk.com/sg/pricing/)[日本語](https://www.zendesk.co.jp/pricing/)[한국어](https://www.zendesk.kr/pricing/)[繁體中文 (台灣)](https://www.zendesk.tw/pricing/)[繁體中文 (香港特區)](https://www.zendesk.hk/pricing/)
 
-[Kostenlos testen](/register/)Vertrieb kontaktieren
+[Kostenlos testen](/register/)[Vertrieb kontaktieren](/contact/)
 
 [Anmelden](/login/)
 
@@ -78,7 +78,7 @@ Live-Workshops für CX- und IT-Führungskräfte, die bereit sind, von einer KI-S
 
 Sprache
 
-[English (US)](https://www.zendesk.com/pricing/)[English (UK)](https://www.zendesk.co.uk/pricing/)[Español](https://www.zendesk.es/pricing/)[Español (LATAM)](https://www.zendesk.com.mx/pricing/)[Português](https://www.zendesk.com.br/pricing/)[Français](https://www.zendesk.fr/pricing/)[Deutsch](https://www.zendesk.de/pricing/)[Italiano](https://www.zendesk.com/it/pricing/)[Nederlands](https://www.zendesk.nl/pricing/)[Dansk](https://www.zendesk.com/dk/pricing/)[Svenska](https://www.zendesk.com/se/pricing/)[English (Australia)](https://www.zendesk.com/au/pricing/)[English (India)](https://www.zendesk.com/in/pricing/)[English (Singapore)](https://www.zendesk.com/sg/pricing/)[日本語](https://www.zendesk.co.jp/pricing/)[한국어](https://www.zendesk.kr/pricing/)[繁體中文 (台灣)](https://www.zendesk.tw/pricing/)[繁體中文 (香港特區)](https://www.zendesk.hk/pricing/)
+[English (US)](https://www.zendesk.com/pricing/)[English (UK)](https://www.zendesk.co.uk/pricing/)[Español](https://www.zendesk.es/pricing/)[Español (LATAM)](https://www.zendesk.com.mx/pricing/)[Português](https://www.zendesk.com.br/pricing/)[Français](https://www.zendesk.fr/pricing/)[Deutsch](https://www.zendesk.de/pricing/)[Italiano](https://www.zendesk.com/it/pricing/)[Nederlands](https://www.zendesk.nl/pricing/)[English (Denmark)](https://www.zendesk.com/dk/pricing/)[English (Sweden)](https://www.zendesk.com/se/pricing/)[English (Australia)](https://www.zendesk.com/au/pricing/)[English (India)](https://www.zendesk.com/in/pricing/)[English (Singapore)](https://www.zendesk.com/sg/pricing/)[日本語](https://www.zendesk.co.jp/pricing/)[한국어](https://www.zendesk.kr/pricing/)[繁體中文 (台灣)](https://www.zendesk.tw/pricing/)[繁體中文 (香港特區)](https://www.zendesk.hk/pricing/)
 
 [](/)
 
@@ -123,9 +123,9 @@ Ressourcen
 
 Mehr erfahren
 
-  * [KundenreferenzenErfolgsgeschichten von Kund:innen, die Zendesk begeistert nutzen](/why-zendesk/customers/)
+  * [KundenreferenzenErfolgsgeschichten von Kund:innen, die Zendesk begeistert nutzen](/customer/)
   * [BlogInhalte zum Ausbau und zur Skalierung Ihrer Supportteams](/blog/)
   * [EventsEntdecken Sie beliebte lokale Events, stöbern Sie nach Kategorien oder nutzen Sie On-Demand-Angebote](/company/events/)
-  * [CX TrendsUnser wichtigster Bericht über die fünf Trend
+  * [CX TrendsUnser wichtigster Bericht über 
 
 [... truncated for snapshot ...]

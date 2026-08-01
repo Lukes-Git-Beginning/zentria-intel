@@ -1,5 +1,5 @@
 
-[Externe Inhalte laden](javascript:Cookiebot.renew\(\))
+
 
 Weitere Informationen findest du in unserer[ Datenschutzerklärung ](https://sevdesk.de/datenschutz/)und der Datenschutzerklärung von [YouTube](https://policies.google.com/privacy).
 
@@ -231,6 +231,8 @@ Funktionen ansehen
 
 Alle Funktionen aus  
 ‍**Rechnung** sowie:
-Die Summen- und Saldenliste gibt dir detailgenauen Einblick in deine Buchungskonten und Buchungssätze. So kannst du und deine Steuerberatung Buchungen transparent nachvollziehen, Fehler schneller entdecken und damit so effizient zus
+Die Summen- und Saldenliste gibt dir detailgenauen Einblick in deine Buchungskonten und Buchungssätze. So kannst du und deine Steuerberatung Buchungen transparent nachvollziehen, Fehler schneller entdecken und damit so effizient zusammen arbeiten wie nie zuvor - ganz auf Augenhöhe.
 
-[... truncated ...]
+Bet
+
+[... truncated for snapshot ...]

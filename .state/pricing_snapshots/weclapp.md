@@ -69,7 +69,7 @@ Umfassende Anbindung der DATEV-Plattform, Kontierung und Bankabgleich.
 
 Kundenstories
 
-weclapp x Lebensmittel-Branche
+weclapp x Kosmetik-Branche
 
 Unternehmen
 
@@ -406,6 +406,6 @@ ausgezeichnete ERP‑Software
 
 Add-ons können zu den Paketen ERP Dienstleistung und Handel hinzugebucht werden, um weclapp um weitere branchenspezifische Anforderungen zu ergänzen. Dank des modularen Aufbaus lässt sich weclapp genau auf eure Anforderungen zuschneiden und eignet sich so für den einsatz in verschiedensten Branchen.
 
-[ Sales kontaktieren ](mailto:sales@weclapp.com?subject=Interesse%20an%20Add-ons&body=Liebes%20wecl
+[ Sales kontaktieren ](mailto:sales@weclapp.com?subject=Interesse%20an%20Add-ons&body=Liebes%20weclapp%
 
 [... truncated for snapshot ...]
