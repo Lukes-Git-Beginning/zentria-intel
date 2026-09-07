@@ -1,0 +1,132 @@
+{
+  "last_module": "video",
+  "last_week": "2026-W37",
+  "last_run_date": "2026-09-07",
+  "next_module": "wiki",
+  "next_week": "2026-W38",
+  "rotation_index": 3,
+  "rotation_total": 15,
+  "zyklus": 2,
+  "zyklus_1_completed": "2026-08-17",
+  "history": [
+    {
+      "week": "2026-W20",
+      "date": "2026-05-11",
+      "module": "crm-core",
+      "output_file": "monthly/2026-05-11-deepdive-crm-core.md"
+    },
+    {
+      "week": "2026-W21",
+      "date": "2026-05-18",
+      "module": "dialer",
+      "output_file": "monthly/2026-05-18-deepdive-dialer.md"
+    },
+    {
+      "week": "2026-W22",
+      "date": "2026-05-25",
+      "module": "video",
+      "output_file": "monthly/2026-05-25-deepdive-video.md"
+    },
+    {
+      "week": "2026-W23",
+      "date": "2026-06-01",
+      "module": "wiki",
+      "output_file": "monthly/2026-06-01-deepdive-wiki.md"
+    },
+    {
+      "week": "2026-W24",
+      "date": "2026-06-08",
+      "module": "helpdesk",
+      "output_file": "monthly/2026-06-08-deepdive-helpdesk.md"
+    },
+    {
+      "week": "2026-W25",
+      "date": "2026-06-15",
+      "module": "formulare",
+      "output_file": "monthly/2026-06-15-deepdive-formulare.md"
+    },
+    {
+      "week": "2026-W26",
+      "date": "2026-06-22",
+      "module": "vertraege",
+      "output_file": "monthly/2026-06-22-deepdive-vertraege.md"
+    },
+    {
+      "week": "2026-W27",
+      "date": "2026-06-29",
+      "module": "buchhaltung",
+      "output_file": "monthly/2026-06-29-deepdive-buchhaltung.md"
+    },
+    {
+      "week": "2026-W28",
+      "date": "2026-07-06",
+      "module": "rapporte",
+      "output_file": "monthly/2026-07-06-deepdive-rapporte.md"
+    },
+    {
+      "week": "2026-W29",
+      "date": "2026-07-13",
+      "module": "schichten",
+      "output_file": "monthly/2026-07-13-deepdive-schichten.md"
+    },
+    {
+      "week": "2026-W30",
+      "date": "2026-07-20",
+      "module": "fuhrpark",
+      "output_file": "monthly/2026-07-20-deepdive-fuhrpark.md"
+    },
+    {
+      "week": "2026-W31",
+      "date": "2026-07-27",
+      "module": "vermietung",
+      "output_file": "monthly/2026-07-27-deepdive-vermietung.md"
+    },
+    {
+      "week": "2026-W32",
+      "date": "2026-08-03",
+      "module": "inventar",
+      "output_file": "monthly/2026-08-03-deepdive-inventar.md"
+    },
+    {
+      "week": "2026-W33",
+      "date": "2026-08-10",
+      "module": "einkauf",
+      "output_file": "monthly/2026-08-10-deepdive-einkauf.md"
+    },
+    {
+      "week": "2026-W34",
+      "date": "2026-08-17",
+      "module": "produktion",
+      "output_file": "monthly/2026-08-17-deepdive-produktion.md"
+    },
+    {
+      "week": "2026-W35",
+      "date": "2026-08-24",
+      "module": "crm-core",
+      "output_file": "monthly/2026-08-24-deepdive-crm-core.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-05-11-deepdive-crm-core.md"
+    },
+    {
+      "week": "2026-W36",
+      "date": "2026-08-31",
+      "module": "dialer",
+      "output_file": "monthly/2026-08-31-deepdive-dialer.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-05-18-deepdive-dialer.md"
+    },
+    {
+      "week": "2026-W37",
+      "date": "2026-09-07",
+      "module": "video",
+      "output_file": "monthly/2026-09-07-deepdive-video.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-05-25-deepdive-video.md",
+      "highlights": [
+        "6 W22-Empfehlungen umgesetzt (AI-Summary, Chat, Cohost+Lock, CRM-Link-Schema, Breakout, ConvertActionItemsToTasks)",
+        "P0 Live-Rechtsrisiko: EU AI Act Art. 50 seit 2026-08-02, kein Disclosure/Audit-Layer für GenerateAISummary",
+        "OpenTalk hat auf LiveKit umgestellt — Cosmi-Stack-USP verloren, Modul-Integration wird strategischer Kern"
+      ]
+    }
+  ]
+}
