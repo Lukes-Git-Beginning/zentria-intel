@@ -1,0 +1,575 @@
+{
+  "fetched_at": "2026-09-16T04:02:02.780826+00:00",
+  "tier": "tier1",
+  "raw_count": 57,
+  "after_prefilter": 39,
+  "after_dedup": 39,
+  "prefilter_stats": {
+    "spam": 12,
+    "too_short_no_keywords": 6
+  },
+  "failures": [],
+  "items": [
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Exein raises $270m to fight AI hackers, doubles valuation",
+      "url": "https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T16:58:28+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7813121827357373
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Exclusive: Revolut’s Storonsky hits back in €350m superyacht court case",
+      "url": "https://sifted.eu/articles/defence-storonsky-superyacht/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T16:36:36+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7807038570449673
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Does Europe have a voice in AI safety?",
+      "url": "https://sifted.eu/articles/europe-ai-safety-podcast/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T15:02:23+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7780881830632936
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#DealMonitor - Nomos erhält 20 Millionen",
+      "url": "https://www.deutsche-startups.de/2026/09/15/nomos-erhaelt-20-millionen/",
+      "summary": "+++ #DealMonitor +++ EnergyTech Nomos erhält 20 Millionen +++ Lade-Marktplatz Depotcharge sammelt 2,7 Millionen ein +++ WEMAG investiert in 360Volt +++ Wiener Börse übernimmt North Data +++ DHDL: Cupped, IRISgo und ivyclip +++",
+      "body": null,
+      "published_at": "2026-09-15T13:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7762228417136416
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Samsung and EU Scaleup Fund back efficient AI startup Euclyd in €200m Series A",
+      "url": "https://sifted.eu/articles/euclyd-efficient-ai-series-a/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T13:40:07+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7758114366768908
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "MP calls for scrutiny of AI Security Institute as fears grow",
+      "url": "https://sifted.eu/articles/scrutiny-ai-security-institute/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T12:21:31+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7736423894568092
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#Brandneu - 5 neue Startups: nnexoro, Aithon Robotics, SemanticWorks, TWONATURALS, NoxBlanc",
+      "url": "https://www.deutsche-startups.de/2026/09/15/5-neue-startups-nnexoro-aithon-robotics-semanticworks-twonaturals-noxblanc/",
+      "summary": "Erneut bereichern vielversprechende Neugründungen die Startup-Szene. Im Folgenden stellen wir diese junge Unternehmen vor: nnexoro, Aithon Robotics, SemanticWorks, TWONATURALS und NoxBlanc.",
+      "body": null,
+      "published_at": "2026-09-15T11:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7729120038503914
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#StartupTicker  - +++ Dogs’n Tiger +++ INLEAP Photonics +++ GOe FUTURE +++ Life Sciences +++ Phase0 +++",
+      "url": "https://www.deutsche-startups.de/2026/09/15/dogsn-tiger-inleap-photonics-goe-future-life-sciences-phase0/",
+      "summary": "+++ #StartupTicker +++ Tierfutter-Startup Dogs'n Tiger schlittert in die Insolvenz +++ StartupsToWatch: INLEAP Photonics +++ GOe FUTURE: Die große Startup-Wette auf Life Sciences +++ Phase0: Die unterschätzte Macht der Distribution +++",
+      "body": null,
+      "published_at": "2026-09-15T09:55:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7696152877655955
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "How AI is redefining corporate cyber-readiness",
+      "url": "https://sifted.eu/articles/ai-redefining-corporate-cyber-readiness-brnd/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T09:03:42+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7682102357187969
+    },
+    {
+      "source_id": "deutsche-startups",
+      "source_trust": 8,
+      "title": "#DHDL - Ivyclip: Muss es immer eine Beteiligung sein?",
+      "url": "https://www.deutsche-startups.de/2026/09/15/ivyclip-muss-es-immer-eine-beteiligung-sein/",
+      "summary": "Fünf Löwen, fünf Angebote - das gibt es in \"Die Höhle der Löwen\" nur selten. Doch in der zweiten Folge der neuen Staffel blieb es nicht dabei: Die Löwen battelten sich kräftig, und Neu-Löwe Johannes Kliesch unterbreitete einer Gründerin ein 0%-Angebot, das für Diskussionen sorgte.",
+      "body": null,
+      "published_at": "2026-09-15T06:14:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "deutsche-startups"
+      ],
+      "pre_score": 0.7635805864704196
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Revolut faces questions over ‘deeply concerning’ data breach",
+      "url": "https://sifted.eu/articles/revolut-data-breach-leak-extort-report/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T05:00:46+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615913085906794
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "The top 10 investors across DACH & CEE",
+      "url": "https://sifted.eu/articles/the-top-10-investors-across-dach-cee/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T05:00:20+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615795531510318
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "AI agents are moving faster than Europe can regulate",
+      "url": "https://sifted.eu/articles/ai-agents-anthropic-openai-eu-uk-laws/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T05:00:14+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615768403824438
+    },
+    {
+      "source_id": "sifted-eu",
+      "source_trust": 8,
+      "title": "Exclusive: Lovable, Supercell, Langdock founders back Zero in $10.3m seed round",
+      "url": "https://sifted.eu/articles/exclusive-zero-10-3m-seed-round/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T05:00:13+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "sifted-eu"
+      ],
+      "pre_score": 0.7615763882545317
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-16T02:25:18+00:00",
+      "score": 31,
+      "descendants": 15,
+      "hn_id": 49721435,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6975918552479576
+    },
+    {
+      "source_id": "salesforce-rss-crm-core",
+      "source_trust": 7,
+      "title": "The Dreamforce 2026 Keynote in Under 7 Minutes",
+      "url": "https://www.salesforce.com/news/linked-content/the-dreamforce-2026-keynote-in-under-7-minutes/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-16T01:00:54+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "salesforce-rss-crm-core"
+      ],
+      "pre_score": 0.6954977943935055
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "summary": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443</a>",
+      "body": null,
+      "published_at": "2026-09-15T19:07:38+00:00",
+      "score": 54,
+      "descendants": 0,
+      "hn_id": 49717280,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6868008455709598
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "summary": "Hi HN - long-time lurker (since 2012!), first time poster.<p>Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-like UI. Finished work shows up in Unread, and anything waiting on your approval shows up in Action. It&#x27;s Apache 2.0-licensed, there&#x27;s no signup and no telemetry, and you bring your own model provider: Anthropic, Amazon Bedrock, Google Gemini, OpenAI, OpenRouter, or a local model through Ollama. There are builds on the releases page, or you can run it from source.<p>Pizza Bot started as an internal passion project I worked on with a small team at Amazon.<p>The whole thing came out of my frustration at having to manually log CRM activities through a browser form. I built a simple REST API called &quot;JoeBot&quot; that connected to my authenticated browser session over CDP and filled out the form for me using Playwright. Then I hacked up a quick Obsidian plugin so I could trigger ",
+      "body": null,
+      "published_at": "2026-09-15T15:20:26+00:00",
+      "score": 35,
+      "descendants": 21,
+      "hn_id": 49713894,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.6812650368587184
+    },
+    {
+      "source_id": "techcrunch-funding",
+      "source_trust": 7,
+      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+      "body": null,
+      "published_at": "2026-09-15T14:13:59+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "techcrunch-funding"
+      ],
+      "pre_score": 0.6796544086171642
+    },
+    {
+      "source_id": "techcrunch-funding",
+      "source_trust": 7,
+      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+      "body": null,
+      "published_at": "2026-09-15T14:00:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "techcrunch-funding"
+      ],
+      "pre_score": 0.6793159630760901
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T10:22:46+00:00",
+      "score": 451,
+      "descendants": 401,
+      "hn_id": 49710253,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.674079751328643
+    },
+    {
+      "source_id": "hackernews-front",
+      "source_trust": 7,
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
+      "summary": "",
+      "body": null,
+      "published_at": "2026-09-15T10:00:16+00:00",
+      "score": 340,
+      "descendants": 343,
+      "hn_id": 49710109,
+      "n_sources": 1,
+      "source_ids": [
+        "hackernews-front"
+      ],
+      "pre_score": 0.673539721340915
+    },
+    {
+      "source_id": "salesforce-rss-crm-core",
+      "source_trust": 7,
+      "title": "New AI Agent Ace Helps the TSA Support Travelers as They Navigate Airport Security",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/14/tsa-improves-travel-experience-agentforce/",
+      "summary": "Ace, a new AI agent, handles 100,000 traveler conversations each month and resolves 96% of routine inquiries without escalation",
+      "body": null,
+      "published_at": "2026-09-14T13:00:00+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "salesforce-rss-crm-core"
+      ],
+      "pre_score": 0.643972382078772
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Dreamforce 2026 - the AI safety debate comes to Dreamforce as Benioff grills Amodei, Altman, and Huang…with telling results",
+      "url": "https://diginomica.com/dreamforce-2026-ai-safety-debate-comes-dreamforce-benioff-hosts-amodei-altman-and-huangwith-telling",
+      "summary": "Dario wants AI to slow down, Sam’s largely in agreement, Jensen wants nothing to do with it - Dreamforce acts as a forum for debate around whether the AI sector needs to change its ways.",
+      "body": null,
+      "published_at": "2026-09-15T16:06:29-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.593716302090554
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "AI energy usage – is the industry scaling up when it should be scaling down?",
+      "url": "https://diginomica.com/ai-energy-usage-industry-scaling-when-it-should-be-scaling-down",
+      "summary": "We keep hearing of AI’s vast energy and environmental footprint. The figures are eye-watering, as this analysis reveals. But is this whole model completely wrong?",
+      "body": null,
+      "published_at": "2026-09-15T15:55:01-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5934738501991305
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Dreamforce 2026 - happy birthday Trailblazers! Building a company shaped by 23 million people",
+      "url": "https://diginomica.com/dreamforce-2026-happy-birthday-trailblazers-building-company-shaped-23-million-people",
+      "summary": "Grown out of early discussion boards, the Trailblazer Community has become integral to the company’s success.",
+      "body": null,
+      "published_at": "2026-09-15T09:47:37-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5857577092413574
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Traitors, deviants, and revolutionaries beware! Presidential intelligence trumps the artificial variety as the US President turns on AI leaders",
+      "url": "https://diginomica.com/traitors-deviants-and-revolutionaries-beware-presidential-intelligence-trumps-artificial-variety-us",
+      "summary": "All that stands between us and AI Armageddon is Donald Trump and that’s more than enough according to the US President. Back in your box, Amodei!",
+      "body": null,
+      "published_at": "2026-09-15T05:29:28-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5803961264096819
+    },
+    {
+      "source_id": "diginomica",
+      "source_trust": 6,
+      "title": "Dreamforce 2026 - may the AIforce be with you (whatever it is…)",
+      "url": "https://diginomica.com/dreamforce-2026-may-aiforce-be-you-whatever-it",
+      "summary": "That’s how the cookie crumbles…",
+      "body": null,
+      "published_at": "2026-09-15T05:01:49-07:00",
+      "n_sources": 1,
+      "source_ids": [
+        "diginomica"
+      ],
+      "pre_score": 0.5798247742257988
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "AI Agents vs. Chatbots: Comparing Concepts",
+      "url": "https://otrs.com/blog/ai-automation/ai-agents-vs-chatbots/",
+      "summary": "AI agents and chatbots are both highly relevant: Although advanced chatbots have only existed for a few years, they are now being joined by more sophisticated agentic AI.Yet chatbots continue to grow in importance. It quickly becomes clear that the two AI concepts serve different applications. This article explains exactly where the differences lie and how each can be used to the greatest possible effect.",
+      "body": null,
+      "published_at": "2026-09-15T06:59:25+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.4780105464007621
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "What Agentic AI Is and How to Use It Effectively",
+      "url": "https://otrs.com/blog/ai-automation/agentic-ai/",
+      "summary": "Agentic AI is one of the most important innovation topics of our time. It has the ability to autonomously execute sequences of tasks and use tools in a synchronized manner to achieve a specific goal. Unlike generative AI – as a purely responsive, content-generating entity – it does not depend on human input.\nThis article introduces readers to the concept of agentic AI and examines how this technology can be used effectively.",
+      "body": null,
+      "published_at": "2026-09-09T11:17:55+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.35463209084808894
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "Service Experience Platforms (SXP): New Term for a Greater Focus on Experience",
+      "url": "https://otrs.com/blog/customer-service/service-experience-platforms-sxp/",
+      "summary": "ITSM and customer service are currently undergoing a paradigm shift. Whereas service agreements and the internal perspective of the IT department were previously the main focus, attention is now increasingly shifting toward customers. The central question must be: How do customers perceive the services?\nThis calls for a reorientation of platforms, which above all need to be designed around usability and customer experience. A Service Experience Platform (SXP) is not a radical innovation, but rather a new focus in ITSM and ESM (Enterprise Service Management).\nThis article shows the development toward this new term.",
+      "body": null,
+      "published_at": "2026-09-07T06:38:12+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.3168823900702871
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "IT Budget and Business Value: The Most Important Criteria for ITSM Solutions",
+      "url": "https://otrs.com/blog/it-budget/it-budget-and-business-value/",
+      "summary": "Purchasing decisions in areas such as ITSM are clearly shaped by the available budget. At the same time, solutions are expected to generate as much business value as possible. This essentially depends on how well an organization’s own ITSM maturity matches the scope of functionality purchased.\nUsing seven selected key components, this post explains how companies can make the best possible use of their IT budget to generate maximum business value when choosing an ITSM solution.",
+      "body": null,
+      "published_at": "2026-08-28T07:48:57+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.19020793932226374
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "SLA vs. XLA: The Promise of an Experience-Centered Approach",
+      "url": "https://otrs.com/blog/itsm/sla-vs-xla/",
+      "summary": "Traditionally, ITSM has relied heavily on Service Level Agreements (SLAs), which govern the relationship between service providers and service recipients. However, this approach, based on metrics such as response and resolution times, is beginning to lose ground.\n\nExperience Level Agreements (XLAs), which place the client experience at the center, are now gaining momentum. The key point is this: services can be perceived as inadequate even when an SLA has been fulfilled 100%.\n\nThis article explains why.",
+      "body": null,
+      "published_at": "2026-08-11T12:10:46+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.08027497159846356
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "Trends and Forecasts: ITSM in 2026 – and Beyond",
+      "url": "https://otrs.com/blog/itsm/trends-and-forecasts/",
+      "summary": "IT Service Management is undergoing a transformation so profound that many are now referring instead to Enterprise Service Management (ESM) or Service Experience Platforms (SXP). Artificial intelligence is just one of the factors revolutionizing ITSM.\n\nAmid all these developments, one constant remains: the business need for intelligent workflows and processes. This article provides an overview of the current trends and offers a forecast for the future of ITSM.",
+      "body": null,
+      "published_at": "2026-08-04T10:23:49+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.055845850735086765
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "Cyber Threat Management: Background, Examples, Steps, and Challenges",
+      "url": "https://otrs.com/blog/security-compliance/cyber-threat-management/",
+      "summary": "Cyber threats no longer appear as isolated and easily recognizable events. They often develop in a distributed and discreet manner by exploiting known vulnerabilities, misconfigurations, compromised credentials, human error, outdated software, or complex supply chains.\n\nThis is exactly where Cyber Threat Management comes into play. It is a structured approach to identifying, assessing, anticipating, and managing cyber threats before, during, and after they occur. This article takes a closer look at exactly how it works.",
+      "body": null,
+      "published_at": "2026-07-27T08:37:18+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.05
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "Statement of Applicability (SoA): Background, Benefits, Controls",
+      "url": "https://otrs.com/blog/security-compliance/statement-of-applicability-soa/",
+      "summary": "Organizations should always place the highest priority on security, especially in today's AI era. A Statement of Applicability (SoA) is one of the most important documents required for ISO/IEC 27001 certification, which in turn is a key prerequisite for an Information Security Management System (ISMS).\n\nThis article explains exactly what a Statement of Applicability is, the benefits it offers, and the best practices organizations should follow.",
+      "body": null,
+      "published_at": "2026-07-20T08:09:22+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.05
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "The Benefits of a Central Service Management Platform",
+      "url": "https://otrs.com/blog/esm/central-platform-benefits/",
+      "summary": "Enterprise Service Management (ESM), the extension of ITSM principles to other business functions, creates new opportunities for greater efficiency, improved visibility, structured processes, and well-informed decision-making. As a result, a wide variety of processes from different departments can be brought together on a single central platform.\n\nThis article explains the specific benefits of a central ESM platform.",
+      "body": null,
+      "published_at": "2026-07-13T07:55:21+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.05
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "ITAM vs. CMDB: Differences, Similarities, Practical Use",
+      "url": "https://otrs.com/blog/itam/itam-vs-cmdb-differences/",
+      "summary": "Information Technology Asset Management (ITAM) and Configuration Management Databases (CMDBs) are often confused with one another or treated as synonymous terms. However, even though they are closely related, there are important differences.\n\nThis article explains exactly what each term means and how the two concepts differ from one another.",
+      "body": null,
+      "published_at": "2026-06-29T07:46:48+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.05
+    },
+    {
+      "source_id": "otrs-rss-helpdesk",
+      "source_trust": 5,
+      "title": "AI Maturity: Background, Model, Best Practices",
+      "url": "https://otrs.com/blog/ai-automation/ai-maturity/",
+      "summary": "Artificial Intelligence (AI) is playing an increasingly important role in areas such as IT Service Management (ITSM). Many organizations want to implement AI applications as quickly as possible to keep up with competitors, drive innovation, or simply work more efficiently.\n\nSince the way companies use AI is now an important differentiating factor in competition, accurately evaluating AI maturity is of central importance. This article explains what exactly lies behind it and how organizations can improve their own AI maturity.",
+      "body": null,
+      "published_at": "2026-06-26T08:32:11+00:00",
+      "n_sources": 1,
+      "source_ids": [
+        "otrs-rss-helpdesk"
+      ],
+      "pre_score": 0.05
+    }
+  ]
+}
