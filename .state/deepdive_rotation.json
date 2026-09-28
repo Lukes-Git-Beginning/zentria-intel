@@ -1,10 +1,10 @@
 {
-  "last_module": "video",
-  "last_week": "2026-W37",
-  "last_run_date": "2026-09-07",
-  "next_module": "wiki",
-  "next_week": "2026-W38",
-  "rotation_index": 3,
+  "last_module": "formulare",
+  "last_week": "2026-W40",
+  "last_run_date": "2026-09-28",
+  "next_module": "vertraege",
+  "next_week": "2026-W41",
+  "rotation_index": 6,
   "rotation_total": 15,
   "zyklus": 2,
   "zyklus_1_completed": "2026-08-17",
@@ -126,6 +126,55 @@
         "6 W22-Empfehlungen umgesetzt (AI-Summary, Chat, Cohost+Lock, CRM-Link-Schema, Breakout, ConvertActionItemsToTasks)",
         "P0 Live-Rechtsrisiko: EU AI Act Art. 50 seit 2026-08-02, kein Disclosure/Audit-Layer für GenerateAISummary",
         "OpenTalk hat auf LiveKit umgestellt — Cosmi-Stack-USP verloren, Modul-Integration wird strategischer Kern"
+      ]
+    },
+    {
+      "week": "2026-W38",
+      "date": "2026-09-14",
+      "module": "wiki",
+      "output_file": "monthly/2026-09-14-deepdive-wiki.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-06-01-deepdive-wiki.md",
+      "highlights": [
+        "Editor-Umbau ausgeliefert seit W23 (shared DocumentBlockEditor 679 LOC, TipTap v3.20, [[wiki-links]], @mentions, WikiVersionDiff, Share-Token-Revocation)",
+        "W23-P0-Empfehlungen 2+3 NICHT ausgeliefert: ai_disclosure-Layer fehlt, wiki_articles.embedding fehlt — Meeting-AI-Summary läuft seit 2026-08-02 Art. 50 Enforcement OHNE Disclosure = 43 Tage Non-Compliance",
+        "P1 4-Wochen-Fenster: Cosmi-MCP-Server Wiki-Read-Ops (Docmost v0.96 hat MCP-OAuth, Outline hat MCP als Default)",
+        "Sales-Chance: Confluence Data Center EOL-Timeline + Atlassian Default-AI-Training-Opt-in = DACH-Migrations-Wave in Q4/2026"
+      ]
+    },
+    {
+      "week": "2026-W39",
+      "date": "2026-09-21",
+      "module": "helpdesk",
+      "output_file": "monthly/2026-09-21-deepdive-helpdesk.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-06-08-deepdive-helpdesk.md",
+      "highlights": [
+        "5/10 W24-Empfehlungen delivered: Mock→Backend-Wiring, KB-Article-Backend, CSAT-Backend (mit Mailer+Dispatch), Routing-Rules-Backend, Business-Hours-SLA — Backend 2419→4014 LOC (+66%), Frontend 2043→3197 LOC (+57%), 10 neue Migrationen, 5 neue Domain-Modelle",
+        "P0 unresolved: AI-Drafts + EU-LLM-Provider-Router + Article-50-Disclosure = null Code seit W24, aber Art. 50 durchsetzbar seit 2026-08-02 = Tag 50 Live-Enforcement",
+        "P0 unresolved: Dialer-Voice-zu-Ticket-Hook (event_emitter.go 25 LOC, keine Helpdesk-Subscriber) und pg_trgm Fuzzy-Merge (TODO unverändert)",
+        "Markt-Shifts: Salesforce→Fin $3.6B (2026-06-15), Zendesk→Forethought closed, Zammad 7.1 mit CVE-2026-34724 AI-Agent-RCE + 11 CVEs YTD (vs 4 in 2025), Freshworks MCP-Metering ab 2026-09-01",
+        "Neue W39-P0: AI-Compliance-Foundation-Sprint (Router+Disclosure+Draft als 1 Sprint-Paket, 6-8 Wochen), Cosmi-MCP-Server (W33-Keeper eskaliert, 6+ Wochen unresolved)",
+        "Falsch geliefert: Wiki-KB-vs-Helpdesk-KB — jetzt zwei parallele KB-Systeme (helpdesk_kb_articles Mig 000210 + wiki_articles) — braucht Konsolidierungs-Entscheidung",
+        "Neuer Cross-Modul-USP-Beweis: Migration 000267 helpdesk_ticket_contact_org via entity_links = echte CRM-Bridge (parallel zu W34-produktion material_availability.go)"
+      ]
+    },
+    {
+      "week": "2026-W40",
+      "date": "2026-09-28",
+      "module": "formulare",
+      "output_file": "monthly/2026-09-28-deepdive-formulare.md",
+      "zyklus": 2,
+      "delta_to": "monthly/2026-06-15-deepdive-formulare.md",
+      "highlights": [
+        "3.5/7 W25-Empfehlungen delivered (50%): SSRF-Schutz via safehttp (worker.go:61), Public-Rate-Limit via Gateway-Middleware (route_formulare.go:149-158), CSV/XLSX-Formula-Injection-Fix via csvutil.NeutralizeFormulaCell + dedizierter Test, Field-Type-Union-Fix `email` (Anti-Drift #1)",
+        "Zwei grosse Bonus-Deliveries nicht in W25 prognostiziert: B6 Intake-Target-Binding (Migration 000292, generisches Cross-Modul-Registry-Pattern mit heute helpdesk_ticket als einzigem Target, konkretester Cross-Modul-Proof-of-Concept im Repo) + B8 Public-Share-Tokens (Migration 000293, korrekte 3-Step-Sicherheits-Sequenz: System-Context-Lookup → Tenant-Resolve → Tenant-scoped-Write, Timing-safe 404, Race-Trx, File-Refusal)",
+        "Backend Production-Code 2117→2637 LOC (+25%), Test-Code 1753→3716 LOC (+112%), Test-Ratio jetzt 141% (best-getestetes Modul in Cosmi), 3 neue Migrationen (000292 intake_target, 000293 form_share_tokens, 000317 anonymized_at Retention), neues form_share.go (357 LOC)",
+        "Frontend FormularePage.tsx 2457→5605 LOC (+128%) — W25-Refactor-Empfehlung nicht ignoriert, sondern rueckwaerts-geliefert; 6 neue Drift-Achsen additiv zu 3 alten (consent+rating Pseudo-Types, closed-Status, FormSchema-Extra-Fields notifications/thankYouMessage/redirectUrl/closedMessage, ShareLink-Channel+Views frontend-only)",
+        "P0 Anti-Spam-Trias: Honeypot + Captcha + Spam-Status weiter null geliefert, aber B8-Public-Share-Tokens IST live-deployt — Anti-Spam ist nicht mehr Sprint-vor-GA, sondern Live-Production-Risk (12 Tage Sprint, CaptchaVerifier-Klasse existiert in security/captcha.go schon, nur nicht an formulare-Route gewired)",
+        "P0 AI-Compliance-Foundation-Sprint (W39-P0) unveraendert null Code — 66-Tage-Fenster bis Grace-Period-Ende 2026-12-02 fuer Machine-Readable-Marking; Wave-7C Meeting-AI-Summary an Tag 57 Non-Compliance",
+        "MCP-Server-Empfehlung (5-7 Tage) 15 Wochen ignoriert waehrend Tally+JotForm+Typeform in Claude+ChatGPT-Directory eingezogen sind; Typeform ISO/IEC 42001 (AI-Governance-Zertifizierung) Juni 2026 = neuer Compliance-Tabellenstake",
+        "Team-Muster W39 bestaetigt: schnell in Backend-Sicherheit + Cross-Modul-Domaenen-Model, langsam in Frontend-Refactor + AI-Compliance-Neuland; Delivery-Divergenz FE 4.8× schneller LOC-maessig als BE"
       ]
     }
   ]
