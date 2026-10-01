@@ -1,0 +1,459 @@
+{
+  "run_stats": {
+    "date": "2026-10-01",
+    "routine": "intel-morning",
+    "run_ts": "2026-10-01T04:02:26.863063+00:00",
+    "runtime_seconds": 39.8,
+    "items_scanned": 1096,
+    "items_after_dedup": 1010,
+    "items_after_prefilter": 681,
+    "hot_items_count": 20,
+    "sources_ok": 32,
+    "sources_failed": 18,
+    "failed_sources": [
+      "pipedrive-blog",
+      "hubspot-product",
+      "bexio-blog",
+      "centralstation-blog",
+      "odoo-blog",
+      "zendesk-blog",
+      "freshdesk-blog",
+      "helpscout-blog",
+      "front-blog",
+      "sevdesk-blog",
+      "aircall-blog",
+      "justcall-blog",
+      "dialpad-blog",
+      "anthropic-news",
+      "openai-blog",
+      "indiehackers",
+      "betalist",
+      "deeplearning-batch"
+    ]
+  },
+  "hot_items": [
+    {
+      "title": "KI-Agenten: Mittelstand verschläft Potenzial",
+      "url": "https://t3n.de/news/ki-agenten-mittelstand-verschlaeft-potenzial-1764951/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "published_at": "Wed, 30 Sep 2026 13:30:50 +0200",
+      "summary": "Während viele mittelständische Unternehmen KI-Agenten noch vorsichtig prüfen, zeigt Accio, Alibaba.coms agentische KI-Plattform für KMU und Solopreneurs, wie Agentic AI im B2B-Alltag entlasten kann: bei Recherche, Datenabgleich, Dokumentenprüfung und operativen Routineprozessen.<a href='https://t3n.",
+      "source_id": "t3n",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.68,
+      "id": "MOR-2026-10-01-i01"
+    },
+    {
+      "title": "[UPDATE] [hoch] HCL BigFix Compliance (Ruby): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2117",
+      "published_at": "Wed, 30 Sep 2026 10:07:52 GMT",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in HCL BigFix Compliance ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "source_id": "bsi-warnungen",
+      "trust": 10,
+      "module": "regulation",
+      "score": 0.612,
+      "id": "MOR-2026-10-01-i02"
+    },
+    {
+      "title": "Amsterdam’s preventive HealthTech Blue Health Intelligence raises €3.4 million to expand across Europe",
+      "url": "https://www.eu-startups.com/2026/09/amsterdam-based-preventive-healthtech-blue-health-intelligence-raises-e3-4-million-to-expand-across-europe/",
+      "published_at": "Wed, 30 Sep 2026 07:13:45 +0000",
+      "summary": "<p>Blue Health Intelligence, an Amsterdam-based preventive health care startup, has secured €3.4 million in funding for international expansion and further product development. The round was led by Knop Investments, with participation from entrepreneurs such as Jeroen Tas, former Chief Innovation an",
+      "source_id": "eu-startups",
+      "trust": 7,
+      "module": "funding",
+      "score": 0.595,
+      "id": "MOR-2026-10-01-i03"
+    },
+    {
+      "title": "Top 10: Speicher für Balkonkraftwerk im Test – ohne Cloud, mit Home Assistant",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-ohne-cloud-mit-home-assistant/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T20:00:00+02:00",
+      "summary": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal über Home Assistant ansteuern.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.544,
+      "id": "MOR-2026-10-01-i04"
+    },
+    {
+      "title": "OpenAI startet Dots: Dauerhaft aktive KI-Agenten mit eigenem Cloud-Computer",
+      "url": "https://www.heise.de/news/OpenAI-startet-Dots-Dauerhaft-aktive-KI-Agenten-mit-eigenem-Cloud-Computer-11470469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T09:17:00+02:00",
+      "summary": "OpenAI bringt mit Dots persönliche KI-Agenten, die dauerhaft und proaktiv Aufgaben übernehmen. In Europa sind sie zum Start nur eingeschränkt verfügbar.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.544,
+      "id": "MOR-2026-10-01-i05"
+    },
+    {
+      "title": "Helsinki-based KHOY raises €2 million to take its vacuum-packed sofa beds across Europe and the US",
+      "url": "https://www.eu-startups.com/2026/09/helsinki-based-khoy-raises-e2-million-to-take-its-vacuum-packed-sofa-beds-across-europe-and-the-us/",
+      "published_at": "Wed, 30 Sep 2026 06:07:05 +0000",
+      "summary": "<p>KHOY Company, a Helsinki-based direct-to-consumer design and furniture company, has raised €2 million in growth funding. The round was led by Finnish private equity investor Virta Equity, with participation from Innovestor and several angel investors. &#8220;KHOY has solved something the furnitur",
+      "source_id": "eu-startups",
+      "trust": 7,
+      "module": "funding",
+      "score": 0.476,
+      "id": "MOR-2026-10-01-i06"
+    },
+    {
+      "title": "How to use vector embeddings in AEO",
+      "url": "https://blog.hubspot.com/marketing/vector-embeddings-aeo",
+      "published_at": "Wed, 30 Sep 2026 17:30:04 GMT",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a href=\"https://blog.hubspot.com/marketing/vector-embeddings-aeo\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://www.hubspot.com/hubfs/how-to-use-vector-embeddings-in-aeo-1-20260926-2928418.webp\" alt=\"Vector embeddings in AEO\" class=\"hs-featured",
+      "source_id": "hubspot-marketing",
+      "trust": 8,
+      "module": "crm-core",
+      "score": 0.4692,
+      "id": "MOR-2026-10-01-i07"
+    },
+    {
+      "title": "AI search optimization tools: What actually works in 2026",
+      "url": "https://blog.hubspot.com/marketing/ai-search-optimization-tools",
+      "published_at": "Wed, 30 Sep 2026 17:30:04 GMT",
+      "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a href=\"https://blog.hubspot.com/marketing/ai-search-optimization-tools\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://www.hubspot.com/hubfs/Frank%20H/ai-search-optimization-tools-1-20260925-8233040.webp\" alt=\"AI search optimization tools\" clas",
+      "source_id": "hubspot-marketing",
+      "trust": 8,
+      "module": "crm-core",
+      "score": 0.4692,
+      "id": "MOR-2026-10-01-i08"
+    },
+    {
+      "title": "Germany’s Reverion raises €154.2 million to scale production of power plants that generate electricity from gas",
+      "url": "https://www.eu-startups.com/2026/09/germanys-reverion-raises-e154-2-million-to-scale-production-of-power-plants-that-generate-electricity-from-gas/",
+      "published_at": "Tue, 29 Sep 2026 12:00:59 +0000",
+      "summary": "<p>Reverion, an Eresing-based EnergyTech company that builds reversible fuel cell power plants for decentralised energy supply, today announced the closing of a €154.2 million ($175 million) Series B funding round to scale production of its dispatchable, carbon-negative power plants. The round was l",
+      "source_id": "eu-startups",
+      "trust": 7,
+      "module": "funding",
+      "score": 0.42,
+      "id": "MOR-2026-10-01-i09"
+    },
+    {
+      "title": "Salesforce has built the TSA a new AI agent to make travelling less awful for everyone",
+      "url": "https://www.salesforce.com/news/linked-content/salesforce-has-built-the-tsa-a-new-ai-agent-to-make-travelling-less-awful-for-everyone/",
+      "published_at": "Wed, 30 Sep 2026 17:00:06 +0000",
+      "summary": "",
+      "source_id": "salesforce-blog",
+      "trust": 7,
+      "module": "crm-core",
+      "score": 0.4105,
+      "id": "MOR-2026-10-01-i10"
+    },
+    {
+      "title": "Executive Intelligence podcast - Workday's Gerrit Kazmaier on facing down the SaaSpocalypse, and why Workday had to change before agentic AI took hold",
+      "url": "https://diginomica.com/executive-intelligence-podcast-workdays-gerrit-kazmaier-facing-down-saaspocalypse-and-why-workday",
+      "published_at": "Wed, 30 Sep 2026 08:21:02 -0700",
+      "summary": "Is it SaaSpocalypse vindication time? Not yet - for Workday, or for me. But now that Workday is getting agentic AI traction with customers, it's definitely time to ask: what's working, and why? As Gerrit Kazmaier reveals, for Workday to gain momentum, the company had to make significant internal cha",
+      "source_id": "diginomica",
+      "trust": 6,
+      "module": "tech-trends",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i11"
+    },
+    {
+      "title": "#Gastbeitrag  - Im KI-Zeitalter entscheidet die Execution – aber nicht so, wie alle denken",
+      "url": "https://www.deutsche-startups.de/2026/09/30/im-ki-zeitalter-entscheidet-die-execution-aber-nicht-so-wie-alle-denken/",
+      "published_at": "Wed, 30 Sep 2026 06:15:00 +0000",
+      "summary": "KI macht es schneller, ein Produkt zu bauen. Sie macht es nicht schneller, Vertrauen aufzubauen, regulatorische Feinheiten zu durchdringen oder in die Prozesse eines Industriekunden eingebettet zu werden. Ein Gastbeitrag von Felix Krause von Vireo Ventures.",
+      "source_id": "deutsche-startups",
+      "trust": 8,
+      "module": "funding",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i12"
+    },
+    {
+      "title": "KI in der Reha: Entlastung bei der Dokumentation, offene Fragen zum Arztberuf",
+      "url": "https://www.heise.de/news/KI-in-der-Reha-Entlastung-bei-der-Dokumentation-offene-Fragen-zum-Arztberuf-11471741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T21:28:00+02:00",
+      "summary": "Was bedeuten KI-Sprachmodelle für Rehakliniken? Ärzte diskutierten unter anderem über die Möglichkeiten, Kosten, Zeitersparnis und Deskilling.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i13"
+    },
+    {
+      "title": "Hör- statt Kamerabrille: Nuance Audio Plus startet in Deutschland",
+      "url": "https://www.heise.de/news/Hoer-statt-Kamerabrille-Nuance-Audio-Plus-startet-in-Deutschland-11471787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T18:38:00+02:00",
+      "summary": "EssilorLuxottica bringt seine zweite Hörbrillen-Generation nach Deutschland. Nuance Audio Plus verbessert Audio, Bedienung und Akkulaufzeit.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i14"
+    },
+    {
+      "title": "Grenzenlose Notfall-Kommunikation: EU plant Breitbandnetz für Einsatzkräfte",
+      "url": "https://www.heise.de/news/Grenzenlose-Notfall-Kommunikation-EU-plant-Breitbandnetz-fuer-Einsatzkraefte-11471767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T18:13:00+02:00",
+      "summary": "Die EU-Kommission schlägt ein Notfall-Kommunikationssystem vor. Sie will Einsatzkräften das grenzüberschreitende Koordinieren erleichtern und mehr Souveränität.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i15"
+    },
+    {
+      "title": "PaperFlux druckt die GitHub-News auf Kassenzettel",
+      "url": "https://www.heise.de/news/PaperFlux-druckt-die-GitHub-News-auf-Kassenzettel-11471597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T17:30:00+02:00",
+      "summary": "GitHub-Aktivitäten zum Abreißen: PaperFlux erzeugt wöchentlich einen Statistikkassenzettel.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i16"
+    },
+    {
+      "title": "Amazon: Neuer Fire TV Stick 4K läuft mit Vega OS statt Android",
+      "url": "https://www.heise.de/news/Amazon-Neuer-Fire-TV-Stick-4K-laeuft-mit-Vega-OS-statt-Android-11471545.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T17:01:00+02:00",
+      "summary": "Amazon bringt einen neuen Fire TV Stick 4K mit Vega OS auf den Markt. Dazu gibt es eine neue Alexa-Fernbedienung, die sich blind bedienen lassen soll.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i17"
+    },
+    {
+      "title": "Airbnb Herbst-Update: KI-Suche, Social-Funktionen und mehr",
+      "url": "https://www.heise.de/news/Airbnb-Herbst-Update-KI-Suche-Social-Funktionen-und-mehr-11471283.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T15:35:00+02:00",
+      "summary": "Airbnb stellt sein Herbst-Update vor. Die größten Neuerungen sind eine KI-Suche, eine Vernetzungsfunktion mit Freunden und zusätzliche Angebote.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i18"
+    },
+    {
+      "title": "66,80 Euro: Nächste Preiserhöhung fürs Deutschlandticket steht fest",
+      "url": "https://www.heise.de/news/Deutschlandticket-wird-ab-Janaur-2027-erneut-teurer-11471438.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "published_at": "2026-09-30T15:29:00+02:00",
+      "summary": "Das Deutschlandticket wird wieder einmal teurer. Von derzeit 63 Euro erhöht es sich ab Januar 2027 auf knapp 67 Euro.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i19"
+    },
+    {
+      "title": "heise+ | Snapdragon 8 Elite Gen 6: Was der neue Qualcomm-Chip wirklich bringt",
+      "url": "https://www.heise.de/tests/Snapdragon-8-Elite-Gen-6-Was-der-neue-Qualcomm-Chip-wirklich-bringt-11420910.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "published_at": "2026-09-30T15:00:00+02:00",
+      "summary": "Der Snapdragon 8 Elite Extreme Gen 6 kommt als erster Mobilprozessor mit 5 GHz. Doch die Taktfrequenz ist dabei längst nicht alles.",
+      "source_id": "heise-atom",
+      "trust": 8,
+      "module": "cross",
+      "score": 0.408,
+      "id": "MOR-2026-10-01-i20"
+    }
+  ],
+  "source_stats": {
+    "hackernews-front": {
+      "fetched": 29,
+      "error": null
+    },
+    "pipedrive-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "hubspot-marketing": {
+      "fetched": 50,
+      "error": null
+    },
+    "hubspot-product": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "salesforce-blog": {
+      "fetched": 10,
+      "error": null
+    },
+    "monday-blog": {
+      "fetched": 0,
+      "error": null
+    },
+    "bexio-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "centralstation-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "odoo-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "odoo-releases": {
+      "fetched": 1,
+      "error": null
+    },
+    "twenty-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "espocrm-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "suitecrm-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "zendesk-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "freshdesk-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "zammad-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "helpscout-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "front-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "intercom-blog": {
+      "fetched": 10,
+      "error": null
+    },
+    "sevdesk-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "lexoffice-blog": {
+      "fetched": 12,
+      "error": null
+    },
+    "akaunting-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "aircall-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "justcall-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "dialpad-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "anthropic-news": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "openai-blog": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "selfh-st": {
+      "fetched": 25,
+      "error": null
+    },
+    "diginomica": {
+      "fetched": 10,
+      "error": null
+    },
+    "indiehackers": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "betalist": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "techcrunch-funding": {
+      "fetched": 20,
+      "error": null
+    },
+    "sifted-eu": {
+      "fetched": 24,
+      "error": null
+    },
+    "deutsche-startups": {
+      "fetched": 15,
+      "error": null
+    },
+    "eu-startups": {
+      "fetched": 10,
+      "error": null
+    },
+    "aitidbits": {
+      "fetched": 20,
+      "error": null
+    },
+    "deeplearning-batch": {
+      "fetched": 0,
+      "error": "fetch_failed"
+    },
+    "lenny-newsletter": {
+      "fetched": 20,
+      "error": null
+    },
+    "webrtchacks": {
+      "fetched": 10,
+      "error": null
+    },
+    "heise-atom": {
+      "fetched": 153,
+      "error": null
+    },
+    "gaia-x": {
+      "fetched": 10,
+      "error": null
+    },
+    "noyb": {
+      "fetched": 287,
+      "error": null
+    },
+    "bsi-warnungen": {
+      "fetched": 250,
+      "error": null
+    },
+    "edpb-newsroom": {
+      "fetched": 0,
+      "error": null
+    },
+    "papershift-blog": {
+      "fetched": 20,
+      "error": null
+    },
+    "weclapp-blog": {
+      "fetched": 0,
+      "error": null
+    },
+    "livekit-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "nextcloud-releases": {
+      "fetched": 10,
+      "error": null
+    },
+    "t3n": {
+      "fetched": 20,
+      "error": null
+    },
+    "computerwoche": {
+      "fetched": 20,
+      "error": null
+    }
+  },
+  "filtered_count": 681
+}
