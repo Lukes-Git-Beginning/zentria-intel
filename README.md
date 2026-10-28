@@ -2,6 +2,9 @@
 
 > Taeglich. Discord-Native. €0 Mehrkosten. Recall in Modul-Sessions.
 
+> **⏸ Pausiert seit 2026-10-28.** Alle Timer, der Discord-Bot und browserless auf dem Hetzner-CPX42
+> sind gestoppt. Wiederaufnahme: siehe [Pausieren & Fortsetzen](#pausieren--fortsetzen).
+
 Privates Intel-Repo fuer das Cosmi-/Zentria-Team. Scannt taeglich (06:00 + 17:00 Berlin) den DACH-/Global-CRM-/KMU-Markt, synthesiert Freitag-Morgens (05:30) einen Wochen-Report nach Discord, persistiert gepickte Insights als Keepers fuer Recall in spaeteren Code-Sessions.
 
 ## Schnellstart
@@ -101,6 +104,46 @@ docker-compose.yml  Bot-Service (build context Repo-Root)
 - **Freitag (~15 min):** Discord-Friday-Report durchklicken, Picks setzen
 - **Monatlich (~30 min):** Quellen-Liste pruefen, 0-Pick-Quellen muten, neue dazu
 - **Quartalsweise (~1h):** State-of-CRM-Bericht lesen, strategische Anpassungen
+
+## Pausieren & Fortsetzen
+
+Stand 2026-10-28: pausiert, weil die Reports derzeit niemand liest. Gestoppt sind auf dem CPX42
+(`ssh -i ~/.ssh/hetzner_kmuhub deploy@178.104.38.195`):
+
+- alle 8 `zentria-intel-routine@*.timer` (disabled, Persistent-Stempel gelöscht),
+- der Container `zentria-intel-intel-bot-1` (`docker compose stop`, kein `down`),
+- der Container `browserless` (wird nur von hier genutzt).
+
+Bewusst **nicht** gestoppt: Ollama (Standard-LLM von KMU Hub) und der Discord-Server samt Webhooks
+(dort liegt auch `#cosmi-prod-alerts` des KMU-Hub-Alertmanagers). Repo, `.env`, `.state`, Logs und
+Unit-Files liegen unverändert in `/opt/zentria-intel` bzw. `/etc/systemd/system`.
+
+**Fortsetzen** (auf dem Server, in `/opt/zentria-intel`):
+
+```bash
+# 1. GitHub-Token in der Remote-URL erneuern. Der Push vom Server scheitert seit 2026-08-03
+#    ("could not read Password"); die Outputs bis 2026-10-28 wurden am Pausentag nachgespiegelt.
+git remote set-url origin https://<user>:<neuer-PAT>@github.com/Lukes-Git-Beginning/zentria-intel.git
+git pull --ff-only origin main
+# 2. Timer wieder aktivieren (idempotent). Ohne Stempel laufen keine verpassten Routinen nach,
+#    der erste Lauf ist der nächste reguläre Termin.
+sudo bash deploy/install-routines.sh
+# 3. Bot und Scraping-Service starten
+docker compose start intel-bot
+docker start browserless
+```
+
+**Erneut pausieren:**
+
+```bash
+for t in intel-morning intel-deep intel-friday intel-weekend-regulation intel-monday-deepdive \
+         intel-monthly-pricing intel-monthly-jobs intel-quarterly-state; do
+  sudo systemctl disable --now "zentria-intel-routine@${t}.timer"
+  sudo systemctl clean --what=state "zentria-intel-routine@${t}.timer"
+done
+docker compose stop intel-bot
+docker stop browserless
+```
 
 ## Externe Kosten
 
